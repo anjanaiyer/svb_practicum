@@ -1,0 +1,17 @@
+lp_type_id,type
+1,Asset Manager
+3,Corporate
+4,Family Office
+5,Foundation / Endowment
+8,Insurance Company
+9,Investment Firm
+12,Public Pension Fund
+13,Gatekeepers
+17,Fund of Funds Manager
+18,Independent Firm
+19,Bank Subsidiary/Division
+20,Corporate Subsidiary/Division
+23,Government Related Investment Organisation
+25,Bank / Financial Services
+26,Private Pension Fund
+27,Sovereign Wealth Fund

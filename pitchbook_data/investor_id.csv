@@ -1,0 +1,3336 @@
+﻿investor_id,investor_name
+1,Spruce Investment Advisors
+2,CAIS
+3,South Africa Alpha Capital Management
+4,Alpha Partners
+5,TEXO Ventures
+6,Caerus Investment Advisors
+7,Emerald Development Managers
+8,Fundamental Global Investors
+9,Old Hill Partners
+10,Strong Ventures
+11,Tomales Bay Capital
+12,Dynamo Ventures
+13,Flohr Asset Management
+14,JC Clark
+15,Loft Growth Partners
+16,MicroVest Capital Management
+17,Perella Weinberg Partners (NAS: PWP)
+18,Portfolia
+19,Steele Creek Investment Management
+20,3Sisters Sustainable Management
+21,Accelerate Financial Technologies
+22,Blue Elephant
+23,Cross Shore Capital Management
+24,Cultivation Capital
+25,Deer Park Road
+26,DoubleBlue Capital Management
+27,Energea Global
+28,FQS Capital Partners
+29,Healthbox
+30,lnnovius Capital
+31,lnvictus
+32,Lee Capital Management
+33,LionTree Partners
+34,Media Development Investment Fund
+35,Multicoin Capital
+36,Parallaxes Capital
+37,Plutus21 Capital
+38,Point Olema Capital Partners
+39,STORY3 Capital Partners
+40,TEDCO
+41,Verdad
+42,Winebrenner Capital Partners
+43,Yorkville Advisors
+44,1984 Ventures
+45,Alpha Wealth Funds
+46,Amity Ventures
+47,ATHOS Private Wealth
+48,Block.one
+49,Blue Opal Capital
+50,BVM Capital
+51,Capital Factory
+52,Chesapeake Capital
+53,Chinus Asset Management
+54,Clocktower Technology Ventures
+55,Closed loop Partners
+56,Credit Capital Investments
+57,Eastlink Capital
+58,Eastside Partners
+59,EHP Funds
+60,European Investment Management Services
+61,Explorador Capital Management
+62,Gatemore Capital Management
+63,Global Frontier Investments
+64,Goodwood
+65,Helm Investment Partners
+66,Inherent Group
+67,International Capital Management Corporation
+68,JCP Investment Management
+69,Meson Capital Partners
+70,Meyer Global Management
+71,Millcreek Asset Management
+72,NextGen Venture Partners
+73,NuWave Investment Management
+74,Ohana Real Estate Investors
+75,Oppenheimer + Close
+76,Ospraie Management
+77,Phyto Partners
+78,Poseidon Asset Management
+79,Precursor Ventures
+80,Preserver Partners
+81,Resolute Ventures
+82,Rexus Investment Fund
+83,S28 Capital
+84,Saturn Partners
+85,Seamans Holdings
+86,Sony Innovation Fund
+87,Star Asia
+88,Tabor Asset Management
+89,Trilinc Global
+90,Valence Life Sciences
+91,Zephyr Management
+92,4DX Ventures
+93,Acrewood Holdings
+94,Advantage Capital (Saint Louis)
+95,AgFunder
+96,AIG Global Real Estate
+97,AlbumVC
+98,Alder Capital
+99,AlphaOne Capital Partners
+100,Altira Group
+101,Antler (Private Equity)
+102,Aperture Venture Partners
+103,Arctic Ventures
+104,Augment Ventures
+105,Authentic Ventures
+106,Backstage Capital
+107,Bay Capital Ventures
+108,Bee Partners
+109,Bioeconomy Capital
+110,Bloomfield Capital
+111,Bluestem Capital Company
+112,Bonfire Ventures
+113,BoostVC
+114,Borealis Strategic Capital Partners
+115,Bright Equities
+116,Builders VC
+117,Cadenza Capital
+118,Caffeinated Capital
+119,Carter-Haston
+120,Castle Ridge Asset Management
+121,Catapult VC
+122,Chainlink Capital Management
+123,Chicago Ventures
+124,Cleo Capital
+125,Coelius Capital
+126,Construct Capital (Washington DC)
+127,Core Innovation Capital
+128,CourtsideVC
+129,Cowboy Ventures
+130,CreativeCo Capital
+131,DaVinci Capital Partners
+132,Discovery Capital
+133,Dot Capital
+134,E8
+135,Equal Ventures Management
+136,Euclidean Technologies Management
+137,Fairview Partners
+138,FCA Venture Partners
+139,Feenix Venture Partners
+140,ff Venture Capital
+141,Five Keys Capital Advisors
+142,Flint Capital
+143,Florida Funders
+144,Fourpoints Asset Management
+145,Friedberg Mercantile Group
+146,FundersClub
+147,FundNV
+148,Gator Capital Management
+149,Gilgamesh Ventures
+150,Good Growth Capital
+151,Haystack Management Company
+152,Heavybit
+153,Hyperplane Venture Capital
+154,i80 Group
+155,IBS Capital
+156,iGan Partners
+157,Interplay Ventures
+158,lntudo Ventures
+159,Kellner Capital
+160,Lachy Groom
+161,Laidlaw & Company
+162,Lanier Asset Management
+163,Learnlaunch Fund+ Accelerator
+164,Link Ventures
+165,Logica Capital Advisers
+166,Lumen Advisors
+167,LW Investment Management (Miami)
+168,Mango Capital (Venture Capital)
+169,Mantis VC
+170,MFVPartners
+171,Mittleman Brothers Investment Management
+172,Moxxie Ventures
+173,Nebari Holdings
+174,NGN Capital
+175,Nomura Global Alpha
+176,Old Greenwich Capital Partners
+177,Parametric Clifton
+178,Perini Capital Partners
+179,Pluscios Management
+180,Raine Ventures
+181,Rand Advisors
+182,Recurring Capital Partners
+183,Red & Blue Ventures
+184,Red Oak Partners
+185,Red Sea Ventures
+186,Reign Ventures
+187,Right Side Capital Management
+188,Rollins Capital
+189,Sage Equity Partners
+190,Scientific Health Development
+191,Scribble Venrures
+192,SemperVirens Venture Capital
+193,SER Capital Partners
+194,ShangBay Capital
+195,Shine Capital
+196,Shrug Capital
+197,Silvermine Capital Partners
+198,Sovereign's Capital
+199,Spitfire Capital
+200,SpringOwl Asset Management
+201,Strategy Capital
+202,Tachyon Ventures
+203,Tech Square Ventures
+204,The House Fund
+205,TheVentureCity
+206,Third Prime
+207,Torch Capital
+208,Tusk Venture Partners
+209,Urban Oil & Gas Group
+210,Urbanite Capital
+211,Venus Capital Management
+212,Verdis Investment Management
+213,Vertical Venture Partners
+214,VestedWorld
+215,Village Global
+216,VPE Capital
+217,Walbert Capital Management
+218,Weber Capital Management
+219,Windcrest Partners
+220,Wonder Ventures
+221,XYZ-Ventures
+222,Zeev Ventures
+223,1414 Ventures
+224,1543 Capital
+225,3ig Ventures
+226,4BIO Capital Partners
+227,500 Southeast Asia
+228,Abstract Ventures
+229,AC Investment Management
+230,Acacia Partners
+231,Accelerator Life Science Partners
+232,Acequia Capital
+233,Acorn Bioventures
+234,Acorn Pacific Ventures
+235,Active Capital
+236,Adair Capital
+237,Adaptive Health Capital
+238,Aetolia Capital
+239,Afore Capital
+240,Agent Capital
+241,AI8 Ventures
+242,AiiM Partners
+243,Alexander Capital Advisors
+244,Alidade Capital
+245,Alpha Innovations
+246,Alphemy Capital
+247,Alta Fox Capital
+248,Altema Asset Management
+249,Altitude Ventures
+250,Ampfield Management
+251,Amplify.LA
+252,Anacapa Partners
+253,AnD Ventures
+254,Angel Ventures Mexico
+255,Angular Ventures
+256,Ankona Capital
+257,Anorak Ventures
+258,Applied Fundamental Research
+259,AQC Capital
+260,Aragon Global Management
+261,Aravaipa Ventures
+262,Arborview Capital
+263,Arcadian Capital
+264,Archer Venture Capital
+265,Arctaris Capital Partners
+266,Argonautic Ventures
+267,Arkay Ventures
+268,Ascend Venture Capital
+269,Ascent Capital (US)
+270,Asia Alpha
+271,Aspenwood Ventures
+272,Asset Management Ventures
+273,Astia
+274,At One Ventures
+275,Atlas Impact Partners
+276,Austin Capital Funds
+277,Azafran Capital Partners
+278,B37 Ventures
+279,Banner Ridge Partners
+280,Bering Capital
+281,Better Ventures
+282,Binance
+283,Binney Street Capital
+284,Bislett Management
+285,Blaine Capital
+286,Blockchain Coinvestors
+287,Blu Venture Investors
+288,Blue Heron Capital
+289,Blue like an Orange Sustainable Capital
+290,Blue Pine Partners
+291,Blue Scorpion Investments
+292,Bluehenge Capital Partners
+293,Bonanza Capital
+294,Borealis Ventures
+295,Born Capital.
+296,Bore Capital
+297,Boston Capital
+298,Boston Family Advisors
+299,Boutique Venture Partners
+300,Bow Capital
+301,Boyd Street Ventures
+302,Bramalea Partners
+303,Break Trail Ventures
+304,Breakwater Management
+305,Brewer Lane Ventures
+306,Brick & Mortar Ventures
+307,Brightstone Venture Capital
+308,Building Ventures
+309,Caduceus Capital Partners
+310,Callais Capital Management
+311,Cantos Ventures
+312,Capital Eleven
+313,Capital Invent
+314,Capital Markets Trading
+315,Capital Midwest Fund
+316,Capital Trust Advisors
+317,CapRidge Partners
+318,Capstone Capital Partners
+319,Carnegie Park Capital
+320,Carrelton Asset Management
+321,Carson Private Capital
+322,Cascade Seed Fund
+323,Castle Island Ventures
+324,Castlestone Management
+325,Catchlight Capital Partners
+326,Center on Rural Innovation
+327,CerraCap Ventures
+328,Chamaeleon
+329,Chambers Street Capital Management(NYS:GPT)
+330,Chartline Capital Partners
+331,Chenel Capital
+332,Cherry Tree Investments
+333,Chestnut Street Ventures
+334,Chingona Ventures
+335,Cigna Ventures
+336,Cintrifuse
+337,Cipher Technologies
+338,CircleUp Network
+339,Circumference Group
+340,CitizenX
+341,Citymark Capital
+342,Claritas Capital
+343,Clarium Capital Management
+344,Claughton Capital
+345,Clear Current Capital
+346,Clerisy
+347,CMT Digital
+348,Codon Capital
+349,Coefficient Capital
+350,Cofounders Capital
+351,Coinfund
+352,Colbeck Capital Management
+353,Commodore Capital
+354,Communitas Capital Partners
+355,Community Investment Management
+356,Company Ventures
+357,Compound
+358,Concord Health Partners
+359,Conexo Ventures
+360,Conscious Venture Lab
+361,Contrary Capital
+362,Conversion Capital
+363,Corrib Capital Management
+364,Cortado Ventures
+365,COSIMO Ventures
+366,Crescent Cove Advisors
+367,Crescent Fund
+368,CrowdStreet
+369,Cruiser Capital Advisors
+370,Crystalline Management
+371,CSV Capital Partners
+372,Cue Ball
+373,Curate Capital
+374,Current Yield with Participation Fund
+375,D. One Vision Management
+376,Dallas Venture Capital
+377,Dalus Capital
+378,DataTribe
+379,DCA Capital Partners
+380,Decentral Park Capital
+381,Decibel Partners
+382,Deepwork Capital
+383,Delaware Innovation Space
+384,Dev Equity
+385,Diagram Ventures
+386,Differential Ventures
+387,DILACapital
+388,Disruptive Technologies Venture Capital
+389,Divyde Capital Partners
+390,Dorsey Asset Management
+391,Draper Goren Holm
+392,Draper Richards Kaplan Foundation
+393,Duhne Investments
+394,Dundee Venture Capital
+395,DWD Partners
+396,E14 Fund Management
+397,e360 Power
+398,Eachwin Capital
+399,Eagle Venture Fund
+400,Earthrise Capital
+401,Earthshot Ventures
+402,East Chop Capital
+403,Elanus Capital Management
+404,Elevar Equity
+405,Elevate Ventures
+406,Elsewhere Partners
+407,Emerald Peak Impact Private Equity
+408,Emergent Ventures
+409,Encourage Capital
+410,Endeavor Catalyst
+411,Endowment Research Group
+412,Energy Transition Ventures
+413,EnerTech Capital
+414,Entourage Effect Capital
+415,EQUIAM
+416,Eutopia
+417,Evening Fund
+418,Evok Innovations
+419,Evolution Private Investment Collective
+420,Excelerate Health Ventures
+421,Exigent Alternative Capital
+422,Expanding Capital
+423,ExWorks Capital
+424,Fairway Capital Management
+425,Farol Asset Management
+426,FCA Health Innovations
+427,Fernbrook Capital Management
+428,Fernwood Investment Management
+429,Financial Venture Studio
+430,First Ascent Ventures
+431,First Hedge Capital Management
+432,First In
+433,First Launch Capital Fund
+434,Fledge
+435,Fluke Venture Partners
+436,Flying Fish Partners
+437,Flywheel Ventures
+438,Foothill Ventures
+439,Fores Ventures
+440,Formation Venture Engineering
+441,Forte Ventures
+442,Fortis Capital Management
+443,Fortress Partners Capital Management
+444,Forum Asset Management
+445,Founders Equity Partners
+446,Founders First Capital Partners
+447,Frist Cressey Ventures
+448,Front Row
+449,Front Street Capital (Winston-Salem)
+450,Fuel Venture Capital
+451,Fulcrum Global Capital
+452,Full In Partners
+453,FullCycle
+454,Fuse (Seattle)
+455,FusionX Ventures
+456,Future\Perfect Ventures
+457,FVLCRUM Funds
+458,Gary Vaynerchuk
+459,Genesis Innovation Group
+460,Genesis Ventures
+461,Genius Guild
+462,Genoa Ventures
+463,Genome British Columbia
+464,GenSpring Family Offices
+465,GFR Fund
+466,Ginepri Capital Partners
+467,Glean Capital
+468,Gold House Ventures
+469,Goldcrest Capital
+470,Grand Ventures
+471,Gravity Ventures
+472,Gray Ventures
+473,Great North Ventures
+474,GreenSky Capital
+475,Greybull Stewardship
+476,Groove Capital
+477,Guadalajara Angel Investor Network
+478,H Venture Partners
+479,Halstatt
+480,Hambrecht Ducera Growth Ventures
+481,Hangar 4 Partners
+482,Harbinger Ventures
+483,Harbor lthaka Wealth Management
+484,Harbright Ventures
+485,Harlan Capital Partners
+486,Harmonic Growth Partners
+487,Harvest Returns
+488,Hatch Biofund Management
+489,Haymaker Ventures
+490,Headlands Asset Management
+491,Heartland Venture
+492,Heda Ventures
+493,Hickory Lane Capital Management
+494,HighCape Capital
+495,Hilbert 8
+496,HIP Investor
+497,Homaer International
+498,Horn Eichenwald Investments
+499,Huck Capital
+500,Hudson Advisors
+501,Hunter Trust
+502,Hustle Fund
+503,HX Venture Fund
+504,ldealabx
+505,IDED CoLab Ventures
+506,lllumen Capital
+507,Illuminate Ventures
+508,Impact Engine
+509,Impression Ventures
+510,Incisive Ventures
+511,lnCube Ventures
+512,Inflection Equity
+513,Innovation Partnerships at the University of Michigan
+514,Innovative Portfolios
+515,Integral Capital Partners
+516,lntelliVenture Group
+517,lnvemus Capital Partners
+518,Invest Detroit Ventures
+519,Invest Nebraska
+520,Invest Northern Ireland
+521,Investors Diversified Realty
+522,IP Group North America
+523,Ironsides Partners
+524,Irvington Capital
+525,Israel Investment Advisors
+526,JourneyOne Ventures
+527,Jumpstart Health Investors
+528,Juniper Investment Company
+529,Kairos HQ
+530,Kairos Ventures
+531,Karmel Capital
+532,KB Partners
+533,KdT Ventures
+534,Keiretsu Capital
+535,Kenter Canyon Capital
+536,Kirenaga
+537,KL Capital Investments
+538,Knickerbocker Capital (t-.ew York)
+539,Krusen Capital Management
+540,L.R.L. Capital
+541,Laconia Capital Group
+542,Lakehouse Ventures
+543,Las Olas Venture Capital
+544,LATVC
+545,Launchpad Capital
+546,Laurence Innovation
+547,LDVCapital
+548,LDV Partners
+549,Legacy Ventures Partners
+550,Lehigh Valley Private Equity Fund
+551,Lewis & Clark Ventures
+552,Lexion Capital
+553,LifeSci Venture Partners
+554,LionBird
+555,Liquid Stock
+556,Lone Peak Partners Management
+557,Longevity Vision Fund
+558,LRVHealth
+559,Ludlow Ventures
+560,Lydia Partners
+561,Lynett Capital
+562,Lytical Ventures
+563,Ma( Venture Capital
+564,MagnifyVC
+565,ManchesterStory
+566,MaRS Investment Accelerator Fund
+567,Massif Capital
+568,Matrix Planning
+569,Maven Ventures
+570,MBX Capital
+571,MCP Asset Management Company
+572,Medical Excellence Capital
+573,MedMountain Ventures
+574,Megatel Capital Investment
+575,Meridian Street Capital
+576,MetaProp NYC
+577,Metavasi Capital
+578,MGV Capital Group
+579,MHP Real Estate Services
+580,Michigan Angel Fund
+581,MiLA Capital
+582,MissionOG
+583,Mistral Venture Partners
+584,MizMaa Ventures
+585,Monachil Capital Partners
+586,Moneta Ventures
+587,Montage Ventures
+588,MONTICELLOAM
+589,Mosaic Capital Partners
+590,Mosaik Partners
+591,Motus Ventures
+592,Mutual Capital Partners
+593,My.Games Venture Capital
+594,Natural Products Canada
+595,Navigate Ventures
+596,NetService Ventures
+597,New Markets Venture Partners
+598,New Paradigm Capital Management
+599,New Summit Investments
+600,Nexit Ventures
+601,Next Generation Technology
+602,Next Ventures (Texas)
+603,NextEquity Partners
+604,Nexus Capital
+605,NFP Ventures
+606,NGIFCleamech Ventures
+607,Night Ventures
+608,Norselab
+609,North Island Ventures
+610,NRG Ventures
+611,OceanlQ Capital
+612,Oceans Ventures
+613,Ocelot Capital Management
+614,Offline Ventures
+615,Omaha Beach Capital
+616,Omidyar Network
+617,OnePrime Capital
+618,ONEVC
+619,Onsight Capital Management
+620,Open Field Capital
+621,Operator Collective
+622,Opus8
+623,Oregon Venture Fund
+624,OS Fund
+625,OSFVentures
+626,Oyster Ventures
+627,P.A.W. Capital Partners
+628,Pactolus
+629,Panache Ventures
+630,Pando Ventures (Utah)
+631,Pangaea Ventures
+632,Pangea Blockchain Fund
+633,Parliament Capital Management
+634,Paskewitz Asset Management
+635,Peapod Lane Capital
+636,Pearson Ventures
+637,Pelorus Equity Group
+638,Pemigewasset Capital
+639,Pender Ventures
+640,Phalanx Capital Management
+641,Phoenix Venture Partners
+642,Pico Pan:ners
+643,Piedmont Investment Advisory
+644,Pine Street Alternative Asset Management
+645,Pioneer Fund (San Francisco)
+646,Pitbull Ventures
+647,Plexo Capital
+648,Plum Alley Investments
+649,Plus Capital
+650,Plymouth Growth
+651,Portland Seed Fund
+652,Powerhouse Capital (California)
+653,Prescott Group
+654,Presidio View Capital
+655,Privet Fund Management
+656,Profec Partners
+657,Progression Fund
+658,Prudence
+659,Prudent Capital
+660,QSTCapital
+661,Quest Ventures
+662,Quidnet Ventures
+663,R2 Risk & Return
+664,Race Capital
+665,Railroad Ranch Capital Management
+666,Rain Capital
+667,Raindrop Partners
+668,Rainmaking (UK)
+669,Razor's Edge Ventures
+670,Red River West
+671,Reflow
+672,Reinventure Capital Fund I
+673,Relay Investments
+674,Relentless Venture Fund
+675,Revere Capital
+676,Rhapsody Venture Partners
+677,Rhino Ventures
+678,Rincon Venture Partners
+679,Ripple Ventures
+680,RM Global Partners
+681,Roble Ventures
+682,rocketship.vc
+683,Rod Capital Management
+684,Root Ventures
+685,Rosemoor Capital
+686,RVX Asset Management
+687,Rx3 Growth Partners
+688,SaaS Ventures
+689,Sancta Capital
+690,Sandalphon Capital
+691,Sandpiper Asset Management
+692,Satwik Ventures
+693,Savannah College of Art and Design
+694,Savano Capital Partners
+695,Scale Asia Ventures
+696,Scale-Up Venture Capital
+697,Scaleworks
+698,Schultze Asset Management
+699,Science
+700,SeaChange Fund
+701,Search Fund Partners
+702,Seed Milestone Fund
+703,Seedlnvest
+704,SEMCAP
+705,SeventySix Capital
+706,Shaker Investments
+707,ShangPharma Innovation
+708,ShariaPortfolio
+709,Sheffield Asset Management
+710,Sigma Prime Ventures
+711,Signia Venture Partners
+712,Silver 8 Capital
+713,SixThirty Ventures
+714,Sixty8 Capital
+715,SK Ventures
+716,Sky Leasing
+717,Sleeping Giant Capital
+718,SLM Partners
+719,SML Capital (New York)
+720,SMP Asset Management
+721,Snowpoint Ventures
+722,SoGal Ventures
+723,Solas BioVentures
+724,Sound Media Ventures
+725,Source Capital
+726,Southern Equity
+727,Space Capital
+728,SpaceFund
+729,SparkLabs Group
+730,Spider Capital
+731,Spiral Sun Ventures
+732,Spring Bridge Partners
+733,Squadra Ventures
+734,Stallion Capital Management
+735,Starlight Ventures
+736,Start Co.
+737,Starta Ventures
+738,StarVest Partners
+739,State Farm Ventures
+740,Stillwater Asset Management
+741,Stone Mountain Venture
+742,Stonepine Capital Management
+743,Strandview
+744,Stray Dog Capital
+745,Streamlined Ventures
+746,SunBridge Partners
+747,Supermoon Capital
+748,Sutra Ventures
+749,Switch Ventures
+750,T. Rose & Associates
+751,Tamarind Hill
+752,TampaBay.Venrures
+753,Tau Ventures
+754,Taylor Derrick Capital
+755,TCP Venture Capital
+756,TDFVentures
+757,Team8
+758,Teamwonhy Ventures
+759,TechFarms Capital
+760,Telescope Partners
+761,Tenacity Venture Capital
+762,Tenere Capital
+763,TenOneTen Ventures
+764,Texas Halo Fund
+765,The Argentum Group
+766,The Builders Fund
+767,The Executive Forum
+768,The Hina Group
+769,The Hive
+770,The Impact Investors
+771,The Pearl Fund limited Partnership
+772,The Venture Reality Fund
+773,Think+
+774,Thurston Group
+775,Tianyou Asset Management
+776,Tidal Ventures (Australia)
+777,Top Harvest Capital
+778,Topmark Partners
+779,Travel Capitalist Ventures
+780,Triarii Capital
+781,Trident
+782,Trueks Venture Capital
+783,True Wealth Ventures
+784,TSVC
+785,Tullis Health Investors
+786,Turner Impact Capital
+787,Two Lanterns Venture Partners
+788,Type One Ventures
+789,UCeed
+790,Ultra Capital
+791,UnionRock Partners
+792,Unovis Asset Management
+793,Upshot Capital Advisors
+794,Urban Capital Network
+795,Urban Innovation Fund
+796,Urbana Varro
+797,V1.vc
+798,Vectr Fintech Partners
+799,Velvet Sea Ventures
+800,Venture Capital fund of America
+801,Verge Fund
+802,Village Capital
+803,Vine Capital Management
+804,Vistara Growth
+805,Vocap Investment Partners
+806,Vodia Capital
+807,Volery Capital Partners
+808,VTC Ventures
+809,W Investments Group
+810,Warren Financial Services
+811,Warwick Investment Management
+812,Watts Gwilliam & Company
+813,Wave Capital
+814,Waverley Capital
+815,WestWave Capital
+816,Whiteboard Venture Partners
+817,Will Ventures
+818,Wireframe Ventures
+819,Working Capital
+820,Yash Ventures
+821,Yes VC
+822,York Asset Management
+823,Zane Venture Fund
+824,Ziegler (PINX: ZGCO)
+825,11 Tribes Ventures
+826,11.2 Capital
+827,1517 Fund
+828,180 Degree Capital (NAS: TURN)
+829,1843 Capital
+830,1955 Capital
+831,1st Course Capital
+832,1to1 Venture Partners
+833,1Up Ventures
+834,2.0 Ventures
+835,341 Ventures
+836,3M Foundation
+837,3pm Ventures
+838,3rd Creek
+839,3x5 Partners
+840,424 Capital
+841,4490 Ventures
+842,49th State Angel Fund
+843,645 Ventures
+844,7 Gate Ventures
+845,76 Forward
+846,8808 Ventures
+847,9Mile Labs
+848,A.James & Alice 8. Clark Foundation
+849,A.Capital Ventures
+850,AAF Management
+851,AAVIN Private Equity
+852,ABB Technology Ventures
+853,Abernathey Holding Co
+854,Abernathy Group II Family Office
+855,Abies Ventures
+856,Acadian Ventures
+857,Accelerate Fund
+858,Accelerated Digital Ventures
+859,Accelerated Ventures
+860,Accelerator Venture Capital Management
+861,Access Global Investments
+862,Accretive Capital Partners
+863,Acento Real Estate Partners
+864,Acero Capital
+865,ACET
+866,Achieve Partners
+867,Acorn Campus Ventures
+868,Acorn Ventures
+869,ACP Investment Group
+870,AcreVenture Partners
+871,ACRES Capital
+872,Act One Ventures
+873,ActivateNM
+874,Active Impact Investments
+875,Acumen Fund
+876,Adi Family Office
+877,Aditum Bio
+878,Adobe Capital
+879,Adrenaline Venture Fund
+880,Advance Wave Partners
+881,Advancit Capital
+882,Advect Group
+883,Advent-Morro Equity Partners
+884,Aegis Digital Health
+885,Aeon Family of Funds
+886,AF Ventures
+887,AFLG Investments
+888,Aga Khan Foundation
+889,AgeChem Financial
+890,AGO Partners
+891,AgTech Accelerator
+892,AgTech Innovation Partners
+893,Al Fund
+894,AIC Ventures
+895,AIG Property Casualty Company
+896,Aimia (TSE: AIM)
+897,"Ainge, Broadbent & Callister"
+898,AIP Private Capital
+899,Airbus Ventures
+900,Airlie Group
+901,AIRX Innovation
+902,AiSprouts
+903,Akridge
+904,Akron Biolnvestments Fund
+905,Aksarben Innovation Initiative
+906,Akula Energy Ventures
+907,Alabama Futures Fund
+908,Alafi Capital Company
+909,Alante Capital
+910,Alaya Capital Partners
+911,Albany International Pension Plus Plan
+912,Akatel Ventures
+913,Alchemist Accelerator
+914,Alchemus Capital
+915,Alchemy Ventures
+916,Alcova Capital
+917,Afemis Ventures
+918,Alerion Partners
+919,Alexa Accelerator
+920,Alexandria Launchlabs
+921,Alfa Insurance Company
+922,Alfred Mann Foundation
+923,Algo Capital
+924,Algonquin Advisors
+925,Ali Capital
+926,Align Impact
+927,Aligned Partners
+928,Alinian Capital Group
+929,Alitus Partners
+930,Alkek & Williams Foundation
+931,Allectus Capital
+932,Allegiance Capital
+933,Allegion Ventures
+934,Allegra Partners
+935,Alliance Healthcare Foundation
+936,Allied Minds (LON: ALM)
+937,Alles Ventures
+938,AllVP
+939,Almanac Fund
+940,Almanac Insights
+941,Alpha Intelligence Capital Fund
+942,Alpha Venture Capital
+943,Alpheus Capital
+944,Alpine Investment Group
+945,Alpine Meridian
+946,ALS Investment Fund
+947,Alsis Funds
+948,Alsop Louie Partners
+949,Alta Community Investment
+950,Alta lake Equity Partners
+951,Altair Management Partners
+952,Althea Foundation
+953,Altitude Investment Management
+954,Altitude life Science Ventures
+955,Alupka Asset Management
+956,Amazon Alexa Fund
+957,American College of Cardiology Foundation
+958,American Discovery Capital
+959,American European Insurance Company
+960,American Kennel Club
+961,Ames Seed Capital
+962,AMI Asset Management
+963,Amplify Capital
+964,Amplitude Ventures
+965,Amzak Health
+966,Anagenesis Capital Partners
+967,Andre Agassi Foundation for Education
+968,Andrew Black
+969,Angeli Parvi
+970,Angell Foundation
+971,Ann Arbor SPARK
+972,Anthem Venture Partners
+973,Anthony Lacavera
+974,Anthony Pritzker Family Foundation
+975,APEXVentures
+976,Aphelion Capital
+977,Apollo Alternative Assets
+978,Apollo Health Ventures
+979,Appalachian State University Foundation
+980,Appletree Capital
+981,Applied Ventures
+982,aPriori Capital Partners
+983,Arago Capital
+984,Arbel Growth Partners
+985,Arbor Capital Management
+986,Arbor Partners
+987,ARC Angel Fund
+988,Arcadea Group
+989,Arcapita
+990,ArcheMatrix Ventures
+991,Arel ern Ventures
+992,Arcus Ventures
+993,Arden Group
+994,Arena Ventures
+995,Arenberg Holdings
+996,Aria Partners
+997,Aries Investment Advisors
+998,Aristos Ventures
+999,Arixa Capital Advisors
+1000,Arizona Commerce Authority
+1001,Arkley Brine VC
+1002,Armory Capital
+1003,Armory Group
+1004,Armory Square Ventures
+1005,Army Applications laboratory
+1006,Array Ventures
+1007,Arrive (New York)
+1008,Arrive BioVentures
+1009,Arrowhead Innovation Fund
+1010,Artist Capital
+1011,Ascent Biomedical Ventures
+1012,Ascentia Capital Partners
+1013,Ashland University Endowment
+1014,Aspen wealth Management
+1015,"Association for Slavic, East European and Eurasian Studies"
+1016,Association of University Physicians
+1017,Assurant Ventures
+1018,Astarte Ventures
+1019,Astral Capital
+1020,Asymmetry Ventures
+1021,at.inc
+1022,Atland Ventures
+1023,Atlantic Canada Opportunities Agency
+1024,Atlas Capital Advisors
+1025,Atlas Capital Ventures
+1026,Atlas Peak Capital
+1027,Atrium Capital
+1028,Atwater Capital
+1029,Auctus Global Capital
+1030,Audrey's Kitchen
+1031,Augury Capital Partners
+1032,Automation Alley
+1033,AV8 Ventures
+1034,AVAC Group
+1035,Avalancha Ventures
+1036,Avanz Capital
+1037,AVentures Capital
+1038,Avid Park Ventures
+1039,Avid Ventures
+1040,Avidbank (PlNX: AVBH)
+1041,Aviva Ventures
+1042,AVM (Boca Raton)
+1043,AVZIRE
+1044,Aweida Venture Partners
+1045,Awz Ventures
+1046,Axiom Capital Group
+1047,Axiom Capital Management
+1048,Axiom Venture Partners
+1049,Backswing Ventures
+1050,Badger Fund of Funds
+1051,Bainbridge Hershiser Holdings Group
+1052,Baker & Eastlack Ventures
+1053,BAM Ventures
+1054,Band of Angels
+1055,Bandgap Ventures
+1056,Banyan Ventures
+1057,Barclay Street Ventures
+1058,Barenberg Capital Partners
+1059,Barnard Associates
+1060,Baron Capital Management
+1061,Baron de Hirsch Fund
+1062,Base Ventures
+1063,Baseline Ventures
+1064,BASF Venture Capital
+1065,Basis Vectors
+1066,Batshit Crazy Ventures
+1067,Bay Management Group
+1068,Bay Street Capital
+1069,Bayou Bridge Capital
+1070,Baystate Health Foundation
+1071,BBG Ventures
+1072,BC Discovery Fund
+1073,BO Ventures
+1074,BOC Healthcare Venture Fund
+1075,Beacon Foundation
+1076,Beanstalk Ventures
+1077,Beedie Capital
+1078,Beel Infrastructure Partners
+1079,Belfer Management
+1080,Beliade
+1081,Belmont University Endowment
+1082,Bemis Capital
+1083,Ben Franklin Technology Partner of Southeastern Pennsylvania
+1084,Ben Silverman
+1085,Bench Walk Advisors
+1086,Benefit Capital Companies
+1087,Benefit Chicago
+1088,Benevolent Generation
+1089,Benjamin Un
+1090,Benson Capital Partners
+1091,Berg Capital Group
+1092,Berkeley SkyDeck
+1093,Bernard Osher Foundation
+1094,Bertelsmann Digital Media lnvestments
+1095,Beta Fund
+1096,Betaworks
+1097,Better Tomorrow Ventures
+1098,BFG Partners
+1099,BGI Advisors
+1100,Bhupendra Shah
+1101,Big River Real Estate
+1102,Binghamton University Foundation
+1103,BioAdvance
+1104,BioCrossroads
+1105,BioEnterprise
+1106,BioGenerator
+1107,Biomark Capital
+1108,BioRock Ventures
+1109,Biosciences Research and Commercialization Center
+1110,BioVeda Capital
+1111,Birchmere Ventures
+1112,Bird Dog Equity Partners
+1113,Birmingham Business Alliance
+1114,Bishop Wealth Management
+1115,Bizrupt
+1116,BKF Asset Management
+1117,Black Diamond Ventures
+1118,Black Oak Capital Partners
+1119,Black Star Fund
+1120,Blackhorn Ventures
+1121,BlackRabbitCapital
+1122,Blackstone Charitable Foundation
+1123,Blackthorne Partners
+1124,Blacktyde Capital Partners
+1125,Blanchard Valley Health System Pension Plan
+1126,Bleu Capital
+1127,BlocTech Investment Group
+1128,Bloodhound Partners
+1129,Bloomberg Beta
+1130,Blue Bear Capital
+1131,Blue Collective
+1132,Blue Cross and Blue Shield of Minnesota Pension Plan
+1133,Blue Cross Blue Shield of Massachusetts for Expanding Healthcare Access
+1134,Blue Delta Capital Partners
+1135,Blue Lagoon Capital
+1136,Blue Water Capital Management
+1137,Blueberry Ventures
+1138,Bluebird Ventures
+1139,Bodhi Tree Asset Management
+1140,Bohemian Foundation
+1141,Boise State University Foundation
+1142,Bolt Innovation Group
+1143,BonBillo Ventures
+1144,Bond Growth+Equity
+1145,Boomtown Accelerators
+1146,Booth Ferris Foundation
+1147,Bootstrap Venture Partners
+1148,Bootstraplabs
+1149,Boreal Ventures
+1150,Bertel Investment Management
+1151,Boston Capital Ventures
+1152,Boulder Investment Group Reprise
+1153,Bourne Financial Group
+1154,B6veda Asset Management
+1155,Bowery Capital
+1156,BR Venture Fund
+1157,Brain Trust Accelerator Fund
+1158,BrainStorm Ventures
+1159,Brand Capital International
+1160,BrandProject
+1161,Branzan Investment Advisors
+1162,Brave14 Capital
+1163,Bread & Butter Ventures
+1164,Breakaway Capital
+1165,Breakaway Ventures
+1166,Breakout Ventures
+1167,Breakwater Investment Management
+1168,Breast Cancer Research Foundation of Alabama
+1169,Bregal Energy
+1170,Brentwood Capital Advisors
+1171,Bretwood Capital Partners
+1172,Breyer Capital
+1173,Brick Capital Management
+1174,Brickburn Asset Management
+1175,Brickell Key Asset Management
+1176,Bridge Investment Fund
+1177,Bridge Lane Capital
+1178,Bridge Line Ventures
+1179,Bridgelight Capital
+1180,Bridgescale
+1181,Brighter Capital
+1182,Brillembourg Ochoa Family Foundation
+1183,Brisbois Capital
+1184,Bristol-Myers Squibb Foundation
+1185,Britton Hill Partners
+1186,Broadhaven Capital Partners
+1187,Breadline Capital
+1188,Brock University Endowment
+1189,Brooklyn Bridge Ventures
+1190,"Brooks, Houghton & Company"
+1191,Brookside Capital
+1192,Bruton Parish Church Endowment Fund
+1193,Bryant University Endowment
+1194,BT Group 401(K) Profit Sharing Plan
+1195,BTG Pactual Global Asset Management
+1196,Buchanan Investments
+1197,Buffalo Ridge Capital
+1198,Build Ventures
+1199,Bull City Venture Partners
+1200,Bulldog Innovation Group
+1201,Bullish
+1202,Bunting Family Foundation
+1203,Burnt Island Ventures
+1204,Burton D. Morgan Foundation
+1205,Butler County Employees' Retirement System
+1206,Butler Family Fund
+1207,Butler University Endowment
+1208,C.P. Baker
+1209,Caerus Foundation
+1210,Caerus Ventures
+1211,Cairngorm Capital
+1212,Cal Poly Pomona Foundation
+1213,Calibrate Capital Partners
+1214,Calibrate Ventures
+1215,California Academy of Sciences Endowment
+1216,California Capital Partners
+1217,California Institute for Quantitative Biosciences
+1218,"California State University, Northridge Foundation"
+1219,California Technology Ventures
+1220,Cambridge Capital
+1221,Cambridge Capital Investments
+1222,Cambridge Innovations
+1223,Campfire Capital
+1224,Campus Founders Fund
+1225,Canum Capital Partners
+1226,Canyon Creek Capital
+1227,Cape Securities
+1228,Capella Partners
+1229,Capital Advisors (Southborough)
+1230,Capital Alignment Partners
+1231,Capital Indigo
+1232,Capital Innovations
+1233,Capital Innovators
+1234,Capital Solutions
+1235,Capital Valley Ventures
+1236,CapitalT
+1237,CAPITOLAccelerator
+1238,CapX Partners
+1239,Carbon Ventures
+1240,Cardinal Venture Capital
+1241,Carl & Roberta Deutsch Foundation
+1242,Carlson Family Foundation
+1243,Carmel Capital Partners
+1244,Carnrite Ventures
+1245,Carrie Estelle Doheny Foundation
+1246,Cartel Equity Fund
+1247,Carthage Capital Group
+1248,Casa Verde Capital
+1249,Cassius Family
+1250,Castile Ventures
+1251,Castletop Capital
+1252,Catalys Pacific
+1253,Catalyst Health Ventures
+1254,Catamount Ventures
+1255,Catlin Insurance Company
+1256,Cava Capital
+1257,Cayuga Venture Fund
+1258,CB Health Ventures
+1259,CCC Investment Banking
+1260,Cedar Springs Capital
+1261,Celtic House Asia Partners
+1262,Cemerfire Capital
+1263,Centers for Medicare & Medicaid Services
+1264,CentraCare Health System
+1265,Central Illinois Angels
+1266,Centre Palisades Ventures
+1267,Centrica Innovations
+1268,CEO Ventures
+1269,Cephas Capital
+1270,Ceres Partners
+1271,Ceres Trust
+1272,Change Ventures
+1273,Charles K. Blandin Foundation
+1274,Chase Mertitt
+1275,Chatham University Endowment
+1276,Checketts Partners Investment Management
+1277,Cherry Tree & Associates
+1278,Chimu Gudiya Foundation
+1279,Chirisa Investments
+1280,Chowning Group
+1281,Cibolo Creek Partners
+1282,CIC (Buildings and Property)
+1283,Ciel Capital
+1284,CIG Capital Advisors
+1285,Cincinnatus Partners
+1286,CincyTech
+1287,Cisco Systems Foundation
+1288,Citibank Group
+1289,City Different Investments
+1290,City Hill Ventures
+1291,City Light Capital
+1292,City of Charlottesville Retirement System
+1293,City of Longmont General Employees' Retirement Pension Fund
+1294,City Side Ventures
+1295,Civilization Ventures
+1296,Claneil Foundation
+1297,Clarkson University Endowment
+1298,Clayton Associates
+1299,Clean Energy Venture Group
+1300,Clean Energy Ventures
+1301,CleanTek Venture Capital
+1302,ClearPoint Investment Pan:ners
+1303,Clearvision Ventures
+1304,Cleveland Avenue
+1305,Cleveland State University Foundation
+1306,Click Ventures (New York)
+1307,Clinton Foundation
+1308,Cloquet Capital Partners
+1309,Cloud Apps Capital Partners
+1310,Clout Capital
+1311,CMS Fund Advisers
+1312,Coal Hill Ventures
+1313,Coastal Management Group
+1314,Cobre Capital
+1315,Coddle Creek Capital
+1316,Cogito Capital (Canada)
+1317,Cogito Capital Partners
+1318,Cognios Capital (Certain Assets)
+1319,Cognitiv Ventures
+1320,Cohen Investment Advisors
+1321,Coliseum Reinsurance Company
+1322,Collab Studio
+1323,Colle Capital Partners
+1324,Colorado State
+1325,Colorcon
+1326,Columbia Gardens
+1327,Combine
+1328,Comet labs
+1329,Commerce Street Holdings
+1330,Commerce Ventures
+1331,Community Investment Corporation
+1332,Community Needs
+1333,Compass Technology Partners
+1334,Comverse Investments
+1335,Concentric Investment Partners
+1336,Concordia University Foundation
+1337,Concrete Ventures
+1338,Concur Perfect Trip Fund
+1339,Conductive Ventures
+1340,Conexus Venture Capital Fund
+1341,Connectivity Ventures Fund
+1342,Connetic Ventures
+1343,Conrad Capital Management
+1344,Conscious Endeavors
+1345,Consensys Mesh
+1346,Conservation International Ventures
+1347,Construction Financial Services
+1348,Contemporary Art Partners L.P.
+1349,Context Capital Partners
+1350,Continental Realty Corporation
+1351,Convergent Ventures
+1352,Coolhouse Labs
+1353,Coopera Fund
+1354,Cooperative For Assistance And Relief Everywhere
+1355,Coral OeFi
+1356,Corporate Fuel
+1357,Corsa Ventures
+1358,Corvin Capital
+1359,Costella Kirsch
+1360,Cotsen Foundation for the Art of Teaching
+1361,Cottonwood Technology Fund
+1362,Counterpart Ventures
+1363,Counterview Capital
+1364,Covenant College Foundation
+1365,Craft3
+1366,Cranberry Capital
+1367,Crawley Ventures
+1368,Creative Ventures
+1369,Credo Ventures
+1370,Crescent Hill Capital (PINX: SCNA)
+1371,Crestlight Venture
+1372,Crestline-Kirchner Private Equity Group
+1373,Croft & Bender
+1374,Crohn's & Colitis Foundation
+1375,Cross Border Investment Management
+1376,Crosscut Ventures
+1377,Crown Capital Partners (TSE: CRWN)
+1378,Crush Ventures
+1379,CSAA Insurance Group
+1380,CSK Venture Capital Company
+1381,CSU Ventures
+1382,CU Healthcare Innovation Fund
+1383,Cube @Midtown
+1384,Curative Ventures
+1385,Custom Private Equity
+1386,CVA Partners
+1387,CVS Health Ventures
+1388,Cycle Momentum
+1389,Cycle Venture Partners
+1390,Cypf Manager
+1391,Cypress Growth Capital
+1392,D1ASP0RA
+1393,Dace Ventures
+1394,Dakota Pacific
+1395,Dakota Venture Group
+1396,Daniel Rosensweig
+1397,DataElite
+1398,Dauphin Capital Partners
+1399,David and Laura Merage Foundation
+1400,David Falk
+1401,David Morin
+1402,Davis Medical Investors
+1403,Day One Ventures
+1404,Day View Capital Partners
+1405,Dayton Development Coalition
+1406,De Beaumont Foundation
+1407,Decisive Point
+1408,Deerfield Capital
+1409,DEFTA Partners
+1410,Delaski Family Foundation
+1411,Delaware State University Foundation
+1412,Delta Dental of Pennsylvania
+1413,Delta Lloyds Insurance Company of Houston
+1414,Demos Capital
+1415,Denver Angels
+1416,Designer Fund
+1417,Detroit Diesel
+1418,Detroit Venture Partners
+1419,Develop Michigan
+1420,Devereux Foundation
+1421,Devlabs
+1422,DH Capital
+1423,Diamond Gold Investors
+1424,Diamond Tech Ventures
+1425,Diamond Ventures (Atlanta)
+1426,Diane & Norman Bernstein Foundation
+1427,Oigi Ventures
+1428,Digital Irish Angels
+1429,Digital Partners
+1430,Digitalis Ventures
+1431,Oigitech Venture Capital Fund
+1432,digiTx
+1433,Oipalo Ventures
+1434,District Ventures Capital
+1435,Divergent Ventures
+1436,Diversification Partners
+1437,DMC Capital Funding
+1438,Doane University Endowment
+1439,Decomo Innovations
+1440,Dolby Family Ventures
+1441,Donovan Ventures
+1442,Doris & Donald Fisher Fund
+1443,Double M Partners
+1444,Double Time Capital
+1445,DoubleRock
+1446,Dove Capital Partners
+1447,OP Asset Management
+1448,Dragon Venture
+1449,Dragonvest Partners
+1450,Drake Partners
+1451,Draper Athena
+1452,Draper Dragon
+1453,Draper Triangle Ventures
+1454,Dreamfield Capital
+1455,Dreamit Ventures
+1456,Drew Bernard
+1457,Drobny Capital
+1458,dRx Capital
+1459,Duffield Family Foundation
+1460,Dunn Family Foundation
+1461,Dunn's Foundation for the Advancement of Right Thinking
+1462,DunRobin Ventures
+1463,Dynamk Capital
+1464,E. Griswold Trust f/b/o E. Boyer College of Music of Temple University
+1465,Early Stage Partners
+1466,Earth Equity Advisors
+1467,East Carolina University Foundation
+1468,East Hill Capital Partners
+1469,East Tennessee State University Foundation
+1470,Eastern New York Angels
+1471,Eastern Virginia Medical School Endowment
+1472,Easton Capital Investment Group
+1473,Eaton Square
+1474,eBay Foundation
+1475,Echo Capital
+1476,Echoing Green
+1477,Ecliptic Capital
+1478,EcoEnterprises Fund
+1479,Edelson Technology Partners
+1480,Eden Capital (Texas)
+1481,EDF Ventures
+1482,EES Ventures
+1483,eFund (Angel investing)
+1484,Egan-Managed Capital
+1485,EGL Ventures
+1486,Eglinton Capital Partners
+1487,Eight Bar Partners
+1488,eighteen 94 capital
+1489,Eighty-Seven Capital (US)
+1490,ElI Capital Management
+1491,Eisai Innovation
+1492,EJT Holdings
+1493,elab Ventures
+1494,Elandis
+1495,Elemental Excelerator
+1496,Elevate Capital
+1497,Elevation Ventures
+1498,Elixir Capital
+1499,Ellen Levy
+1500,Ellen Pao
+1501,Elm Street Ventures
+1502,Elysium Venture Capital
+1503,Embark Healthcare
+1504,Embark Ventures
+1505,Embry-Riddle Aeronautical University Endowment
+1506,Emerald Park Capital
+1507,Emerge Commerce (TSX: ECOM)
+1508,Emergent Medical Partners
+1509,Emerillon Capital
+1510,Emigrant Capital
+1511,Endure Capital
+1512,Enerdigm
+1513,Energy Foundry
+1514,Energy Innovation Capital
+1515,ENGiE New Ventures
+1516,Engineering Capital
+1517,Ensign Peak Advisors
+1518,Enterprise Florida
+1519,Enterprise Holdings Ventures
+1520,EnterVentures
+1521,Entrada Ventures
+1522,Entrenext Ventures
+1523,Entrepreneurial Development Center
+1524,Envest Private Equity
+1525,Envision Ventures
+1526,Epic BioVentures
+1527,ePlanet Capital
+1528,Epsilon Asset Management
+1529,Equator Capital Partners
+1530,Equifin Capital (GREY: EQUI)
+1531,Equinor Ventures
+1532,Esalen Ventures
+1533,ESO Fund
+1534,ESP Capital
+1535,Essence Venture Capital
+1536,Essex High Technology Fund
+1537,Eugene & Agnes E. Meyer Foundation
+1538,Europlay Capital Advisors
+1539,EVC Ventures
+1540,Everett Cash Mutual Insurance Company
+1541,Evergreen Climate Innovations
+1542,Evidity Health Capital
+1543,Evolv Ventures
+1544,Ewing Asset Management
+1545,Excel Venture Management
+1546,Excell Partners
+1547,Explore Edmonton Corporation
+1548,Extol Capital
+1549,F & F Fund Manager
+1550,F50
+1551,FATechnology Ventures
+1552,Fabrica Ventures
+1553,Fabrice Grinda
+1554,Falkon Ventures
+1555,Family Wealth Consulting Group
+1556,Far East National Bank
+1557,Fastbreak Ventures
+1558,Fathom Capital
+1559,Featheringill Capital
+1560,Federal Economic Development Agency for Southern Ontario
+1561,Felix Investments
+1562,Female Founders Fund
+1563,Ferro Management Group
+1564,FG Financial Group (NAS: FGF)
+1565,Fifty Years
+1566,Fika Ventures
+1567,Finance Authority of Maine
+1568,Finaventures
+1569,FINCA Ventures
+1570,FinOev Canada
+1571,FinTech Ventures Fund
+1572,Firebolt Ventures
+1573,First Avenue Partners (Family Office)
+1574,First Beverage Group
+1575,First Equity Funding
+1576,First Star Ventures
+1577,First Stone Venture Partners
+1578,Firsthand Capital Management
+1579,FirstMile Ventures
+1580,Fitz Gate Ventures
+1581,Fjord Ventures
+1582,Flamboyan Foundation
+1583,Flinn Foundation
+1584,Flora Family Foundation
+1585,Florida Agricultural and Mechanical University Foundation
+1586,Florida Opportunity Fund
+1587,Fluor Foundation
+1588,Flying L Partners
+1589,Flying W Capital
+1590,Flyover Capital
+1591,FM Capital (First Move Capital)
+1592,Follow [the] Seed
+1593,Fonds Ecofuel
+1594,Footwork
+1595,For Good Ventures
+1596,Ford Motor Company Fund
+1597,Forentis Fund
+1598,Forepont Capital Partners
+1599,Foresight Ventures
+1600,Fortaleza Asset Management
+1601,Foundation at New Jersey Institute of Technology
+1602,Foundation for Food and Agriculture Research
+1603,Foundation Investment Partners
+1604,Foundation Venture Capital Group
+1605,Founder Collective
+1606,Founder Equity
+1607,Founders Equity
+1608,Founders· Co·op
+1609,FoundersGuild
+1610,Fountainhead Investment Partners
+1611,Four Dimensional Partners
+1612,Franklin University Endowment
+1613,Frantz Medical Ventures
+1614,Frazier Group
+1615,Frazier Technology Ventures
+1616,Fresh Source Capital
+1617,FreshTracks Capital
+1618,Friedman Family Foundation
+1619,Friends and Family Capital
+1620,Friends Life Care
+1621,Fringe Benefit Life Insurance Company
+1622,Frontier Ventures
+1623,Frost Data Capital
+1624,Fuel Capital
+1625,Fulcrum Energy Capital
+1626,Fund for Arkansas' Future
+1627,Fund II Foundation
+1628,Funk Ventures
+1629,Furthur Fund
+1630,Fusion Fund
+1631,Future Africa
+1632,G2 Investment Group
+1633,G20 Ventures
+1634,G2T3V
+1635,Galaxy Realty Capital
+1636,Galway University Foundation
+1637,Gambit Ventures
+1638,Garage Technology Ventures
+1639,Garber Venture Capital Center
+1640,Garden District Ventures
+1641,Gary And Mary West Foundation
+1642,Gaston Capital Partners
+1643,Gather Ventures
+1644,GBS Finance
+1645,GC Ventures
+1646,GC VR Gaming Tracker Fund
+1647,Geekdom Fund
+1648,Generation Asset Management
+1649,Generation PMCA
+1650,Generator Ventures
+1651,Genes:ys Capital
+1652,George and Fay Young Foundation
+1653,George Hoag Family Foundation
+1654,Georgia Department of Economic Developement
+1655,Gerken Capital Associates
+1656,Germin8 Ventures
+1657,GHP Advisors
+1658,Gibraltar Ventures (Toronto)
+1659,GIC Group
+1660,Gill Foundation
+1661,GIMEL Tech Ventures
+1662,GJG Life Sciences
+1663,Glasswing Ventures
+1664,Glencrest Global
+1665,Global Al Internet Freedom Fund
+1666,Global Coin Ventures
+1667,Global Health Impact Fund
+1668,Global Health Investment Fund
+1669,Global Innovation Fund
+1670,Global One Investments
+1671,Global Partnerships
+1672,Global Public Offering Fund
+1673,Global Reinsurance Corporation of America
+1674,Global Value Investment
+1675,Globevestor
+1676,GoAhead Ventures
+1677,Goat Capital
+1678,Golden Angels Investors
+1679,Golden Eagle Insurance
+1680,Golden Seeds
+1681,Golden Spruce Capital
+1682,Golden Ventures
+1683,GoldenSet Capital Partners
+1684,Goldhirsh Foundation
+1685,Goldman Sachs BDC (NYS: GSBD)
+1686,Good Al Capital
+1687,Good Samaritan Hospital Foundation
+1688,Gordon Family Foundation
+1689,Gotham Ventures
+1690,Governing Dynamics
+1691,GoVision Ventures
+1692,Govtech Fund
+1693,GP Bullhound
+1694,GPL Ventures
+1695,GPS Capital Management
+1696,GRA Venture Fund
+1697,Grace Capital Management
+1698,Grace Foundation
+1699,Grand Challenges Canada
+1700,Grand Valley State University Endowment
+1701,GrandBanks Capital
+1702,Granite Hill Capital Partners
+1703,Gratitude Railroad
+1704,Gravity Ranch
+1705,Gray Ghost Ventures
+1706,Gray Matters Capital
+1707,Grayhawk Capital
+1708,Grays Peak Capital
+1709,Great Mountain Partners
+1710,Great Oaks Venture Capital
+1711,Great White Shark
+1712,Greater Colorado Venture Fund
+1713,Greehey Family Foundation
+1714,Green Acre Capital
+1715,Green Brook Capital Management
+1716,Green Park & Golf Ventures
+1717,Green Visor Capital
+1718,Greenbell Ventures
+1719,Greener Capital
+1720,Greenhall Capital Partners
+1721,GreenHawk Corporation
+1722,Greenleaf Capital Partners
+1723,Greenline Ventures
+1724,Greenmont Capital Partners
+1725,GreenRock Asset Management
+1726,GreenSoil Investments (Israel)
+1727,Greensoil Proptech Ventures
+1728,Greer Capital Advisors
+1729,Grey Sky Venture Partners
+1730,Grishin Robotics
+1731,Grit Capital Partners
+1732,Gron Ventures
+1733,Gross Foundation
+1734,Groundswell Ventures
+1735,Growth Capital Management
+1736,GrowthWorks
+1737,Grupo Guayaciin
+1738,GS Futures
+1739,GSTVC
+1740,Guardian Realty Investors
+1741,Gulfstream Capital (Tennessee)
+1742,gumi Cryptos Capital
+1743,GVACapital
+1744,GVP Global
+1745,Gwyneth Paltrow
+1746,Habeeb Capital
+1747,Hack Fund
+1748,Hackers/Founders
+1749,Hadley Capital
+1750,Hale Capital Partners
+1751,Hall Venture Partners
+1752,HALLEYVenture Partners
+1753,Halogen Ventures
+1754,Hamilton Clark
+1755,Hamilton Point Investments
+1756,Hamilton Ridge Capital
+1757,Hamline University Endowment
+1758,Hampshire College Endowment
+1759,Hany Nada
+1760,Hardware Club
+1761,Hargett Hunter Capital Partners
+1762,Harlem Capital Partners
+1763,Harlingwood Equity Partners
+1764,Harlo Entertainment
+1765,Harloff Capital Management
+1766,Harmony Capital Management
+1767,Harold & Arlene Schnitzer Care Foundation
+1768,Harpoon
+1769,Harvest Capital Credit BOC
+1770,Harvest Funds Management
+1771,HawksHead Capital
+1772,Hayan Health Networks
+1773,Hayashi & Wayland
+1774,HCA Foundation
+1775,HCAP Partners
+1776,HCS Capital
+1777,Headwaters MB
+1778,Healmed Solutions
+1779,Health Catalyst Capital Management
+1780,Health Foundation For Western & Central New York
+1781,Health Velocity Capital
+1782,Health2047 Capital Partners
+1783,Healthcare Georgia Foundation
+1784,Healthcare Innovation Fund
+1785,HealthTrain Ventures
+1786,HealthX Ventures
+1787,Healthy Ventures
+1788,Hedco Foundation
+1789,Helios Capital Ventures
+1790,Hella Ventures
+1791,Helmsman Collective
+1792,Hemi Ventures
+1793,Henderson Equity Partners
+1794,Herald Investment Management
+1795,Hercules Investments
+1796,Heritage Capital Ventures
+1797,Heron Capital
+1798,Herrick Foundation
+1799,Heuristic Capital Partners
+1800,High Country Venture
+1801,High Tide Foundation
+1802,Highcrest Capital
+1803,HighGear Ventures
+1804,Hillson Financial Management
+1805,Hillsven
+1806,Himel Capital
+1807,Hinge Capital
+1808,Hippocrates Ventures
+1809,Hitchcock Foundation
+1810,Hivers & Strivers
+1811,HOF Village (NAS: HOFV)
+1812,Holy Redeemer Health System Pension
+1813,Homebrew
+1814,Honeywell Ventures
+1815,HOOPP Capital Partners
+1816,Hopen Life Science Ventures
+1817,Horizon Partners
+1818,Horizon Ventures
+1819,Hospital for Special Surgery Endowment
+1820,Houston Ventures
+1821,Howard Charitable Foundation
+1822,Hub Angels Investment Group
+1823,Hudson River Capital Holdings
+1824,HudsonAlpha Institute for Biotechnology
+1825,Human Ventures
+1826,Humanitas Smart Planet Systems
+1827,Humanity United
+1828,Humbition
+1829,Hunter Street Partners
+1830,Huntington Ventures
+1831,Huron River Ventures
+1832,Hutensky Capital Partners
+1833,Hv Fund I Management Co
+1834,Hy-Vee and Affiliates' Benefit Plan And Trust
+1835,Hyde Park Venture Partners
+1836,Hydro-Quebec CapiTec
+1837,i-Hatch Ventures
+1838,i2E
+1839,lacocca Family Foundation
+1840,Icahn Enterprises (NAS: IEP)
+1841,iD Ventures America
+1842,Idea Foundry
+1843,IDEA Fund Partners
+1844,Ideas & Capital
+1845,IDP Foundation
+1846,IDrive Ventures
+1847,iFly.vc
+1848,Ignite Farm
+1849,lkove
+1850,1llinois Government
+1851,Illinois Institute of Technology Endowment
+1852,lllumina Accelerator
+1853,Illuminate Financial Management
+1854,Imagen Capital Partners
+1855,Impact America Fund
+1856,Impact Capital (New York)
+1857,Impact Foundation
+1858,Impact Venture Capital
+1859,Impala Ventures
+1860,ln-Q-Tel
+1861,lncipio Ventures
+1862,Independence Equity Management
+1863,Independent Community Bankers of America
+1864,Indiana Economic Development Corporation
+1865,Indiana Lumbermens Mutual lnsurance Company
+1866,Indiana State University
+1867,Indicator Ventures
+1868,IndusAge Partners
+1869,iNetworks Advisors
+1870,Infield Capital
+1871,lnFocus Capital Partners
+1872,Information Venture Partners
+1873,Inner loop Capital
+1874,lnnerProduct Partners
+1875,lnnogest Capital
+1876,Innosphere Fund
+1877,lnnoSpring
+1878,lnnova Memphis
+1879,lnnovacorp
+1880,Innovate BC
+1881,Innovate Partners
+1882,Innovation Capital Advisors
+1883,Innovation Fund America
+1884,Innovation Global Capital
+1885,Innovation Works
+1886,Innovative Capital Advisors
+1887,Innovative Ventures
+1888,lnnoVentures Capital Partners
+1889,I nova Strategic Investments
+1890,INP Capital
+1891,Inqvest Partners
+1892,InTeahouse
+1893,Integrated
+1894,Integrated Ag
+1895,Interact for Health
+1896,Interbank Group
+1897,Intercept Ventures
+1898,Intersection Fintech Ventures
+1899,InterVen Partners
+1900,Intrinsic Capital Partners
+1901,Intrinsic Venture Capital
+1902,Intuitive Ventures
+1903,Invemed Associates
+1904,invencor
+1905,lnvenshure
+1906,InventionShare
+1907,Inverdale Capital Management
+1908,Invest Michigan
+1909,InvestEco Capital
+1910,Invested Development
+1911,Iowa Capital Investment Corporation
+1912,IPS Strategic Capital
+1913,IPV Capital
+1914,Irene W. & C. B. Pennington Foundation
+1915,Iron Harbor Capital Management
+1916,lronspring Ventures
+1917,ISA Ventures
+1918,iSelect Fund
+1919,Island Capital Funds
+1920,Island Capital Partners
+1921,lssroff Family Foundation
+1922,Iterative Capital
+1923,Iterative Venture
+1924,IU Ventures
+1925,Ivy Capital Partners
+1926,J M Kaplan Fund
+1927,J2 Ventures
+1928,Jacobs Capital Group
+1929,Jacobson Family Foundation
+1930,Jah Realty
+1931,James Madison University Foundation
+1932,Jarvinian Ventures
+1933,JatoTech Ventures
+1934,JAWS Estates Capital
+1935,JDM Partners
+1936,Jeff Kearl
+1937,Jeffrey Wilke
+1938,Jennifer Rubio
+1939,Jere Doyle Enterprises
+1940,Jeremy Stoppelman
+1941,Jericho Capital
+1942,Jewelers of America
+1943,Jewish Federations Of North America
+1944,Jewish Foundation of Cincinnati
+1945,JH Whitney Investment Management
+1946,Jina Ventures
+1947,Jll Spark
+1948,Joe W. And Dorothy Dorsett Brown Foundation
+1949,John Battelle
+1950,Johnson Memorial Hospital Foundation
+1951,Johnson Venture Partners
+1952,Jordan French
+1953,Joseph Gunnar & Co.
+1954,Joshua James
+1955,Joule Ventures
+1956,Joyce and Don Massey Family Foundation
+1957,]SLHealth Capital
+1958,]TS Capital Group
+1959,JumpStart
+1960,Juniper Capital
+1961,Juvenile Diabetes Research Foundation
+1962,JWB Real Estate Capital
+1963,K2 Global
+1964,KS Ventures
+1965,K9 Ventures
+1966,Kansas City Life Insurance Company Cash Balance Pension Plan
+1967,Kaper Center for Social Impact
+1968,Katalyst Ventures
+1969,KC Venture Group
+1970,KCRise Fund
+1971,KEC Ventures
+1972,"Keefe, Bruyette & Woods"
+1973,Keen Growth Capital
+1974,Kegonsa Capital Partners
+1975,Keiki Capital
+1976,Kemmons Wilson Companies
+1977,Kendall Investments
+1978,Kenneth Chenault
+1979,Kensington Capital Holdings
+1980,Kepha Partners
+1981,Kepler Capital
+1982,Kessler Family Foundation
+1983,Kestrel Management Associates
+1984,Keter Point
+1985,Kevin Durant
+1986,Kevin O'Leary
+1987,Kevin Rose
+1988,Key Investment Partners
+1989,Keyframe Capital Partners
+1990,Keyhorse Capital (KSTC)
+1991,Kiavi
+1992,Kilbourn Capital Management
+1993,Kiplin Capital
+1994,Kitchen Fund
+1995,Kitty Hawk Capital
+1996,KL Felicitas Foundation
+1997,Km Capital Management
+1998,Knight's Bridge Capital Partners
+1999,Knockout Capital
+2000,Knoll Ventures
+2001,Kohlberg Ventures
+2002,Konglo Ventures
+2003,Konvoy Ventures
+2004,Konza Valley Capital
+2005,Kroger Co. Foundation
+2006,KSA Capital Management
+2007,KT Venture Group
+2008,L Marks
+2009,L&L Capital Partners
+2010,L+M Development Partners
+2011,L-1 Investment Partners
+2012,L2 Capital Partners
+2013,L37 Ventures
+2014,La Salle University Endowment
+2015,LAB Ventures
+2016,Labrador Venrures
+2017,Laerdal Million Lives Fund
+2018,Laidlaw Foundation
+2019,Lakeshore Capital Partners
+2020,Lam Capital
+2021,Lamorak Insurance Company
+2022,Lampert Family Foundation
+2023,Lancaster General Health Foundation
+2024,Lance White
+2025,Landon Capital Partners
+2026,Lansing Economic Area Partnership
+2027,Lantern Asset Management
+2028,Lars Rasmussen
+2029,Laszlo N. Tauber Family Foundation
+2030,Lateral Frontiers VC
+2031,Lattice Ventures
+2032,Lauder Foundation
+2033,Launch Tennessee
+2034,Lavrock Ventures
+2035,Lawson Foundation
+2036,LBB Industries
+2037,LBC Capital
+2038,Lead lap Enterprises
+2039,leAO Sports Accelerator
+2040,Leaders Fund
+2041,Leading Edge Ventures
+2042,LEAP Global Partners
+2043,Leapfrog Ventures
+2044,Learning Undefeated
+2045,Leawood Capital
+2046,Leawood Venture Capital
+2047,Legacy Capital Partners
+2048,Leggett Ventures
+2049,Legion Capital (PINX: LGCP)
+2050,Lemnos
+2051,Lennar Foundation
+2052,Leonetti/ O'Connell Family Foundation
+2053,Lerner Family Foundation
+2054,LeverVC
+2055,Leveraged Green Energy
+2056,Lewis Financial Group
+2057,Lexington Asset Management
+2058,Lexington-Fayette Urban County Government City Employees Pension Fund
+2059,LexShares
+2060,LHJS Investments
+2061,Liberty Mutual Strategic Ventures
+2062,Libra Foundation
+2063,Life Science Angels
+2064,Lightship Capital (Ohio)
+2065,Lightsmith Group
+2066,Limulus Venture Partners
+2067,Lincoln Peak Capital
+2068,Linden Asset Management
+2069,Lingerfelt CommonWealth Partners
+2070,Link-age
+2071,Linus Ventures
+2072,Lion Cao Asset Management
+2073,Lionchase North America
+2074,LIP Ventures Boutique
+2075,Liquid 2 Ventures
+2076,Liquid Asset Brands
+2077,Liquidax Capital
+2078,Lira Venture Capital
+2079,Listen Ventures
+2080,LJH Partners
+2081,LLM Capital Partners
+2082,Lloyd E. & Elisabeth H. Klein Family Foundation
+2083,Lockheed Martin Ventures
+2084,Lon V. Smith Foundation
+2085,Long Venture Partners
+2086,Longboard Asset Management
+2087,Longley Capital
+2088,Lorain County Community College Foundation
+2089,Lotus Group Capital
+2090,Louisiana Funds
+2091,Loup Ventures
+2092,Lovett Miller & Co.
+2093,Lowercase Capital
+2094,LTS Capital Advisors
+2095,Lucas Capital Management
+2096,Lucas Venture Group
+2097,Luge Capital
+2098,Lumen Ventures
+2099,Lumia Capital
+2100,Luminari Capital
+2101,Lumos Capital Group
+2102,LunaCap Ventures
+2103,Lundin Foundation
+2104,Lyme Ventures
+2105,Lyndhurst Foundation
+2106,M&S Fairway Capital Partners
+2107,M25
+2108,M34Capital
+2109,Mach Ventures
+2110,Maclellan Foundation
+2111,Macomb Community College Foundation
+2112,Mad Dog Ventures
+2113,Madison National life Insurance Company
+2114,Maiden Lane
+2115,Main Street Resources
+2116,Maine Technology Institute
+2117,Mainline Investment Partners
+2118,MainStreet Advisors
+2119,Major League Baseball Players Association Investment Savings Plan
+2120,Mallitz Investment Group
+2121,Manifest Investment Partners
+2122,Maniv Mobility
+2123,Manning Family Foundation
+2124,Mantella Venture Partners
+2125,Mantra Capital (Atlanta)
+2126,Manutara Ventures
+2127,Marcus Foundation
+2128,Mardag Foundation
+2129,Maredin Capital Advisors
+2130,Mark88 Capital
+2131,Markel IEagle Partners
+2132,Marketplace Funds
+2133,Marlin USA Energy Partners
+2134,Mars Growth Capital
+2135,Marshall Ventures
+2136,Maryland Venture Fund
+2137,Marymount University Endowment
+2138,Masslight
+2139,Masthead Venture Partners
+2140,Match Robotics VC
+2141,Matchstick Ventures
+2142,Material Companies
+2143,MATH Venture Partners
+2144,Mather lifeways Foundation
+2145,Mathile Family Foundation
+2146,Matter Ventures
+2147,Max And Minnie Tomerlin Voelcker Fund
+2148,Max Ventures
+2149,Maxam Capital
+2150,Maxim Ventures
+2151,Maximize Capital
+2152,Maycomb Capital
+2153,Maywic Select Investments
+2154,MB Energy Partners
+2155,MB Venture Partners
+2156,MC Financial Services
+2157,McGowan Capital Group
+2158,McKenny·McFarlane Capital
+2159,Mclean Capital
+2160,Mclean Watson Capital
+2161,McNair Foundation
+2162,McRock Capital
+2163,MCVC Partners
+2164,MDT Ventures
+2165,Medallion Capital
+2166,Medical College of Wisconsin Endowment
+2167,Medical Technology Venture Partners
+2168,Mediphase Venture Partners
+2169,MEDX Ventures Group
+2170,Mellody Hobson
+2171,Melo7 Tech Partners
+2172,Memorial Hermann Foundation
+2173,Memorial University Endowment
+2174,Memphis Bioworks Foundation
+2175,Mennonite Economic Development Associates
+2176,Mentors Fund
+2177,MentorTech Ventures
+2178,Mercator Capital
+2179,Merck Capital Ventures
+2180,Mercy Health System
+2181,Meritage Funds
+2182,Meritus Ventures
+2183,Merlin Ventures
+2184,Merritt Capital Investment Advisors
+2185,Merus Capital
+2186,Mesa Ventures
+2187,Method Advisors
+2188,Method Capital
+2189,Meyer Real Estate Group
+2190,MGM lnnova Capital
+2191,MHS Capital
+2192,Michael J. Fox Foundation
+2193,Michael Moritz
+2194,Michael Smith Foundation
+2195,Michaelson Real Estate Group
+2196,Michigan Accelerator Fund 1
+2197,Michigan Biomedical Venture Fund
+2198,Michigan Economic Development
+2199,Michigan Good Food Fund
+2200,Michigan Investment in New Technology Startups
+2201,Michigan Technological University Endowment
+2202,Mid-Atlantic Venture Funds
+2203,MidCoast Capital
+2204,Middle Tennessee State University Foundation
+2205,Middleburg Capital Development
+2206,MiddleGame Ventures
+2207,MidStates Capital
+2208,Mighty Capital
+2209,Mighty Capital (NewYork)
+2210,Milken Family Foundation
+2211,Millennium Hanson Internet Partners
+2212,Mindful! Investors
+2213,Mindset Ventures
+2214,Minneapolis Heart Institute Foundation
+2215,"Minnesota State University, Mankato Foundation"
+2216,Miraki Innovation
+2217,Miramar Digital Ventures
+2218,Mission Bay Capital
+2219,Mission Healthcare Foundation
+2220,Missouri Innovation Center
+2221,Missouri Physicians Associates
+2222,Mithra Group
+2223,Mitsui Global Investment
+2224,Miyako Capital
+2225,MK Capital
+2226,Mobility Ventures
+2227,Mohr Davidow Ventures
+2228,Moirai Wealth Management
+2229,Mollitiam Capital
+2230,Moment Ventures
+2231,Momenta Ventures
+2232,Momentum Media Fund
+2233,Monarch Private Capital
+2234,Monitor Ventures
+2235,Monsoon Capital
+2236,Montage Capital
+2237,Montage Investments
+2238,Montana State University-Northern Foundation
+2239,Montcalm TCR
+2240,Montclair State University Foundation
+2241,Montrose lane
+2242,Moody Bible Institute of Chicago Endowment
+2243,Moonbeam
+2244,Moonshots Capital
+2245,Morado Ventures
+2246,Morgenthau Venture Partners
+2247,Moriah Fund
+2248,Morris Capital Management
+2249,Mosaic Capital Partners (Mississauga)
+2250,Mosaix Ventures
+2251,Mosley Ventures
+2252,Motivate Venture Capital
+2253,Motive
+2254,Motley Fool Ventures
+2255,Movens Capital
+2256,MS&AD Ventures
+2257,MTech Capital
+2258,MTI Partners
+2259,MTT Ventures
+2260,MU life Science Business Incubator
+2261,Mucker Capital
+2262,Muirfield Foundation
+2263,Mulberry Investment Group
+2264,Multiverse Investment
+2265,Murphree Venture Partners
+2266,Musa Capital
+2267,MUUS Asset Management
+2268,Nacional Financiera
+2269,Nanban Realty
+2270,Narrative Capital
+2271,Nashville Capital Network
+2272,National Community Investment Fund
+2273,National Recreation Foundation
+2274,Native American Venture Fund
+2275,Natural Lands
+2276,Navigator Technology Ventures
+2277,Nazmark
+2278,NC Idea
+2279,NC Technological Development Authority
+2280,NCM Services
+2281,NDI Capital
+2282,NDI Medical
+2283,Nebraska Global
+2284,Negaunee Foundation
+2285,Neo Innovation
+2286,Neoteny
+2287,NetworkVC
+2288,NeuroVentures Capital
+2289,New Age Alpha
+2290,New Age Alpha Advisors
+2291,New Brunswick Innovation Foundation
+2292,New Canaan Community Foundation
+2293,New England Conservatory of Music Endowment
+2294,New Enterprise East Investment
+2295,New Era Capital
+2296,New Ground Ventures
+2297,New Horizons Venture Capital
+2298,New Jersey Health Foundation
+2299,New Mexico Small Business lnvestment Corporation
+2300,New Mexico State University Foundation
+2301,New Orleans Biolnnovation Center
+2302,New Theory Ventures
+2303,New Vantage Group
+2304,New York Eye and Ear Infirmary Employees' Pension Plan
+2305,Newark Venture Partners
+2306,Newbury Ventures
+2307,Newlin Capital Partners
+2308,Newmans Own Foundation
+2309,Newport Private Wealth
+2310,NewSchools Venture Fund
+2311,NewSouth Capital Management
+2312,Newtown Partners
+2313,NexPoint
+2314,Next Frontier Capital
+2315,Next Wave Funds
+2316,Next Wave Impact
+2317,NextStream
+2318,Nextvest
+2319,NextWave Ventures
+2320,Nexus Life Science Partners
+2321,NexusLA
+2322,Nia Impact Capital
+2323,Nice Capital
+2324,NIN Ventures
+2325,Nobska Venture Partners
+2326,Nomura Private Equity Capital
+2327,Nonlinear Capital
+2328,Norland Capital
+2329,North American funds
+2330,North Base Media
+2331,North Carolina Biotechnology Center
+2332,North Carolina Mutual Life lnsurance Company
+2333,North Central College Endowment
+2334,North Coast Technology Investors
+2335,North Coast Ventures
+2336,North Dakota Development Fund
+2337,North Energy Ventures
+2338,North Hill Ventures
+2339,North Pointe Insurance Company
+2340,Northcreek Mezzanine
+2341,Northern Arizona University Foundation
+2342,Northern Community Investment
+2343,Northern New England Housing lnvesment Fund
+2344,Northshore University Health System
+2345,Northwest Technology Ventures
+2346,Northwood University
+2347,Norwood Financial (NAS: NWFL)
+2348,Notation Capital
+2349,Nova Scotia Business Inc.
+2350,Novalis UfeSciences
+2351,Novel Capital (Specialized Finance)
+2352,Noventi
+2353,Novitas Capital
+2354,NRV
+2355,Nucleus (New York)
+2356,NVCommercial
+2357,NXT Ventures
+2358,Oak Foundation U.S.A.
+2359,Oak lane Partners
+2360,Oaktree Strategic Income BOC
+2361,Oasis Investment Partners
+2362,Ocean Azul Partners
+2363,Ocean Torno
+2364,Octavia Investments
+2365,OCV Partners
+2366,Odyssey Venture Partners
+2367,Off Road Capital Management
+2368,Off The Grid Ventures
+2369,Ohio Innovation Fund
+2370,Ohio Tech Angels
+2371,OIF Ventures
+2372,Okapi Venture Capital
+2373,OKR Financial
+2374,Okta Ventures
+2375,Ollerhead Capital
+2376,Olugbenga Agboola
+2377,OMX Ventures
+2378,On Ventures
+2379,One Better Ventures
+2380,One Columbus
+2381,One Earth Capital
+2382,One Way Ventures
+2383,Ontario Centre of Innovation
+2384,Ontario Trillium Foundation
+2385,Onyx Equities
+2386,Open Prairie Ventures
+2387,Opportunities NB
+2388,Opportunity Finance Network
+2389,Opus Investment Management (New York)
+2390,Orange Capital Ventures
+2391,Orbia Ventures
+2392,Orchestra Medical Ventures
+2393,Origin Wealth Adviser
+2394,Originate Ventures
+2395,Oriza Ventures
+2396,Orox Capital Management
+2397,Osage Venture Partners
+2398,OSFHealthcare Foundation
+2399,0TH Capital
+2400,OTV
+2401,Outcome Capital
+2402,Outlines Venture Group
+2403,Outpost Capital
+2404,Overbrook Foundation
+2405,Overline
+2406,OVO Fund
+2407,Oxford Angel Fund
+2408,Oxford Square Capital BDC (NAS: OXSQ)
+2409,Ozmen Ventures
+2410,Pace Capital
+2411,Pacific Channel
+2412,Pacific Community Ventures
+2413,Pacific Equity and loan
+2414,Pacific Horizon Ventures
+2415,Pacific View Asset Management
+2416,PacRim Venture Partners
+2417,Palantir Capital
+2418,Palisades Growth Capital
+2419,Palladin Consumer Retail Partners
+2420,Palo Alto University
+2421,Palos Management
+2422,Pan Pacific Capital
+2423,Pandion Mine Finance
+2424,Panther Opportunity Fund
+2425,Panthera
+2426,Paradigm Capital Group
+2427,Pariventures
+2428,Parker Foundation
+2429,Parker Ranch Foundation Trust
+2430,Parkpine Capital
+2431,Pascal Levensohn
+2432,Patamar Capital
+2433,Path (Drug Discovery)
+2434,Patoka Capital
+2435,Patrick Mauro Investment Advisor
+2436,Patron Venture
+2437,Paul Bricault
+2438,Paul E. Andrews Jr. Foundation
+2439,Paul Ogle Foundation
+2440,Pavonis Capital Partners
+2441,Pax Momentum
+2442,PC Capital
+2443,Peacehealth Southwest Medical Center Employer Contribution Plan
+2444,Peak Financial Advisors
+2445,Peak State Ventures
+2446,Pearl Impact Capital
+2447,Pearl Street Venture Funds
+2448,Peate Ventures
+2449,Peery Foundation
+2450,PEI Funds
+2451,Peierls Foundation
+2452,Pender Capital
+2453,Peninsula Ventures
+2454,Penn Venture Partners
+2455,Pennell Venture Partners
+2456,Pereg Ventures
+2457,Perennial Capital Advisors
+2458,PerformanceEdge Partners
+2459,Permian Bank Capital
+2460,Perseus Asset Management
+2461,Pershing Square Foundation
+2462,Petrie Partners
+2463,Phelps4Tointon Profit Sharing Plan
+2464,Phenix Mutual Fire Insurance Company
+2465,Phenomenelle Angels Fund
+2466,Philadelphia Industrial Development Corporation
+2467,Philip M. Friedmann Family Charitable Trust
+2468,Phoenician Ventures
+2469,Phoenix Sports Partners
+2470,Physic Ventures
+2471,Physicians' Services Foundation
+2472,Phystech Ventures
+2473,Piedmont Angel Network
+2474,Pinecrest Capital Partners
+2475,Pinnacle Capital Management
+2476,Pioneer Square Labs (PSLStudio)
+2477,Pipeline Capital Partners
+2478,Pique Ventures
+2479,Pithia
+2480,Pittsburgh Life Sciences Greenhouse
+2481,Pivot Investment Partners
+2482,Pivotal Investments
+2483,PivotNorth Capital
+2484,Place Fund
+2485,Planetree Partners
+2486,Plantagenet Capital Management
+2487,Platinum Eco Capital
+2488,PLG Venture Capital
+2489,Pohlad Family Foundation
+2490,PointGuard Ventures
+2491,Poise Ventures
+2492,PolyTech Ventures
+2493,Pond Venture Partners
+2494,Pondfield Capital
+2495,Ponoi Capital
+2496,Pontaq
+2497,Poplar Ventures
+2498,Popplestone Foundation
+2499,Porthcawl Holdings
+2500,Portland State University Foundation
+2501,Positive Ventures
+2502,Post Road Group
+2503,Potomac Wealth Management
+2504,Powerplant Ventures
+2505,PrairieGold Venture Partners
+2506,Pravati Capital
+2507,Preface Ventures
+2508,Presidio Partners
+2509,Presidio Ventures
+2510,Primer Sazze Partners
+2511,Primetime Partners
+2512,Princeton Asset Management
+2513,Principal Financial Group Foundation
+2514,Proeza Ventures
+2515,Progress Partners
+2516,ProMedica Innovations
+2517,Promotora Social Mexico
+2518,Promus Equity Partners
+2519,Promus Ventures
+2520,Propeller
+2521,Proprietors Capital Holdings
+2522,Prosper Women Entrepreneurs
+2523,Proteus (Portola Valley)
+2524,Prototype Capital
+2525,Provenance Ventures
+2526,Providence Friends Capital
+2527,Provident Healthcare Partners
+2528,PruVista Capital
+2529,Pure Portfolios
+2530,Purees Bioventures
+2531,Purpose (Germany)
+2532,Purpose Ventures
+2533,Purvi Capital
+2534,Pycap Venture Partners
+2535,QBIT Capital
+2536,QS Private Lending
+2537,Quadrant Capital Partners
+2538,Quain Investments
+2539,Qualcomm (NAS: QCOM)
+2540,Quantum Capital Partners
+2541,Quantum Valley Investments
+2542,Quark Ventures (WAR: APC)
+2543,Queen City Angels
+2544,QueensBridge Venture Partners
+2545,Quotient Investors
+2546,R7
+2547,Rackhouse Venture Capital
+2548,Radford University Foundation
+2549,Radicle
+2550,Radicle Impact
+2551,Radius Ventures
+2552,Ramas Capital Management
+2553,Ranch Ventures
+2554,Randi Zuckerberg
+2555,Randolph·Macon College Endowment
+2556,Range Ventures
+2557,Ranger International Management
+2558,RareBreed Ventures
+2559,Rathmann Family Foundation
+2560,Raven Indigenous Capital Partners
+2561,Raven One Ventures
+2562,RCH Capital
+2563,Rebel Venture Fund
+2564,Rebus Capital
+2565,RecapHealth Ventures
+2566,Reciprocal Capital
+2567,Reciprocal Ventures
+2568,Recruit Strategic Partners
+2569,Red Abbey Venture Partners
+2570,Red Door Capital Partners
+2571,Red Mountain Capital Partners
+2572,Red Oak Capital Group
+2573,Red Rocks Capital
+2574,Red Stone Equity Partners
+2575,Redbourne Group
+2576,Redmont Capital
+2577,RedRidge Finance Group
+2578,Redrock Capital
+2579,RedSky Capital
+2580,RedSwan CRE
+2581,Refinery Ventures
+2582,Regenstrief Foundation
+2583,Reinvent Capital
+2584,Relentless VC
+2585,Relevance Ventures
+2586,Re Mark Capital Group
+2587,Remiges Ventures
+2588,Renaissance Asset Managers
+2589,Renu Ventures
+2590,Research Triangle Ventures
+2591,Reshape (Investor)
+2592,Resolve Growth Partners
+2593,Resonant Venture Partners
+2594,Resource Real Estate
+2595,Rev1 Ventures
+2596,Revel Partners
+2597,Revelis Capital Group
+2598,RevTech Ventures
+2599,Rewired
+2600,Reynolds Family Foundation
+2601,RezVen Partners
+2602,RG Capital
+2603,Rhode Island Commerce Corporation
+2604,Rhythm VC
+2605,Rice Investment Group
+2606,Richard J. Fasenmyer Foundation
+2607,Richard Salomon Family Foundation
+2608,Richardson Wealth
+2609,Richmond Global Ventures
+2610,Ridgelift Ventures
+2611,Ridgetop Capital Partners
+2612,Ringbolt Capital
+2613,Ringleader Venrures
+2614,Ringling College of Art and Design
+2615,Rio Investment Partners
+2616,RiSC Capital
+2617,Rise Capital
+2618,Rise Run Capital
+2619,Rising Tide Capital
+2620,Rita AJlen Foundation
+2621,Rittenhouse Ventures
+2622,Riverflow Growth Fund
+2623,Riverfront Ventures
+2624,RiverRock Funds
+2625,Riverside Credit Solutions
+2626,Riverside Management Group
+2627,RLB Holdings
+2628,RLJ Credit
+2629,Roadmap Capital
+2630,Robert A. and Renee E. Seifer Family Foundation
+2631,Robert Glaser
+2632,Robert W. Deutsch Foundation
+2633,Rocana Ventures
+2634,Rochester Institute of Technology Venture Fund
+2635,Rock Creek Capital
+2636,Rock Creek Property Group
+2637,Rock Health
+2638,Rock Maple Ventures
+2639,Rock River Capital Partners
+2640,Rockhurst University Endowment
+2641,Rockies Venture Club
+2642,Rocky Mountain Institute
+2643,ROKiTGames
+2644,Rokk3r
+2645,Romulus Capital
+2646,Roser Ventures
+2647,Ross Foundation
+2648,ROTH Capital Partners
+2649,Rothenberg Ventures
+2650,Roumell Asset Management
+2651,Rowan University Endowment
+2652,Roxiticus Ventures
+2653,Royal Palm Capital Partners
+2654,RSFSocial Finance
+2655,RTI International
+2656,RTP Ventures
+2657,Rubicon Venture Capital
+2658,Russell Berrie Foundation
+2659,Rutabaga Capital Management
+2660,Ruvento Ventures
+2661,RWI Ventu res
+2662,Ryan Holmes
+2663,Ryerson University Endowment
+2664,"S. D. Bechtel, Jr. Foundation"
+2665,SaaS Capital
+2666,Sabine Capital Partners
+2667,Sacks Ventures
+2668,Sacred Heart University Endowment
+2669,Safeguard Scientifics (NYS: SFE)
+2670,Safer Made
+2671,Sage Financial Group
+2672,Sage Venture Partners
+2673,Saginaw Valley State University Foundation
+2674,SAIC Capital
+2675,SAil Capital Partners
+2676,Saint Luke's Health System
+2677,Sakal Ventures
+2678,Salem Investment Partners
+2679,Salt Creek Medical Device Development
+2680,Salveo Capital
+2681,Sam Englebardt
+2682,Samsung Catalyst Fund
+2683,San Diego State University Research Foundation
+2684,San Francisco Conservatory of Music Endowment
+2685,Sanford Robertson
+2686,Sanitas Peak Financial
+2687,Sanofi Ventures
+2688,Santa Barbara Venture Partners
+2689,Samen Ventures
+2690,"Sarah and Ross Perot, Jr. Foundation"
+2691,Saskatchewan Opportunities
+2692,Satellite Capital (California)
+2693,Sathguru Catalyser Advisors
+2694,Satter Foundation
+2695,Sausalito Ventures
+2696,Sawari Ventures
+2697,SC Launch
+2698,ScaleUP Ventures
+2699,ScanlanKemperBard
+2700,Schmidt Family Foundation
+2701,Schuler Family Foundation
+2702,Science Center
+2703,Science History Institute
+2704,Sciens Capital Management
+2705,Scott Belksy
+2706,Scott Capital
+2707,Scout Ventures
+2708,SCP Vitalife Partners
+2709,SCPI.PE Private Equity
+2710,Scratch Foundation
+2711,Scrum Ventures
+2712,Scythian Real Estate
+2713,Seafront Capital
+2714,Season Two Ventures
+2715,Seattle University Endowment
+2716,SeaX Ventures
+2717,Second Century Ventures
+2718,Second Muse
+2719,Secure Octane
+2720,Seed Sumo
+2721,SeedFolio
+2722,Selby Ventures
+2723,Select Advisors
+2724,Seneca Partners
+2725,Sentara Healthcare 401(A) Retirement Plan
+2726,Sente Foundry
+2727,Seraph Group
+2728,Service Employees International Union SEIU 252
+2729,Seven Peaks Ventures
+2730,SGI Frontier Capital
+2731,SGlnnovate
+2732,Shackleton Equity Partners
+2733,Shaner Capital
+2734,SharesPost
+2735,Shea Ventures
+2736,SheGives
+2737,Shell Oil Company Foundation
+2738,Shem Creek Capital
+2739,Shenzhen Sangel Venture Capital
+2740,Shepard Fairey
+2741,Shepherd Ventures
+2742,Sheppard Pratt Health System
+2743,Sherborne Investors
+2744,Sherbrooke Capital
+2745,Shield Capital
+2746,Shield-Ayres Foundation
+2747,Siddis
+2748,Sidgmore Family Foundation
+2749,Sidley Austin
+2750,Siemens Financial Services
+2751,Siena College Endowment
+2752,Sierra Income BOC
+2753,Sierra Wasatch Capital
+2754,Sightline Partners
+2755,Signia Capital Management
+2756,Silicon Hills Capital
+2757,Silicon Road
+2758,Silver Creek Ventures
+2759,Silvershore
+2760,Silverview Capital Partners
+2761,Simmons Energy
+2762,SIPI Fund
+2763,Sixpoint Partners
+2764,SixThirty CYBER
+2765,SK Telecom Americas
+2766,Sky Ocean Ventures
+2767,Skypoint Capital
+2768,Small Business Community Capital
+2769,SmartForest Ventures
+2770,Social Impact Capital
+2771,Social Stans
+2772,Social Venture Fund
+2773,Socratic Ventures
+2774,Sofia Fund
+2775,Softbank China & India Holdings
+2776,SoftBank Investment Advisers
+2777,Solstice Capital
+2778,Sonoma Brands Capital
+2779,Sorenson Impact foundation
+2780,Sorenson Ventures
+2781,Soros Economic Development Fund
+2782,Soundproof Ventures
+2783,South Dakota Equity Partners
+2784,South Park Commons
+2785,South Ventures
+2786,Southbox
+2787,Southeastern Technology Fund
+2788,Southern Cross Venture Partners
+2789,Southern Illinois University Carbondale Endowment
+2790,Southern New Hampshire University Endowment
+2791,Southlake Equity Group
+2792,Southwest Medical Ventures
+2793,Southwest Michigan First Life Science Fund
+2794,Spacestation Investments
+2795,Specialty Family Foundation
+2796,Spectrum Health Ventures
+2797,Spero Ventures
+2798,Spice Private Equity (SWX: SPCE)
+2799,Splunk Ventures
+2800,SPP Credit Partners
+2801,Spring Delta
+2802,SpringRock Ventures
+2803,SQN Venture Partners
+2804,Square 1 Bank
+2805,SRI Capital
+2806,SS Investment Group
+2807,St. Louis Regional Chamber
+2808,St. Thomas University Endowment
+2809,Stack Capital Group (TSE: STCK)
+2810,Stacks ( Software Development Applications)
+2811,Stadia Ventures
+2812,Stage 2 Capital
+2813,Stage Venture Partners
+2814,Stairway Capital
+2815,Staley Capital
+2816,Stand Together Chamber of Commerce
+2817,Stanfield Capital
+2818,Starbridge Venture Capital
+2819,Starbucks Foundation
+2820,Starter Fluid Management
+2821,Starting Line
+2822,Startup Capital Ventures
+2823,Stan:upbootcamp
+2824,Stata Venture Partners
+2825,Steelhead Capital Management
+2826,SteelSky Ventures
+2827,Stelac Capital Partners
+2828,Stella Maris Partners
+2829,Stiefel Family Foundation
+2830,StoneCreek Capital
+2831,Stoneshire Berkeley
+2832,Stonetree Capital Advisors
+2833,Stony Lonesome Group
+2834,Stout Street Capital
+2835,StraightPath Venture Partners
+2836,Strategic Holdings
+2837,Strathdon Investments
+2838,Stratim Capital
+2839,Stratminds VC
+2840,Striker Partners
+2841,Struck Capital
+2842,Structure Fund
+2843,Studio VC
+2844,Stupski Foundation
+2845,SugarOak
+2846,Summation Health Ventures
+2847,SummerHaven Investment Management
+2848,Summerhill Venture Partners
+2849,Summit Agricultural Group
+2850,Summit Equity Investments
+2851,SunBridge Capital Management
+2852,SunFunder
+2853,Sunshine Charitable Foundation
+2854,Super Ventures
+2855,SuperAngel.Fund
+2856,Supply Capital
+2857,Surgical Frontiers
+2858,Susa Ventures
+2859,Sustainable Conversion Ventures
+2860,Sustainable Growth Management
+2861,Sustainable Income Capital Management
+2862,Sustainable Technologies Fund
+2863,SustainVC
+2864,SVTech Ventures
+2865,SVG Ventures-THRIVE
+2866,Swan Venture Fund
+2867,Swift Foundation
+2868,Symmetric Capital
+2869,Symmetry Investment Advisors
+2870,Syndicated Equities
+2871,Synergy Life Science Partners
+2872,Synetro Group
+2873,T & T Retirement Plan Group Trust Fund
+2874,T10 Fund
+2875,TA Ventures
+2876,Tactical Fund Advisors
+2877,Taihill Venture
+2878,Tallwave
+2879,Talmage
+2880,Tamiami Angel Funds
+2881,Tamra-Tacoma Capital Partners
+2882,Tandem Capital
+2883,Tandem Expansion fund
+2884,Tandemlaunch
+2885,Tangency Capital
+2886,Tank Hill Ventures
+2887,Tara Health Foundation
+2888,Targeted Technology
+2889,Tau Capital Group
+2890,TauTona Group
+2891,Taver Capital Partners
+2892,Taylor University Endowment
+2893,TBLCapital
+2894,TDK Ventures
+2895,Team Builder Ventures
+2896,Tech Capital Partners
+2897,Tech Coast Angels
+2898,Tech Council Ventures
+2899,Tech Pioneers Fund
+2900,Tech Wildcatters
+2901,TechFund Europe
+2902,TechGROWTH Ohio
+2903,TechnoArt
+2904,TechOperators
+2905,TechSquare Labs
+2906,TechU
+2907,Techxas Ventures
+2908,Tecovas Foundation
+2909,TECTERRA
+2910,Tectonic Ventures
+2911,Tejas Venture Management
+2912,Tekfen Ventures
+2913,Telecom Infra Project
+2914,Telef6nica Innovation Ventures
+2915,Telegraph Hill Capital
+2916,Telluric Foods
+2917,Tellus Partners
+2918,Telos(NAS: TLS)
+2919,TELUS Ventures
+2920,Tennessee Technological University Endowment
+2921,Tera Ventures
+2922,Tero Holding
+2923,Terpsi Capital
+2924,Terranet Ventures
+2925,Teton Equity Partners
+2926,Texada Capital
+2927,Texas Atlantic Capital
+2928,Texas Biomedical Research Institute
+2929,Texas Research & Technology Foundation
+2930,TFX Capital
+2931,TGap Ventures
+2932,TGen Health Ventures
+2933,The 1772 Foundation
+2934,The American Family Insurance lnstitute for Corporate and Social Impact
+2935,The Angels' Forum
+2936,The Atmospheric Fund
+2937,The Aurora Funds
+2938,The Black Diamond Group
+2939,The Bornhoft Group Corporation
+2940,The Bower Foundation
+2941,The Camelot Group
+2942,The Cameron Foundation
+2943,The Carbon Trust
+2944,The Cargill Foundation
+2945,The Case Foundation
+2946,The Children's Medical Research Foundation
+2947,The Collective Funds
+2948,The Community Development Venture Capital Alliance
+2949,The Community Foundation
+2950,The Craig Newmark Foundation
+2951,The Dana Foundation
+2952,The Eisner Foundation
+2953,The Emily Hall Tremaine Foundation
+2954,The Entrepreneurs' Funds
+2955,The EPIC Fund
+2956,The Explorer Group
+2957,The Fabric
+2958,The Fink Family Foundation
+2959,The Firmament Group
+2960,The FSB Companies
+2961,The Graduate Syndicate
+2962,The Graham Foundation
+2963,The Graywall Company
+2964,The Great River Company
+2965,The Halo Fund
+2966,The Hanley Family Foundation
+2967,The Healing Trust
+2968,The Henry M. Jackson Foundation for the Advancement of Military Medicine
+2969,The Herb Alpert Foundation
+2970,The Hotel Group
+2971,The Insurance Company of the State of Pennsylvania
+2972,The Integral Group
+2973,The International Woodland Company
+2974,The Jaffe Family Foundation
+2975,The Jenesis Group
+2976,The John F. t-.agel Foundation
+2977,The John P. & Anne Welsh McNulty Foundation
+2978,TheJon Holden DeHaan Foundation
+2979,TheJoshua Mailman Foundation
+2980,The Judd Leighton Foundation
+2981,The JumpFund
+2982,The Kraft Family Foundation
+2983,The Lambda Funds
+2984,The Legler Benbough Foundation
+2985,The Leo Group
+2986,The Livestrong Foundation
+2987,The Longevity Fund
+2988,The Louis Calder Foundation
+2989,The Markle Foundation
+2990,The Meloy Fund
+2991,The Michelson Organization
+2992,The Miles Foundation
+2993,The Mustang Group
+2994,The New York Stem Cell Foundation
+2995,The Omnia Group
+2996,The Operand Group
+2997,The Paul G. Allen Frontiers Group
+2998,The Pauls Corporation
+2999,The Peter and Elizabeth C. Tower Foundation
+3000,The Price Family Foundation
+3001,The Queen's Health Systems
+3002,The RlJ Companies
+3003,The Robenson Foundation
+3004,The Roda Group
+3005,The Sage Group
+3006,The Sandy River Charitable Foundation
+3007,The Schuster Group
+3008,The Simms/Mann Family Foundation
+3009,The Smart Family Foundation
+3010,The Social Entrepreneurs Fund
+3011,The Southern Appalachian Fund
+3012,The Supporters Fund
+3013,The Tahoe Institute
+3014,The Tifin Group
+3015,The Tikvah Fund
+3016,"The University Foundation, California State University, Chico"
+3017,The University of Akron
+3018,The Valhalla Charitable Foundation
+3019,The Venture Center
+3020,The Venture Collective
+3021,The Virgin Foundation
+3022,The W Fund
+3023,The Wal-Mart Foundation
+3024,Theodorus
+3025,Third Kind Venture Capital
+3026,Third Round Analytics Capital
+3027,Third Sphere
+3028,Thomas Lehrman
+3029,Thomson Kelvin Capital
+3030,Three Corners Capital
+3031,Three Leaf Ventures
+3032,Thursday Ventures
+3033,Thynk Ventures
+3034,Tl Venture
+3035,Tierney Family Foundation
+3036,Tigris Ventures
+3037,Timber Bay Partners
+3038,Timothy And Michele Barakett Foundation
+3039,Timothy Ferriss
+3040,Tin Shed Ventures
+3041,Titanium Investments
+3042,TitleCard Capital
+3043,TJ Capital Management
+3044,TJM Capital Partners
+3045,TJNS Capital
+3046,TMC Innovation
+3047,TMV(Trail Mix Ventures)
+3048,Tomorrow Blockchain Opportunities
+3049,Topping Capital
+3050,Topspin Venture
+3051,Torrey Pines Investment
+3052,Touchdown Ventures
+3053,Town of Fairfield Employees' Retirement System
+3054,Townsend Capital
+3055,Towson University Foundation
+3056,Toyota USA Foundation
+3057,Traction Capital
+3058,Trade Street Capital
+3059,Trailblazer Capital
+3060,Transcend Fund
+3061,Transition Capital Partners
+3062,Translational Accelerator
+3063,Translink Investment
+3064,Transmedia Capital
+3065,Traveller Capital Advisors
+3066,Treadstone Partners
+3067,Treetop Capital
+3068,Trend Forward Capital
+3069,Treo Ventures
+3070,Trestle Partners
+3071,TRGC
+3072,Triad Properties
+3073,Triathlon Medical Ventures
+3074,TRIBUS
+3075,Trigger Media
+3076,Trio Capital
+3077,TripleTree
+3078,Triton Ventures
+3079,Triventures
+3080,Tropheus Ventures
+3081,Troy Carter
+3082,True Beauty Ventures
+3083,True Equity
+3084,True North Equity Partners
+3085,Truman State University Foundation
+3086,Trust Ventures
+3087,Tryperion Partners
+3088,Tsai Capital
+3089,TSG Equity Partners
+3090,Tucker Max
+3091,Tudor Insurance Company
+3092,Tuesday Capital
+3093,Tugboat Group
+3094,Tuhaye Venture Partners
+3095,Turbo Ventures
+3096,TURN8
+3097,Twenty Five Ventures
+3098,Twilio Fund
+3099,TwinRock Partners
+3100,TWJ Capital
+3101,TWV Capital Management
+3102,TXV Partners
+3103,TyA Ventures
+3104,TYLT Ventures
+3105,Tyson Ventures
+3106,Ubiquity Ventures
+3107,UC Santa Cruz Foundation
+3108,UCB Ventures
+3109,UConn Innovation Fund
+3110,UCSF Foundation Investment Company
+3111,Ulu Ventures
+3112,Uma Thurman
+3113,UMUC Ventures
+3114,UNC Charlotte Foundation
+3115,Uncommon Capital
+3116,Uncommon Denominator
+3117,Underscore VC
+3118,UNICEF· New York
+3119,UNION Labs Ventures
+3120,United Methodist Homes Foundation
+3121,Unitus labs
+3122,Unitus Ventures
+3123,University Growth Fund
+3124,"University of California, Riverside Foundation"
+3125,University of Central Florida
+3126,University of Colorado
+3127,University of Colorado Denver Endowment
+3128,University of Colorado Health
+3129,University of Evansville Endowment
+3130,University of Florida Investment Corporation
+3131,University of Maryland Medical System Foundation
+3132,University of Memphis Foundation
+3133,University of Minnesota Office for Technology Commercialization
+3134,"University of Nevada, Las Vegas Foundation"
+3135,"University of Nevada, Reno"
+3136,University of New Brunswick Endowment
+3137,University of New Hampshire School lof Law Endowment
+3138,University of North Carolina System Endowment
+3139,University of North Florida Foundation
+3140,University of Northern British Columbia Endowment
+3141,University of Northern Colorado Endowment
+3142,University of Northern Colorado Foundation
+3143,University of Notre Dame Employees' Pension Plan
+3144,University of Rhode Island Foundation
+3145,University of South Carolina
+3146,University of South Carolina Upstate
+3147,University of Southern Mississippi Foundation
+3148,University of Tennessee Research Foundation
+3149,University of the Sciences in Philadelphia Endowment
+3150,University of Utah Endowment
+3151,University of Virginia Physicians Group Endowment
+3152,University of West Florida Foundation
+3153,University of Wisconsin4Milwaukee
+3154,University Venture Fund
+3155,UniWill Ventures
+3156,Unreasonable Capital
+3157,Unseen Capital
+3158,UP.Partners
+3159,Upper Canada Equity Fund
+3160,Upside Partnership
+3161,UpStart Ventures (Salt Lake City)
+3162,Upstate Foundation
+3163,UpWest
+3164,USDR Investment Management
+3165,Useable
+3166,UT Horizon Fund
+3167,Utah Capital Investment
+3168,UVA LVG Seed Fund
+3169,VS Partners
+3170,Valentus Capital Management
+3171,Validation Capital
+3172,Valley Forge Private Equity
+3173,Valo Ventures
+3174,Valor Ventures
+3175,Value Line Asset Management (NAS:VALU)
+3176,ValueStream Ventures
+3177,VamosVentures
+3178,Van Dyke Acquisitions
+3179,Vanbarton Group
+3180,Vancouver Economic Commission
+3181,Vander Capital Partners
+3182,Vantedge Ventures
+3183,Varsha Rao
+3184,Vast Ventures
+3185,Vayner/RSE
+3186,Vcanbio Capital Management
+3187,VCET Capital
+3188,Velocity Equity Partners
+3189,Venn Ventures
+3190,Venture Capital Fund of New England
+3191,Venture for America
+3192,Venture One Real Estate
+3193,Venture Park Labs
+3194,venture/science
+3195,VentureCapital.org
+3196,VentureTech Alliance
+3197,VeraPath Global Investing
+3198,Verax Capital Partners
+3199,Verde Capital
+3200,VERGE Capital
+3201,Veritas Venture Partners
+3202,Vermont Economic Development Authority
+3203,Vernon & Park Capital
+3204,Version One Ventures
+3205,Vertica Capital Partners
+3206,Vet Venture Capital
+3207,Viaduct Ventures
+3208,Vice Ventures
+3209,Viceroy Ventures
+3210,Victress Capital
+3211,VIEW Group
+3212,VII Peaks Capital
+3213,Village Ventures
+3214,VIMAC Ventures
+3215,Vine Street Ventures
+3216,Vinik Family Foundation
+3217,Virginia Capital Partners
+3218,Virginia Economic Development Partnership
+3219,Virginia Venture Partners
+3220,Virtual Capital
+3221,Viscogliosi Bros.
+3222,Vision Quest Virtual
+3223,Visionary Venture Fund
+3224,Visionnaire Ventures
+3225,Vista Investment Management
+3226,Vista Ridge Capital Partners
+3227,Vital Venture Capital
+3228,Vive X Accelerator
+3229,Volta Energy Technologies
+3230,von Braun & Schreiber Private Equity Partners
+3231,Vortex Partners
+3232,VTF Capital
+3233,VX Capital Partners
+3234,W. Clement & Jessie V. Stone Foundation
+3235,W.L.S. Spencer Foundation
+3236,W.R. Hambrecht+ Co.
+3237,Wadhwani Foundation
+3238,Wainbridge
+3239,Wakestream Ventures
+3240,Walden Venture Capital
+3241,Wallace H. Coulter Foundation
+3242,Walrus Partners
+3243,Walt Disney Family Foundation
+3244,Wareness Studio
+3245,Warren Capital Group
+3246,Warson Capital Partners
+3247,Washington Capital Partners
+3248,Wasserman Foundation
+3249,Waterline Ventures
+3250,WaterStar Capital
+3251,Watertower Ventures
+3252,WaveHealth Partners
+3253,Wavemaker Three-Sixty Health
+3254,Wavepoint Ventures
+3255,Wayne Chang
+3256,Wayne D. Kuni and Joan E. Kuni Foundation
+3257,Weaver Capital Management
+3258,Wedbush Asset Management
+3259,Weinberg Capital Group
+3260,Wells Fargo Regional Foundation
+3261,Wentworth Institute of Technology Endowment
+3262,West (San Francisco)
+3263,West Loop Ventures
+3264,Western Digital Capital
+3265,Western New York Venture Association
+3266,Westem NIS Enterprise Fund
+3267,Wethersfield Foundation
+3268,What If Ventures
+3269,Whelan Capital Management
+3270,White Shark Management
+3271,Wichita State University Foundation
+3272,Wicklow Capital
+3273,Wiegers Capital Management
+3274,Wildcat Venture Partners
+3275,Willamette University Endowment
+3276,William And Lisa Ford Foundation
+3277,William E. Simon Foundation
+3278,William H. Hannon Foundation
+3279,William J. and Dorothy K. O'Neill Foundation
+3280,William Jessup University Endowment
+3281,Willow Growth Partners
+3282,Wilmot Ventures
+3283,Windhorse Group
+3284,Windspeed Ventures
+3285,Windward Ventures
+3286,Winnebago Seed Fund
+3287,Winnow Fund
+3288,Winton Ventures
+3289,Wipro Ventures
+3290,Wiregrass Equity
+3291,Wisconsin Economic Development Corpoartion
+3292,Wisdom Venture Capital
+3293,Wisemont Capital
+3294,Wittenberg University Endowment
+3295,Wittington Ventures
+3296,WMKI Group
+3297,Wolf Point Asset Management
+3298,Women's World Banking
+3299,Woodbine Development
+3300,Woods Capital Management
+3301,Woodside Capital Partners
+3302,Woodside Capital Partners (Derry)
+3303,Work America Capital
+3304,Work-Bench
+3305,World Class Property
+3306,Wright State University Foundation
+3307,WW Capital
+3308,Xanadu Development and lnvestment Group
+3309,XDL Capital Group
+3310,Xecced
+3311,Xenon Partners
+3312,Xerox New Enterprises
+3313,Xerox Ventures
+3314,XFactor Ventures
+3315,Xfund
+3316,XL Group Investments
+3317,Xochi Ventures
+3318,Xsolla Capital
+3319,Yale Entrepreneurial Institute
+3320,Yamaha Motor Ventures & Laboratory Silicon Valley
+3321,YEI Innovation Fund
+3322,Yenni Capital
+3323,yet2Ventures
+3324,Yorkville Capital Management
+3325,Your Source Financial
+3326,YouWeb Incubator
+3327,Z. Smith Reynolds Foundation
+3328,29 Ventures
+3329,Zain Ventures
+3330,Zar Fund Group
+3331,Zeal Capital Partners
+3332,Zen Investments
+3333,Zimtu Capital (TSX: ZC)
+3334,zVentures
+3335,Zyyo
