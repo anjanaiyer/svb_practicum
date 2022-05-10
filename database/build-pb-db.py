@@ -87,13 +87,13 @@ def create_pb_funds_tables():
 ###Importbyo
     
 def import_csv_files():
-    pb_lp_info = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/pitchbook_data_2/lp_info.csv')
+    pb_lp_info = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/pitchbook_data_2/lp_info.csv')
     pb_lp_info.to_sql('pb_lp',conn, if_exists='replace', index = False)
     
-    pb_investor_info = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/pitchbook_data_2/investor_info.csv')
+    pb_investor_info = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/pitchbook_data_2/investor_info.csv')
     pb_investor_info.to_sql('pb_investor',conn, if_exists='replace', index = False)
     
-    pb_investor_lp = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/pitchbook_data_2/investor_lp.csv')
+    pb_investor_lp = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/pitchbook_data_2/investor_lp.csv')
     pb_investor_lp.to_sql('pb_lp_investor',conn, if_exists='replace', index = False)
     
 

@@ -114,25 +114,25 @@ def create_byo_lp_tables():
 
 def import_csv_files():
     
-    buyouts_lp_final = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_lp/buyouts_lp_csv/buyouts_lp_final.csv')
+    buyouts_lp_final = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_lp/buyouts_lp_csv/buyouts_lp_final.csv')
     buyouts_lp_final.to_sql('byo_lp', conn, if_exists='replace', index=False) 
     
-    buyouts_lp_type_id = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_lp/buyouts_lp_csv/lp_types.csv')
+    buyouts_lp_type_id = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_lp/buyouts_lp_csv/lp_types.csv')
     buyouts_lp_type_id.to_sql('byo_lp_type', conn, if_exists='replace', index=False)
     
-    lp_strategy = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_lp/buyouts_lp_csv/lp_strategy.csv')
+    lp_strategy = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_lp/buyouts_lp_csv/lp_strategy.csv')
     lp_strategy.to_sql('byo_lp_strategy', conn, if_exists='replace', index=False) 
     
-    lp_sector = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_lp/buyouts_lp_csv/lp_sector.csv')
+    lp_sector = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_lp/buyouts_lp_csv/lp_sector.csv')
     lp_sector.to_sql('byo_lp_sector', conn, if_exists='replace', index=False)
     
-    lp_commitments = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_lp/buyouts_lp_csv/lp_commitments.csv')
+    lp_commitments = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_lp/buyouts_lp_csv/lp_commitments.csv')
     lp_commitments.to_sql('byo_lp_commitment', conn, if_exists='replace', index=False)
     
-    lp_office = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_lp/buyouts_lp_csv/lp_office.csv')
+    lp_office = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_lp/buyouts_lp_csv/lp_office.csv')
     lp_office.to_sql('byo_lp_office', conn, if_exists='replace', index=False)
     
-    lp_contact = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_lp/buyouts_lp_csv/lp_contact.csv')
+    lp_contact = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_lp/buyouts_lp_csv/lp_contact.csv')
     lp_contact.to_sql('byo_lp_contact', conn, if_exists='replace', index=False)
     
 def main():

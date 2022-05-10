@@ -46,6 +46,7 @@ def create_byo_funds_tables():
         fm_fund_history_id INTEGER NOT NULL PRIMARY KEY,
         fm_id INTEGER NOT NULL,
         fund_id INTEGER NOT NULL,
+        fund_name TEXT NOT NULL,
         vintage_year INTEGER NOT NULL,
         region TEXT NOT NULL,
         sector TEXT NULL,
@@ -132,28 +133,28 @@ def create_byo_funds_tables():
     ''')
 
 def import_csv_files():
-    byo_fund_manager = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_id.csv')
+    byo_fund_manager = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_id.csv')
     byo_fund_manager.to_sql('byo_fund_manager', conn, if_exists='replace', index = False)
 
-    byo_funds = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_funds_final.csv')
+    byo_funds = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_funds_final.csv')
     byo_funds.to_sql('byo_fund',conn, if_exists='replace', index = False)
 
-    byo_fm_fund_history = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_fund_history.csv')
+    byo_fm_fund_history = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_fund_history.csv')
     byo_fm_fund_history.to_sql('byo_fm_fund_history',conn, if_exists='replace', index = False)
 
-    byo_fm_contact = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_contact.csv')
+    byo_fm_contact = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_contact.csv')
     byo_fm_contact.to_sql('byo_fm_contact',conn, if_exists='replace', index = False)
 
-    byo_fm_office = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_office.csv')
+    byo_fm_office = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_office.csv')
     byo_fm_office.to_sql('byo_fm_office',conn, if_exists='replace', index = False)
 
-    byo_fm_sectors = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_sectors.csv')
+    byo_fm_sectors = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_sectors.csv')
     byo_fm_sectors.to_sql('byo_fm_sector',conn, if_exists='replace', index = False)
 
-    byo_fm_strategies = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_strategy.csv')
+    byo_fm_strategies = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_fm_strategy.csv')
     byo_fm_strategies.to_sql('byo_fm_strategy',conn, if_exists='replace', index = False )
     
-    byo_historical_fund = pd.read_csv('/Users/AmeliaMazer/Documents/2022_svb_github/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_historical_funds.csv')
+    byo_historical_fund = pd.read_csv('/Users/AmeliaMazer/Documents/svb_practicum/buyouts/buyouts_funds/buyouts_funds_csv/buyouts_historical_funds.csv')
     byo_historical_fund.to_sql('byo_historical_fund',conn, if_exists='replace', index = False )
     
 
