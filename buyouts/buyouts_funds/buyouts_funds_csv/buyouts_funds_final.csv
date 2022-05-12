@@ -1,4 +1,4 @@
-,fund_id,name,manager_id,strategy,sector,region,country,target_fund_size_amt,target_fund_size_currency,fund_size_amt,fund_currency,status,stage,vintage_year,open_date
+,fund_id,fund_name,fm_id,strategy,sector,region,country,target_fund_size_amt,target_fund_size_currency,fund_size_amt,fund_currency,status,stage,vintage_year,open_date
 0,34866,Ascent Venture Partners VII,6381,Venture Capital / Growth Equity,TMT,North America,United States,150000000.0,USD,,,Launched,,2020,2020-0
 1,36284,Fall Line Endurance Fund (Open-Ended),15168,Venture Capital / Growth Equity,TMT,North America,United States,,,285000000.0,USD,Currently Investing,,2019,2016-7
 2,36284,Fall Line Endurance Fund (Open-Ended),15168,Venture Capital / Growth Equity,Agribusiness,North America,United States,,,285000000.0,USD,Currently Investing,,2019,2016-7

@@ -1,3134 +1,3134 @@
-has_appetite,fm_sector_id,fm_id,sector
-False,2658,1671,Agribusiness
-False,883,1671,Biotech / Life Science
-False,2172,1671,Business Services
-False,1270,1671,Clean Tech / Renewable
-False,939,1671,Consumer Goods
-True,710,1671,Diversified
-False,1577,1671,Energy / Oil & Gas
-False,349,1671,Financial Services
-False,234,1671,Healthcare
-False,1328,1671,Industrials
-False,614,1671,Leisure
-False,2263,1671,Manufacturing
-False,2715,1671,Natural Resources
-False,2949,1671,Other
-False,2424,1671,Retail
-False,723,1671,TMT
-False,1793,1671,Transport
-True,979,5348,Biotech / Life Science
-True,2841,5348,Clean Tech / Renewable
-True,2929,5348,Consumer Goods
-True,2626,5348,Diversified
-False,891,5348,Energy / Oil & Gas
-True,3050,5348,Financial Services
-True,65,5348,Healthcare
-True,850,5348,Industrials
-True,2522,5348,Leisure
-False,1922,5348,Manufacturing
-False,2777,5348,Natural Resources
-False,3111,5348,Other
-True,2594,5348,Retail
-True,3100,5348,TMT
-False,2485,5348,Transport
-False,2794,13554,Biotech / Life Science
-True,2898,13554,Clean Tech / Renewable
-False,1335,13554,Consumer Goods
-False,2797,13554,Diversified
-True,2967,13554,Energy / Oil & Gas
-False,738,13554,Financial Services
-False,1341,13554,Healthcare
-False,3056,13554,Industrials
-False,2811,13554,Leisure
-False,12,13554,Manufacturing
-False,931,13554,Natural Resources
-False,1917,13554,Other
-False,2888,13554,Retail
-False,2987,13554,TMT
-False,1760,13554,Transport
-False,1467,6701,Biotech / Life Science
-False,1459,6701,Business Services
-False,1436,6701,Clean Tech / Renewable
-False,1951,6701,Consumer Goods
-False,1681,6701,Diversified
-False,448,6701,Energy / Oil & Gas
-False,1204,6701,Financial Services
-False,2260,6701,Healthcare
-False,2700,6701,Industrials
-False,1085,6701,Leisure
-False,2009,6701,Manufacturing
-False,1926,6701,Natural Resources
-False,528,6701,Other
-False,1385,6701,Retail
-True,1325,6701,TMT
-False,2698,6701,Transport
-False,1517,18204,Agribusiness
-False,1375,18204,Biotech / Life Science
-False,853,18204,Business Services
-False,523,18204,Clean Tech / Renewable
-False,2412,18204,Consumer Goods
-True,1006,18204,Diversified
-False,1607,18204,Energy / Oil & Gas
-False,2404,18204,Financial Services
-False,546,18204,Healthcare
-False,684,18204,Industrials
-False,2518,18204,Leisure
-False,781,18204,Manufacturing
-False,2556,18204,Natural Resources
-False,2896,18204,Other
-False,1246,18204,Retail
-False,3060,18204,TMT
-False,934,18204,Transport
-False,1271,11995,Biotech / Life Science
-False,1699,11995,Clean Tech / Renewable
-False,179,11995,Consumer Goods
-True,274,11995,Diversified
-False,2442,11995,Energy / Oil & Gas
-False,2555,11995,Financial Services
-False,2378,11995,Healthcare
-False,1865,11995,Industrials
-False,2115,11995,Leisure
-False,2914,11995,Manufacturing
-False,20,11995,Natural Resources
-False,445,11995,Other
-False,2464,11995,Retail
-False,1206,11995,TMT
-False,258,11995,Transport
-False,1308,16981,Agribusiness
-False,31,16981,Biotech / Life Science
-True,1305,16981,Business Services
-False,1479,16981,Clean Tech / Renewable
-True,2723,16981,Consumer Goods
-True,1112,16981,Diversified
-False,1543,16981,Energy / Oil & Gas
-False,379,16981,Financial Services
-False,567,16981,Healthcare
-False,2429,16981,Industrials
-False,1679,16981,Leisure
-False,2768,16981,Manufacturing
-False,2671,16981,Natural Resources
-False,2016,16981,Other
-False,2245,16981,Retail
-False,1365,16981,TMT
-False,489,16981,Transport
-True,648,93,Biotech / Life Science
-True,804,93,Clean Tech / Renewable
-True,1261,93,Consumer Goods
-True,3040,93,Diversified
-True,477,93,Energy / Oil & Gas
-True,1465,93,Financial Services
-True,1386,93,Healthcare
-True,2179,93,Industrials
-True,1985,93,Leisure
-True,2262,93,Manufacturing
-True,759,93,Natural Resources
-False,694,93,Other
-True,1746,93,Retail
-True,2186,93,TMT
-True,647,93,Transport
-True,1208,6744,Biotech / Life Science
-False,1161,6744,Clean Tech / Renewable
-True,1377,6744,Consumer Goods
-False,771,6744,Diversified
-False,2609,6744,Energy / Oil & Gas
-True,738,6744,Financial Services
-True,2094,6744,Healthcare
-True,496,6744,Industrials
-False,600,6744,Leisure
-True,1395,6744,Manufacturing
-False,585,6744,Natural Resources
-False,3117,6744,Other
-True,328,6744,Retail
-True,1219,6744,TMT
-True,2523,6744,Transport
-True,222,8314,Biotech / Life Science
-False,770,8314,Clean Tech / Renewable
-True,2658,8314,Consumer Goods
-False,340,8314,Diversified
-False,2978,8314,Energy / Oil & Gas
-False,196,8314,Financial Services
-False,2323,8314,Healthcare
-False,1041,8314,Industrials
-False,106,8314,Leisure
-False,1497,8314,Manufacturing
-False,1837,8314,Natural Resources
-True,931,8314,Other
-False,1427,8314,Retail
-True,1158,8314,TMT
-False,2477,8314,Transport
-False,2270,1780,Biotech / Life Science
-False,1962,1780,Clean Tech / Renewable
-True,1694,1780,Consumer Goods
-True,1077,1780,Diversified
-True,1261,1780,Energy / Oil & Gas
-True,2577,1780,Financial Services
-True,480,1780,Healthcare
-True,304,1780,Industrials
-False,1232,1780,Leisure
-True,968,1780,Manufacturing
-False,1554,1780,Natural Resources
-False,1523,1780,Other
-False,1784,1780,Retail
-True,2671,1780,TMT
-True,2401,1780,Transport
-False,874,3668,Biotech / Life Science
-True,2145,3668,Clean Tech / Renewable
-True,2960,3668,Consumer Goods
-False,2811,3668,Diversified
-True,302,3668,Energy / Oil & Gas
-False,2348,3668,Financial Services
-True,1461,3668,Healthcare
-False,2087,3668,Industrials
-False,28,3668,Leisure
-False,1522,3668,Manufacturing
-False,1029,3668,Natural Resources
-False,1981,3668,Other
-False,1786,3668,Retail
-True,2747,3668,TMT
-False,2356,3668,Transport
-False,1183,12716,Biotech / Life Science
-False,2286,12716,Clean Tech / Renewable
-False,862,12716,Consumer Goods
-False,330,12716,Diversified
-False,1438,12716,Energy / Oil & Gas
-False,1080,12716,Financial Services
-True,67,12716,Healthcare
-False,1135,12716,Industrials
-False,2267,12716,Leisure
-False,88,12716,Manufacturing
-False,1846,12716,Natural Resources
-False,732,12716,Other
-False,2077,12716,Retail
-False,2246,12716,TMT
-False,577,12716,Transport
-False,2822,3302,Biotech / Life Science
-False,831,3302,Clean Tech / Renewable
-False,2922,3302,Consumer Goods
-True,1994,3302,Diversified
-False,1953,3302,Energy / Oil & Gas
-False,1159,3302,Financial Services
-False,1932,3302,Healthcare
-False,565,3302,Industrials
-False,2939,3302,Leisure
-False,2004,3302,Manufacturing
-False,536,3302,Natural Resources
-False,2338,3302,Other
-False,1698,3302,Retail
-False,2254,3302,TMT
-False,1171,3302,Transport
-False,2981,16455,Agribusiness
-False,2977,16455,Biotech / Life Science
-False,2532,16455,Business Services
-False,2581,16455,Clean Tech / Renewable
-False,1164,16455,Consumer Goods
-True,2235,16455,Diversified
-False,1224,16455,Energy / Oil & Gas
-False,313,16455,Financial Services
-False,1151,16455,Healthcare
-False,1831,16455,Industrials
-False,572,16455,Leisure
-False,2808,16455,Manufacturing
-False,2505,16455,Natural Resources
-False,1753,16455,Other
-False,2522,16455,Retail
-False,2029,16455,TMT
-False,1888,16455,Transport
-False,2834,17649,Agribusiness
-False,496,17649,Biotech / Life Science
-True,2407,17649,Business Services
-False,119,17649,Clean Tech / Renewable
-False,1074,17649,Consumer Goods
-False,2920,17649,Diversified
-False,1669,17649,Energy / Oil & Gas
-False,1006,17649,Financial Services
-False,80,17649,Healthcare
-False,825,17649,Industrials
-False,2723,17649,Leisure
-False,3102,17649,Manufacturing
-False,1543,17649,Natural Resources
-False,953,17649,Other
-False,1755,17649,Retail
-True,1449,17649,TMT
-False,1723,17649,Transport
-False,214,4310,Biotech / Life Science
-False,2675,4310,Clean Tech / Renewable
-True,1656,4310,Consumer Goods
-True,1876,4310,Diversified
-False,1321,4310,Energy / Oil & Gas
-True,706,4310,Financial Services
-True,1405,4310,Healthcare
-False,536,4310,Industrials
-False,1938,4310,Leisure
-False,649,4310,Manufacturing
-False,829,4310,Natural Resources
-False,2548,4310,Other
-False,309,4310,Retail
-False,1600,4310,TMT
-False,1733,4310,Transport
-False,727,7085,Biotech / Life Science
-True,2399,7085,Clean Tech / Renewable
-True,1061,7085,Consumer Goods
-True,3081,7085,Diversified
-True,526,7085,Energy / Oil & Gas
-True,627,7085,Financial Services
-True,2072,7085,Healthcare
-True,2449,7085,Industrials
-False,182,7085,Leisure
-True,117,7085,Manufacturing
-True,1060,7085,Natural Resources
-False,597,7085,Other
-True,1047,7085,Retail
-True,479,7085,TMT
-True,2417,7085,Transport
-True,1131,2827,Biotech / Life Science
-False,131,2827,Clean Tech / Renewable
-True,2274,2827,Consumer Goods
-True,2351,2827,Diversified
-True,823,2827,Energy / Oil & Gas
-True,1718,2827,Financial Services
-True,2042,2827,Healthcare
-True,2922,2827,Industrials
-True,2690,2827,Leisure
-True,2222,2827,Manufacturing
-False,385,2827,Natural Resources
-False,1627,2827,Other
-True,2749,2827,Retail
-True,3044,2827,TMT
-True,630,2827,Transport
-False,820,9345,Agribusiness
-False,642,9345,Biotech / Life Science
-False,2345,9345,Business Services
-False,192,9345,Clean Tech / Renewable
-False,395,9345,Consumer Goods
-False,906,9345,Diversified
-True,914,9345,Energy / Oil & Gas
-True,154,9345,Financial Services
-True,2757,9345,Healthcare
-False,249,9345,Industrials
-False,605,9345,Leisure
-False,2551,9345,Manufacturing
-False,2346,9345,Natural Resources
-False,3131,9345,Other
-False,2940,9345,Retail
-False,2496,9345,TMT
-False,1246,9345,Transport
-True,2335,6521,Biotech / Life Science
-True,2421,6521,Clean Tech / Renewable
-True,2983,6521,Consumer Goods
-True,2703,6521,Diversified
-True,1374,6521,Energy / Oil & Gas
-True,3083,6521,Financial Services
-True,1279,6521,Healthcare
-False,1584,6521,Industrials
-True,1219,6521,Leisure
-True,1924,6521,Manufacturing
-True,193,6521,Natural Resources
-True,1721,6521,Other
-True,2993,6521,Retail
-True,2819,6521,TMT
-True,2439,6521,Transport
-False,397,3431,Biotech / Life Science
-False,2317,3431,Clean Tech / Renewable
-False,528,3431,Consumer Goods
-True,15,3431,Diversified
-False,2114,3431,Energy / Oil & Gas
-False,1222,3431,Financial Services
-False,3020,3431,Healthcare
-False,1516,3431,Industrials
-False,1668,3431,Leisure
-False,921,3431,Manufacturing
-False,15,3431,Natural Resources
-False,1377,3431,Other
-False,1234,3431,Retail
-False,888,3431,TMT
-False,3063,3431,Transport
-True,833,483,Biotech / Life Science
-True,841,483,Clean Tech / Renewable
-True,1448,483,Consumer Goods
-True,1408,483,Diversified
-True,2336,483,Energy / Oil & Gas
-True,586,483,Financial Services
-True,2405,483,Healthcare
-True,1015,483,Industrials
-False,1352,483,Leisure
-True,264,483,Manufacturing
-True,1651,483,Natural Resources
-False,1162,483,Other
-True,2560,483,Retail
-True,1439,483,TMT
-True,1300,483,Transport
-False,931,18670,Agribusiness
-True,1054,18670,Biotech / Life Science
-False,2980,18670,Business Services
-True,1510,18670,Clean Tech / Renewable
-False,2003,18670,Consumer Goods
-False,1729,18670,Diversified
-False,3008,18670,Energy / Oil & Gas
-False,1603,18670,Financial Services
-False,1617,18670,Healthcare
-False,2564,18670,Industrials
-False,22,18670,Leisure
-False,2188,18670,Manufacturing
-False,204,18670,Natural Resources
-False,1035,18670,Other
-False,2822,18670,Retail
-False,859,18670,TMT
-False,487,18670,Transport
-True,794,9785,Biotech / Life Science
-False,691,9785,Clean Tech / Renewable
-True,519,9785,Consumer Goods
-True,448,9785,Diversified
-False,167,9785,Energy / Oil & Gas
-True,2061,9785,Financial Services
-True,2270,9785,Healthcare
-True,1958,9785,Industrials
-False,2975,9785,Leisure
-True,805,9785,Manufacturing
-False,3022,9785,Natural Resources
-False,1921,9785,Other
-False,1368,9785,Retail
-True,782,9785,TMT
-True,344,9785,Transport
-True,444,954,Biotech / Life Science
-True,2359,954,Clean Tech / Renewable
-True,117,954,Consumer Goods
-True,1995,954,Diversified
-True,400,954,Energy / Oil & Gas
-True,3083,954,Financial Services
-True,1161,954,Healthcare
-True,1324,954,Industrials
-True,64,954,Leisure
-True,1130,954,Manufacturing
-False,1058,954,Natural Resources
-False,722,954,Other
-True,1470,954,Retail
-True,606,954,TMT
-True,1138,954,Transport
-True,1996,1801,Biotech / Life Science
-True,578,1801,Clean Tech / Renewable
-True,552,1801,Consumer Goods
-True,2198,1801,Diversified
-True,2918,1801,Energy / Oil & Gas
-True,1469,1801,Financial Services
-True,1586,1801,Healthcare
-True,1368,1801,Industrials
-False,2349,1801,Leisure
-True,797,1801,Manufacturing
-False,767,1801,Natural Resources
-False,2388,1801,Other
-True,167,1801,Retail
-True,3047,1801,TMT
-True,134,1801,Transport
-True,1611,2898,Biotech / Life Science
-True,2924,2898,Clean Tech / Renewable
-True,351,2898,Consumer Goods
-True,1486,2898,Diversified
-True,386,2898,Energy / Oil & Gas
-True,1134,2898,Financial Services
-True,1984,2898,Healthcare
-True,2709,2898,Industrials
-True,1313,2898,Leisure
-True,760,2898,Manufacturing
-True,2617,2898,Natural Resources
-False,797,2898,Other
-True,1203,2898,Retail
-True,1579,2898,TMT
-True,1256,2898,Transport
-False,2241,20082,Agribusiness
-False,1687,20082,Biotech / Life Science
-False,951,20082,Business Services
-False,2170,20082,Clean Tech / Renewable
-False,1190,20082,Consumer Goods
-False,2704,20082,Diversified
-False,1350,20082,Energy / Oil & Gas
-False,408,20082,Financial Services
-False,2943,20082,Healthcare
-False,2500,20082,Industrials
-False,1671,20082,Leisure
-False,160,20082,Manufacturing
-False,1958,20082,Natural Resources
-False,1528,20082,Other
-False,906,20082,Retail
-True,1349,20082,TMT
-False,1716,20082,Transport
-,146,6389,
-True,2515,867,Biotech / Life Science
-False,391,867,Clean Tech / Renewable
-False,2346,867,Consumer Goods
-True,2553,867,Diversified
-True,493,867,Energy / Oil & Gas
-False,1316,867,Financial Services
-True,38,867,Healthcare
-True,1151,867,Industrials
-False,1385,867,Leisure
-False,1096,867,Manufacturing
-False,3017,867,Natural Resources
-False,499,867,Other
-False,362,867,Retail
-True,1655,867,TMT
-False,385,867,Transport
-True,2340,2161,Biotech / Life Science
-False,2911,2161,Clean Tech / Renewable
-True,1684,2161,Consumer Goods
-True,1600,2161,Diversified
-True,1590,2161,Energy / Oil & Gas
-True,1128,2161,Financial Services
-True,164,2161,Healthcare
-True,2308,2161,Industrials
-True,867,2161,Leisure
-False,2049,2161,Manufacturing
-False,1693,2161,Natural Resources
-False,2820,2161,Other
-True,3124,2161,Retail
-True,2871,2161,TMT
-True,3092,2161,Transport
-True,2456,5595,Biotech / Life Science
-True,994,5595,Clean Tech / Renewable
-True,222,5595,Consumer Goods
-True,762,5595,Diversified
-True,106,5595,Energy / Oil & Gas
-True,806,5595,Financial Services
-True,175,5595,Healthcare
-True,2984,5595,Industrials
-True,1016,5595,Leisure
-True,1936,5595,Manufacturing
-True,2576,5595,Natural Resources
-True,415,5595,Other
-True,151,5595,Retail
-True,3079,5595,TMT
-True,649,5595,Transport
-False,146,8996,Biotech / Life Science
-False,2020,8996,Business Services
-False,978,8996,Clean Tech / Renewable
-False,830,8996,Consumer Goods
-False,958,8996,Diversified
-False,2389,8996,Energy / Oil & Gas
-False,1296,8996,Financial Services
-False,956,8996,Healthcare
-False,2061,8996,Industrials
-False,42,8996,Leisure
-False,1589,8996,Manufacturing
-False,88,8996,Natural Resources
-False,1618,8996,Other
-False,288,8996,Retail
-True,345,8996,TMT
-False,1879,8996,Transport
-True,2912,3901,Biotech / Life Science
-False,1816,3901,Clean Tech / Renewable
-False,596,3901,Consumer Goods
-False,1971,3901,Diversified
-False,2695,3901,Energy / Oil & Gas
-False,1836,3901,Financial Services
-False,948,3901,Healthcare
-False,297,3901,Industrials
-False,2816,3901,Leisure
-False,324,3901,Manufacturing
-False,2033,3901,Natural Resources
-False,865,3901,Other
-False,974,3901,Retail
-True,1974,3901,TMT
-False,316,3901,Transport
-True,2886,6635,Biotech / Life Science
-True,2506,6635,Clean Tech / Renewable
-True,796,6635,Consumer Goods
-True,1235,6635,Diversified
-True,567,6635,Energy / Oil & Gas
-True,1678,6635,Financial Services
-True,2891,6635,Healthcare
-True,1010,6635,Industrials
-True,1738,6635,Leisure
-True,928,6635,Manufacturing
-True,764,6635,Natural Resources
-True,2070,6635,Other
-True,1352,6635,Retail
-True,772,6635,TMT
-True,1185,6635,Transport
-True,352,6595,Biotech / Life Science
-True,2382,6595,Clean Tech / Renewable
-True,972,6595,Consumer Goods
-True,2727,6595,Diversified
-True,327,6595,Energy / Oil & Gas
-True,794,6595,Financial Services
-True,1995,6595,Healthcare
-True,1627,6595,Industrials
-False,1670,6595,Leisure
-True,603,6595,Manufacturing
-False,2157,6595,Natural Resources
-False,1635,6595,Other
-True,84,6595,Retail
-True,134,6595,TMT
-True,1919,6595,Transport
-False,1214,1079,Biotech / Life Science
-True,2019,1079,Clean Tech / Renewable
-True,743,1079,Consumer Goods
-False,1611,1079,Diversified
-False,1620,1079,Energy / Oil & Gas
-True,1332,1079,Financial Services
-True,1709,1079,Healthcare
-False,3091,1079,Industrials
-False,1502,1079,Leisure
-False,1718,1079,Manufacturing
-False,1176,1079,Natural Resources
-False,2064,1079,Other
-True,438,1079,Retail
-True,307,1079,TMT
-False,1687,1079,Transport
-False,2463,7735,Biotech / Life Science
-False,2349,7735,Clean Tech / Renewable
-False,960,7735,Consumer Goods
-False,836,7735,Diversified
-False,771,7735,Energy / Oil & Gas
-False,1736,7735,Financial Services
-False,436,7735,Healthcare
-False,1017,7735,Industrials
-False,1539,7735,Leisure
-False,210,7735,Manufacturing
-False,2363,7735,Natural Resources
-False,702,7735,Other
-False,810,7735,Retail
-True,2188,7735,TMT
-False,2952,7735,Transport
-True,778,5576,Biotech / Life Science
-False,3050,5576,Clean Tech / Renewable
-True,185,5576,Consumer Goods
-True,347,5576,Diversified
-True,768,5576,Energy / Oil & Gas
-True,340,5576,Financial Services
-True,1760,5576,Healthcare
-True,1655,5576,Industrials
-True,1966,5576,Leisure
-False,2486,5576,Manufacturing
-False,2514,5576,Natural Resources
-False,796,5576,Other
-True,1655,5576,Retail
-True,2442,5576,TMT
-True,263,5576,Transport
-True,1052,1762,Biotech / Life Science
-False,2366,1762,Clean Tech / Renewable
-True,1258,1762,Consumer Goods
-True,913,1762,Diversified
-False,1249,1762,Energy / Oil & Gas
-True,665,1762,Financial Services
-True,1674,1762,Healthcare
-True,981,1762,Industrials
-True,794,1762,Leisure
-True,94,1762,Manufacturing
-False,1117,1762,Natural Resources
-True,1063,1762,Other
-False,642,1762,Retail
-True,2280,1762,TMT
-False,3088,1762,Transport
-False,2031,16825,Agribusiness
-False,149,16825,Biotech / Life Science
-False,2094,16825,Business Services
-False,1908,16825,Clean Tech / Renewable
-False,774,16825,Consumer Goods
-True,1509,16825,Diversified
-False,1555,16825,Energy / Oil & Gas
-False,2687,16825,Financial Services
-False,2679,16825,Healthcare
-False,744,16825,Industrials
-False,2844,16825,Leisure
-False,2307,16825,Manufacturing
-False,1491,16825,Natural Resources
-False,935,16825,Other
-False,2196,16825,Retail
-False,2631,16825,TMT
-False,705,16825,Transport
-False,1322,7079,Biotech / Life Science
-False,2978,7079,Business Services
-False,1765,7079,Clean Tech / Renewable
-True,2952,7079,Consumer Goods
-False,2672,7079,Diversified
-False,663,7079,Energy / Oil & Gas
-False,152,7079,Financial Services
-False,186,7079,Healthcare
-False,1823,7079,Industrials
-False,289,7079,Leisure
-False,1305,7079,Manufacturing
-False,3122,7079,Natural Resources
-False,1793,7079,Other
-False,288,7079,Retail
-True,1014,7079,TMT
-False,19,7079,Transport
-True,2263,1952,Biotech / Life Science
-True,1306,1952,Clean Tech / Renewable
-True,1274,1952,Consumer Goods
-True,2508,1952,Diversified
-True,1771,1952,Energy / Oil & Gas
-True,2169,1952,Financial Services
-True,3121,1952,Healthcare
-True,2539,1952,Industrials
-True,517,1952,Leisure
-False,2006,1952,Manufacturing
-False,1939,1952,Natural Resources
-True,1905,1952,Other
-True,1235,1952,Retail
-True,2958,1952,TMT
-True,297,1952,Transport
-False,186,4297,Biotech / Life Science
-False,2725,4297,Clean Tech / Renewable
-False,2265,4297,Consumer Goods
-False,2239,4297,Diversified
-True,3007,4297,Energy / Oil & Gas
-True,223,4297,Financial Services
-True,1538,4297,Healthcare
-False,2964,4297,Industrials
-True,2649,4297,Leisure
-True,1325,4297,Manufacturing
-False,2284,4297,Natural Resources
-True,590,4297,Other
-True,2321,4297,Retail
-True,2821,4297,TMT
-False,2889,4297,Transport
-True,2416,1013,Biotech / Life Science
-False,729,1013,Clean Tech / Renewable
-True,2502,1013,Consumer Goods
-True,1864,1013,Diversified
-True,2607,1013,Energy / Oil & Gas
-True,1282,1013,Financial Services
-True,1538,1013,Healthcare
-True,651,1013,Industrials
-True,313,1013,Leisure
-True,676,1013,Manufacturing
-False,2347,1013,Natural Resources
-True,3131,1013,Other
-True,818,1013,Retail
-True,3013,1013,TMT
-True,2921,1013,Transport
-False,3039,16907,Agribusiness
-False,1762,16907,Biotech / Life Science
-False,2694,16907,Business Services
-False,1350,16907,Clean Tech / Renewable
-False,2530,16907,Consumer Goods
-True,2010,16907,Diversified
-False,2859,16907,Energy / Oil & Gas
-False,1359,16907,Financial Services
-False,2870,16907,Healthcare
-False,2614,16907,Industrials
-False,2770,16907,Leisure
-False,759,16907,Manufacturing
-False,632,16907,Natural Resources
-False,2138,16907,Other
-False,1243,16907,Retail
-False,2085,16907,TMT
-False,763,16907,Transport
-True,1683,6350,Biotech / Life Science
-True,1395,6350,Clean Tech / Renewable
-True,1812,6350,Consumer Goods
-True,1861,6350,Diversified
-True,1915,6350,Energy / Oil & Gas
-True,2895,6350,Financial Services
-True,841,6350,Healthcare
-True,422,6350,Industrials
-True,2458,6350,Leisure
-False,2588,6350,Manufacturing
-False,599,6350,Natural Resources
-False,2686,6350,Other
-True,1980,6350,Retail
-True,1602,6350,TMT
-True,473,6350,Transport
-True,450,2043,Biotech / Life Science
-False,272,2043,Clean Tech / Renewable
-True,390,2043,Consumer Goods
-True,544,2043,Diversified
-False,944,2043,Energy / Oil & Gas
-False,2405,2043,Financial Services
-True,19,2043,Healthcare
-False,1551,2043,Industrials
-False,1399,2043,Leisure
-False,515,2043,Manufacturing
-False,1595,2043,Natural Resources
-True,1340,2043,Other
-False,1977,2043,Retail
-True,2507,2043,TMT
-False,1565,2043,Transport
-True,2607,6359,Biotech / Life Science
-True,851,6359,Clean Tech / Renewable
-True,353,6359,Consumer Goods
-True,1311,6359,Diversified
-True,127,6359,Energy / Oil & Gas
-True,952,6359,Financial Services
-True,183,6359,Healthcare
-True,1914,6359,Industrials
-True,539,6359,Leisure
-True,2080,6359,Manufacturing
-True,435,6359,Natural Resources
-True,2336,6359,Other
-True,3066,6359,Retail
-True,126,6359,TMT
-True,1187,6359,Transport
-False,1448,2838,Biotech / Life Science
-False,1743,2838,Clean Tech / Renewable
-False,1915,2838,Consumer Goods
-True,202,2838,Diversified
-False,27,2838,Energy / Oil & Gas
-False,2133,2838,Financial Services
-False,2738,2838,Healthcare
-False,877,2838,Industrials
-False,2649,2838,Leisure
-False,88,2838,Manufacturing
-False,18,2838,Natural Resources
-False,2273,2838,Other
-False,2846,2838,Retail
-False,604,2838,TMT
-False,1778,2838,Transport
-False,2405,18631,Agribusiness
-False,44,18631,Biotech / Life Science
-True,1284,18631,Business Services
-False,327,18631,Clean Tech / Renewable
-False,1339,18631,Consumer Goods
-True,2450,18631,Diversified
-False,1433,18631,Energy / Oil & Gas
-True,1959,18631,Financial Services
-True,1805,18631,Healthcare
-False,842,18631,Industrials
-False,1368,18631,Leisure
-False,1647,18631,Manufacturing
-False,143,18631,Natural Resources
-False,2693,18631,Other
-False,1646,18631,Retail
-True,2471,18631,TMT
-False,944,18631,Transport
-True,2558,6610,Biotech / Life Science
-True,702,6610,Clean Tech / Renewable
-True,241,6610,Consumer Goods
-True,761,6610,Diversified
-False,1508,6610,Energy / Oil & Gas
-False,2492,6610,Financial Services
-True,2607,6610,Healthcare
-False,131,6610,Industrials
-False,2364,6610,Leisure
-False,2839,6610,Manufacturing
-False,864,6610,Natural Resources
-True,2481,6610,Other
-False,2690,6610,Retail
-True,1110,6610,TMT
-False,788,6610,Transport
-False,2295,2011,Biotech / Life Science
-True,2092,2011,Clean Tech / Renewable
-True,527,2011,Consumer Goods
-True,2811,2011,Diversified
-True,1594,2011,Energy / Oil & Gas
-True,391,2011,Financial Services
-True,2816,2011,Healthcare
-True,1068,2011,Industrials
-False,90,2011,Leisure
-False,2623,2011,Manufacturing
-False,1126,2011,Natural Resources
-False,1843,2011,Other
-True,2925,2011,Retail
-True,1877,2011,TMT
-False,239,2011,Transport
-True,809,5687,Biotech / Life Science
-True,1119,5687,Clean Tech / Renewable
-True,747,5687,Consumer Goods
-True,711,5687,Diversified
-False,2419,5687,Energy / Oil & Gas
-True,1687,5687,Financial Services
-True,2931,5687,Healthcare
-True,2031,5687,Industrials
-True,54,5687,Leisure
-True,1461,5687,Manufacturing
-False,1438,5687,Natural Resources
-True,2208,5687,Other
-True,351,5687,Retail
-True,67,5687,TMT
-True,816,5687,Transport
-True,2595,914,Biotech / Life Science
-True,2399,914,Clean Tech / Renewable
-True,1988,914,Consumer Goods
-True,1717,914,Diversified
-True,597,914,Energy / Oil & Gas
-True,1300,914,Financial Services
-True,1115,914,Healthcare
-True,1042,914,Industrials
-True,400,914,Leisure
-False,2276,914,Manufacturing
-False,2877,914,Natural Resources
-False,1593,914,Other
-True,335,914,Retail
-True,498,914,TMT
-True,2249,914,Transport
-False,2892,6608,Biotech / Life Science
-False,380,6608,Clean Tech / Renewable
-False,1927,6608,Consumer Goods
-False,154,6608,Diversified
-False,606,6608,Energy / Oil & Gas
-True,2683,6608,Financial Services
-True,2514,6608,Healthcare
-True,2228,6608,Industrials
-False,1176,6608,Leisure
-False,361,6608,Manufacturing
-False,606,6608,Natural Resources
-True,2239,6608,Other
-False,2890,6608,Retail
-True,264,6608,TMT
-False,230,6608,Transport
-True,606,6523,Biotech / Life Science
-True,3019,6523,Clean Tech / Renewable
-True,2667,6523,Consumer Goods
-True,1192,6523,Diversified
-True,2856,6523,Energy / Oil & Gas
-False,1490,6523,Financial Services
-True,1976,6523,Healthcare
-True,916,6523,Industrials
-False,1902,6523,Leisure
-False,35,6523,Manufacturing
-False,2593,6523,Natural Resources
-True,2119,6523,Other
-True,1680,6523,Retail
-True,2402,6523,TMT
-True,1738,6523,Transport
-True,2238,8032,Biotech / Life Science
-True,272,8032,Clean Tech / Renewable
-True,1055,8032,Consumer Goods
-True,818,8032,Diversified
-True,2123,8032,Energy / Oil & Gas
-True,170,8032,Financial Services
-True,3103,8032,Healthcare
-True,2618,8032,Industrials
-True,3107,8032,Leisure
-True,867,8032,Manufacturing
-False,1312,8032,Natural Resources
-False,2571,8032,Other
-True,1462,8032,Retail
-True,1814,8032,TMT
-True,2742,8032,Transport
-False,1691,20141,Agribusiness
-False,1646,20141,Biotech / Life Science
-False,2571,20141,Business Services
-False,1642,20141,Clean Tech / Renewable
-False,1902,20141,Consumer Goods
-True,2695,20141,Diversified
-False,1099,20141,Energy / Oil & Gas
-True,2130,20141,Financial Services
-True,2181,20141,Healthcare
-False,1204,20141,Industrials
-True,2305,20141,Leisure
-False,3048,20141,Manufacturing
-False,3037,20141,Natural Resources
-False,1687,20141,Other
-False,3021,20141,Retail
-False,574,20141,TMT
-False,1442,20141,Transport
-True,73,2790,Biotech / Life Science
-False,3043,2790,Clean Tech / Renewable
-False,167,2790,Consumer Goods
-False,1807,2790,Diversified
-False,1846,2790,Energy / Oil & Gas
-False,2428,2790,Financial Services
-True,2899,2790,Healthcare
-False,2701,2790,Industrials
-False,1867,2790,Leisure
-False,2025,2790,Manufacturing
-False,2334,2790,Natural Resources
-False,343,2790,Other
-False,2851,2790,Retail
-True,1293,2790,TMT
-False,1674,2790,Transport
-True,2983,1722,Biotech / Life Science
-False,1796,1722,Clean Tech / Renewable
-False,1617,1722,Consumer Goods
-True,556,1722,Diversified
-False,1323,1722,Energy / Oil & Gas
-True,2425,1722,Financial Services
-True,2433,1722,Healthcare
-False,1455,1722,Industrials
-False,2388,1722,Leisure
-False,488,1722,Manufacturing
-False,2215,1722,Natural Resources
-False,2693,1722,Other
-False,2731,1722,Retail
-False,3129,1722,TMT
-False,1415,1722,Transport
-False,2079,1005,Biotech / Life Science
-False,451,1005,Clean Tech / Renewable
-False,556,1005,Consumer Goods
-True,1165,1005,Diversified
-False,2395,1005,Energy / Oil & Gas
-False,381,1005,Financial Services
-False,3124,1005,Healthcare
-False,1242,1005,Industrials
-False,2488,1005,Leisure
-False,1457,1005,Manufacturing
-False,2797,1005,Natural Resources
-False,260,1005,Other
-False,1903,1005,Retail
-False,1912,1005,TMT
-False,1569,1005,Transport
-False,2159,3479,Biotech / Life Science
-False,1080,3479,Clean Tech / Renewable
-False,528,3479,Consumer Goods
-True,1998,3479,Diversified
-False,2401,3479,Energy / Oil & Gas
-True,148,3479,Financial Services
-False,232,3479,Healthcare
-False,1506,3479,Industrials
-False,2059,3479,Leisure
-False,1545,3479,Manufacturing
-True,1000,3479,Natural Resources
-False,158,3479,Other
-True,935,3479,Retail
-True,791,3479,TMT
-False,1995,3479,Transport
-False,3014,6644,Biotech / Life Science
-False,2596,6644,Clean Tech / Renewable
-False,621,6644,Consumer Goods
-True,1000,6644,Diversified
-False,43,6644,Energy / Oil & Gas
-False,1218,6644,Financial Services
-False,2100,6644,Healthcare
-False,1946,6644,Industrials
-False,196,6644,Leisure
-False,3062,6644,Manufacturing
-False,437,6644,Natural Resources
-False,994,6644,Other
-False,1880,6644,Retail
-False,2622,6644,TMT
-False,911,6644,Transport
-False,2891,19429,Agribusiness
-False,1427,19429,Biotech / Life Science
-False,434,19429,Business Services
-False,2470,19429,Clean Tech / Renewable
-False,2380,19429,Consumer Goods
-False,2767,19429,Diversified
-False,220,19429,Energy / Oil & Gas
-False,1626,19429,Financial Services
-False,2282,19429,Healthcare
-False,435,19429,Industrials
-False,2095,19429,Leisure
-False,2218,19429,Manufacturing
-False,1814,19429,Natural Resources
-False,1224,19429,Other
-False,582,19429,Retail
-True,2518,19429,TMT
-False,776,19429,Transport
-False,725,20858,Agribusiness
-False,2182,20858,Biotech / Life Science
-False,718,20858,Business Services
-False,962,20858,Clean Tech / Renewable
-False,2305,20858,Consumer Goods
-False,686,20858,Diversified
-False,530,20858,Energy / Oil & Gas
-False,1441,20858,Financial Services
-False,114,20858,Healthcare
-False,2393,20858,Industrials
-False,761,20858,Leisure
-False,1369,20858,Manufacturing
-False,303,20858,Natural Resources
-False,2486,20858,Other
-False,1266,20858,Retail
-True,1752,20858,TMT
-False,830,20858,Transport
-False,942,16065,Agribusiness
-False,2199,16065,Biotech / Life Science
-True,1099,16065,Business Services
-False,1900,16065,Clean Tech / Renewable
-False,549,16065,Consumer Goods
-True,1962,16065,Diversified
-False,570,16065,Energy / Oil & Gas
-False,1355,16065,Financial Services
-False,2862,16065,Healthcare
-False,1627,16065,Industrials
-False,2249,16065,Leisure
-False,1853,16065,Manufacturing
-False,789,16065,Natural Resources
-False,987,16065,Other
-False,2255,16065,Retail
-True,1057,16065,TMT
-False,2625,16065,Transport
-False,1173,3944,Biotech / Life Science
-False,2959,3944,Clean Tech / Renewable
-False,2804,3944,Consumer Goods
-True,658,3944,Diversified
-False,2482,3944,Energy / Oil & Gas
-False,18,3944,Financial Services
-False,595,3944,Healthcare
-False,2227,3944,Industrials
-False,1957,3944,Leisure
-False,1112,3944,Manufacturing
-False,1281,3944,Natural Resources
-False,897,3944,Other
-False,1735,3944,Retail
-False,1733,3944,TMT
-False,1842,3944,Transport
-True,810,6550,Biotech / Life Science
-True,3050,6550,Clean Tech / Renewable
-True,866,6550,Consumer Goods
-True,324,6550,Diversified
-True,1881,6550,Energy / Oil & Gas
-True,2172,6550,Financial Services
-True,1417,6550,Healthcare
-True,2729,6550,Industrials
-True,275,6550,Leisure
-True,1122,6550,Manufacturing
-False,533,6550,Natural Resources
-False,1493,6550,Other
-True,1870,6550,Retail
-True,140,6550,TMT
-True,1210,6550,Transport
-True,243,5612,Biotech / Life Science
-True,598,5612,Clean Tech / Renewable
-True,883,5612,Consumer Goods
-True,2013,5612,Diversified
-True,1185,5612,Energy / Oil & Gas
-True,2918,5612,Financial Services
-True,970,5612,Healthcare
-True,2964,5612,Industrials
-True,1222,5612,Leisure
-True,1981,5612,Manufacturing
-True,61,5612,Natural Resources
-True,1317,5612,Other
-True,2003,5612,Retail
-True,1757,5612,TMT
-True,1497,5612,Transport
-False,3081,902,Biotech / Life Science
-True,2407,902,Clean Tech / Renewable
-True,2323,902,Consumer Goods
-True,2022,902,Diversified
-False,2691,902,Energy / Oil & Gas
-True,1250,902,Financial Services
-True,1503,902,Healthcare
-True,3078,902,Industrials
-False,2669,902,Leisure
-True,2354,902,Manufacturing
-False,3027,902,Natural Resources
-True,1496,902,Other
-True,2125,902,Retail
-True,2962,902,TMT
-False,2264,902,Transport
-True,2108,1757,Biotech / Life Science
-True,2882,1757,Clean Tech / Renewable
-True,2221,1757,Consumer Goods
-True,167,1757,Diversified
-True,2523,1757,Energy / Oil & Gas
-True,2330,1757,Financial Services
-True,2722,1757,Healthcare
-True,2488,1757,Industrials
-True,1393,1757,Leisure
-True,200,1757,Manufacturing
-True,1865,1757,Natural Resources
-False,1898,1757,Other
-True,1134,1757,Retail
-True,2644,1757,TMT
-True,3128,1757,Transport
-False,2507,3659,Biotech / Life Science
-False,2676,3659,Clean Tech / Renewable
-False,166,3659,Consumer Goods
-False,1523,3659,Diversified
-False,1847,3659,Energy / Oil & Gas
-True,2458,3659,Financial Services
-False,993,3659,Healthcare
-False,804,3659,Industrials
-False,1014,3659,Leisure
-False,479,3659,Manufacturing
-False,1883,3659,Natural Resources
-False,2831,3659,Other
-False,2758,3659,Retail
-True,3068,3659,TMT
-False,436,3659,Transport
-False,982,15736,Agribusiness
-False,255,15736,Biotech / Life Science
-False,1532,15736,Business Services
-False,787,15736,Clean Tech / Renewable
-False,2188,15736,Consumer Goods
-True,2606,15736,Diversified
-False,2459,15736,Energy / Oil & Gas
-True,2989,15736,Financial Services
-False,2977,15736,Healthcare
-False,1854,15736,Industrials
-False,43,15736,Leisure
-False,2531,15736,Manufacturing
-False,1617,15736,Natural Resources
-False,859,15736,Other
-True,1222,15736,Retail
-True,1099,15736,TMT
-False,638,15736,Transport
-True,665,6536,Biotech / Life Science
-True,98,6536,Clean Tech / Renewable
-True,1103,6536,Consumer Goods
-True,2518,6536,Diversified
-False,1619,6536,Energy / Oil & Gas
-True,1698,6536,Financial Services
-True,432,6536,Healthcare
-False,757,6536,Industrials
-False,2014,6536,Leisure
-False,234,6536,Manufacturing
-False,3119,6536,Natural Resources
-False,2490,6536,Other
-False,2444,6536,Retail
-True,436,6536,TMT
-False,807,6536,Transport
-True,2692,1333,Biotech / Life Science
-False,728,1333,Clean Tech / Renewable
-True,1606,1333,Consumer Goods
-True,3098,1333,Diversified
-True,478,1333,Energy / Oil & Gas
-True,2367,1333,Financial Services
-True,2802,1333,Healthcare
-True,856,1333,Industrials
-True,3001,1333,Leisure
-False,1690,1333,Manufacturing
-False,699,1333,Natural Resources
-True,721,1333,Other
-True,2974,1333,Retail
-True,1538,1333,TMT
-True,2770,1333,Transport
-False,2758,3155,Biotech / Life Science
-False,1675,3155,Clean Tech / Renewable
-False,2027,3155,Consumer Goods
-True,84,3155,Diversified
-False,3092,3155,Energy / Oil & Gas
-False,2617,3155,Financial Services
-False,1586,3155,Healthcare
-False,1397,3155,Industrials
-False,2704,3155,Leisure
-False,817,3155,Manufacturing
-False,2098,3155,Natural Resources
-False,236,3155,Other
-False,323,3155,Retail
-False,1927,3155,TMT
-False,338,3155,Transport
-True,800,8019,Biotech / Life Science
-True,2204,8019,Clean Tech / Renewable
-True,2953,8019,Consumer Goods
-True,3013,8019,Diversified
-True,1991,8019,Energy / Oil & Gas
-True,1594,8019,Financial Services
-True,1859,8019,Healthcare
-True,2790,8019,Industrials
-True,755,8019,Leisure
-True,1837,8019,Manufacturing
-True,1243,8019,Natural Resources
-False,332,8019,Other
-True,2151,8019,Retail
-True,421,8019,TMT
-True,3011,8019,Transport
-False,1033,13004,Biotech / Life Science
-False,306,13004,Business Services
-False,135,13004,Clean Tech / Renewable
-False,272,13004,Consumer Goods
-True,265,13004,Diversified
-False,126,13004,Energy / Oil & Gas
-False,1516,13004,Financial Services
-False,1655,13004,Healthcare
-False,2004,13004,Industrials
-False,522,13004,Leisure
-False,990,13004,Manufacturing
-False,2558,13004,Natural Resources
-False,2740,13004,Other
-False,780,13004,Retail
-True,403,13004,TMT
-False,374,13004,Transport
-False,2494,20727,Agribusiness
-False,1679,20727,Biotech / Life Science
-False,2802,20727,Business Services
-False,1477,20727,Clean Tech / Renewable
-False,2312,20727,Consumer Goods
-True,409,20727,Diversified
-False,2481,20727,Energy / Oil & Gas
-True,1014,20727,Financial Services
-False,1485,20727,Healthcare
-False,560,20727,Industrials
-False,1363,20727,Leisure
-False,1813,20727,Manufacturing
-False,206,20727,Natural Resources
-False,1842,20727,Other
-False,2747,20727,Retail
-False,2536,20727,TMT
-False,2725,20727,Transport
-True,261,5587,Biotech / Life Science
-False,2713,5587,Clean Tech / Renewable
-True,1704,5587,Consumer Goods
-True,58,5587,Diversified
-True,812,5587,Energy / Oil & Gas
-True,1306,5587,Financial Services
-True,2410,5587,Healthcare
-True,1477,5587,Industrials
-True,229,5587,Leisure
-False,3052,5587,Manufacturing
-False,789,5587,Natural Resources
-True,1420,5587,Other
-True,864,5587,Retail
-True,2683,5587,TMT
-False,2039,5587,Transport
-False,884,3453,Biotech / Life Science
-True,2688,3453,Clean Tech / Renewable
-True,2788,3453,Consumer Goods
-True,2717,3453,Diversified
-True,678,3453,Energy / Oil & Gas
-True,1017,3453,Financial Services
-True,2319,3453,Healthcare
-False,392,3453,Industrials
-False,2429,3453,Leisure
-False,1708,3453,Manufacturing
-False,2570,3453,Natural Resources
-False,2412,3453,Other
-False,133,3453,Retail
-True,821,3453,TMT
-False,1800,3453,Transport
-True,2766,7045,Biotech / Life Science
-True,222,7045,Clean Tech / Renewable
-True,1126,7045,Consumer Goods
-True,2634,7045,Diversified
-True,1249,7045,Energy / Oil & Gas
-True,310,7045,Financial Services
-True,1606,7045,Healthcare
-True,513,7045,Industrials
-True,1350,7045,Leisure
-True,2107,7045,Manufacturing
-False,625,7045,Natural Resources
-False,1956,7045,Other
-True,2026,7045,Retail
-True,2412,7045,TMT
-True,1433,7045,Transport
-,2063,1719,
-False,628,21372,Agribusiness
-False,1239,21372,Biotech / Life Science
-False,2788,21372,Business Services
-False,1475,21372,Clean Tech / Renewable
-False,2201,21372,Consumer Goods
-True,161,21372,Diversified
-False,1264,21372,Energy / Oil & Gas
-False,324,21372,Financial Services
-False,1359,21372,Healthcare
-False,550,21372,Industrials
-False,2253,21372,Leisure
-False,186,21372,Manufacturing
-False,597,21372,Natural Resources
-False,965,21372,Other
-False,2918,21372,Retail
-False,1127,21372,TMT
-False,60,21372,Transport
-False,1010,8105,Biotech / Life Science
-False,2698,8105,Clean Tech / Renewable
-False,967,8105,Consumer Goods
-True,2189,8105,Diversified
-False,2123,8105,Energy / Oil & Gas
-False,2546,8105,Financial Services
-False,2813,8105,Healthcare
-False,249,8105,Industrials
-False,1981,8105,Leisure
-False,2522,8105,Manufacturing
-False,408,8105,Natural Resources
-True,1870,8105,Other
-False,1102,8105,Retail
-False,1627,8105,TMT
-False,2815,8105,Transport
-False,1831,2445,Biotech / Life Science
-False,2894,2445,Clean Tech / Renewable
-True,3019,2445,Consumer Goods
-True,771,2445,Diversified
-True,2818,2445,Energy / Oil & Gas
-True,2356,2445,Financial Services
-True,1114,2445,Healthcare
-True,1553,2445,Industrials
-False,1899,2445,Leisure
-False,1505,2445,Manufacturing
-False,2185,2445,Natural Resources
-False,2622,2445,Other
-False,2433,2445,Retail
-True,810,2445,TMT
-False,2567,2445,Transport
-True,2379,6742,Biotech / Life Science
-False,1836,6742,Business Services
-False,1839,6742,Clean Tech / Renewable
-False,1443,6742,Consumer Goods
-False,1741,6742,Diversified
-False,868,6742,Energy / Oil & Gas
-False,2890,6742,Financial Services
-True,2135,6742,Healthcare
-False,1293,6742,Industrials
-False,2062,6742,Leisure
-False,936,6742,Manufacturing
-False,1627,6742,Natural Resources
-False,2564,6742,Other
-False,717,6742,Retail
-False,601,6742,TMT
-False,1104,6742,Transport
-True,260,6361,Biotech / Life Science
-False,200,6361,Clean Tech / Renewable
-True,288,6361,Consumer Goods
-True,523,6361,Diversified
-False,2503,6361,Energy / Oil & Gas
-True,333,6361,Financial Services
-True,1843,6361,Healthcare
-True,1767,6361,Industrials
-True,1256,6361,Leisure
-False,719,6361,Manufacturing
-False,3,6361,Natural Resources
-False,111,6361,Other
-True,273,6361,Retail
-True,2976,6361,TMT
-False,1552,6361,Transport
-True,1377,876,Biotech / Life Science
-True,258,876,Clean Tech / Renewable
-True,1977,876,Consumer Goods
-True,743,876,Diversified
-True,710,876,Energy / Oil & Gas
-True,2020,876,Financial Services
-True,432,876,Healthcare
-True,709,876,Industrials
-True,658,876,Leisure
-True,661,876,Manufacturing
-False,1262,876,Natural Resources
-False,1949,876,Other
-False,893,876,Retail
-True,984,876,TMT
-True,968,876,Transport
-False,2050,18504,Agribusiness
-False,333,18504,Biotech / Life Science
-False,2078,18504,Business Services
-False,1085,18504,Clean Tech / Renewable
-False,1261,18504,Consumer Goods
-True,2188,18504,Diversified
-False,1523,18504,Energy / Oil & Gas
-True,718,18504,Financial Services
-False,662,18504,Healthcare
-True,1721,18504,Industrials
-False,1559,18504,Leisure
-False,2608,18504,Manufacturing
-False,2363,18504,Natural Resources
-False,1213,18504,Other
-False,2905,18504,Retail
-True,1892,18504,TMT
-False,3055,18504,Transport
-True,1639,2175,Biotech / Life Science
-True,1115,2175,Clean Tech / Renewable
-True,1685,2175,Consumer Goods
-True,2478,2175,Diversified
-True,1896,2175,Energy / Oil & Gas
-True,781,2175,Financial Services
-True,3071,2175,Healthcare
-True,2603,2175,Industrials
-True,1100,2175,Leisure
-False,1786,2175,Manufacturing
-False,272,2175,Natural Resources
-False,133,2175,Other
-True,571,2175,Retail
-True,1463,2175,TMT
-False,1193,2175,Transport
-False,2151,4260,Biotech / Life Science
-False,3000,4260,Clean Tech / Renewable
-True,2653,4260,Consumer Goods
-True,760,4260,Diversified
-True,1425,4260,Energy / Oil & Gas
-True,2197,4260,Financial Services
-False,1061,4260,Healthcare
-True,2921,4260,Industrials
-False,85,4260,Leisure
-False,2765,4260,Manufacturing
-False,1346,4260,Natural Resources
-True,1456,4260,Other
-True,1796,4260,Retail
-False,2230,4260,TMT
-False,2097,4260,Transport
-,3125,15027,
-False,3112,8558,Biotech / Life Science
-False,1264,8558,Business Services
-False,1972,8558,Clean Tech / Renewable
-False,1664,8558,Consumer Goods
-True,3043,8558,Diversified
-False,2313,8558,Energy / Oil & Gas
-False,636,8558,Financial Services
-False,1757,8558,Healthcare
-False,1567,8558,Industrials
-False,2191,8558,Leisure
-False,1162,8558,Manufacturing
-False,1641,8558,Natural Resources
-False,165,8558,Other
-False,1656,8558,Retail
-False,680,8558,TMT
-False,655,8558,Transport
-,1265,17885,
-True,2280,978,Biotech / Life Science
-False,1496,978,Clean Tech / Renewable
-False,416,978,Consumer Goods
-True,1829,978,Diversified
-False,2767,978,Energy / Oil & Gas
-False,2602,978,Financial Services
-False,1472,978,Healthcare
-False,47,978,Industrials
-False,461,978,Leisure
-False,2304,978,Manufacturing
-False,1193,978,Natural Resources
-False,159,978,Other
-False,2442,978,Retail
-True,2157,978,TMT
-False,37,978,Transport
-False,1780,1748,Biotech / Life Science
-False,2698,1748,Clean Tech / Renewable
-True,2684,1748,Consumer Goods
-True,1601,1748,Diversified
-False,2487,1748,Energy / Oil & Gas
-False,1918,1748,Financial Services
-False,196,1748,Healthcare
-False,1690,1748,Industrials
-False,738,1748,Leisure
-False,1557,1748,Manufacturing
-False,2633,1748,Natural Resources
-False,500,1748,Other
-False,1164,1748,Retail
-True,791,1748,TMT
-False,3093,1748,Transport
-True,2136,3703,Biotech / Life Science
-False,2409,3703,Clean Tech / Renewable
-False,2330,3703,Consumer Goods
-True,1501,3703,Diversified
-True,1210,3703,Energy / Oil & Gas
-False,933,3703,Financial Services
-False,2920,3703,Healthcare
-False,275,3703,Industrials
-False,2405,3703,Leisure
-False,1499,3703,Manufacturing
-False,2395,3703,Natural Resources
-False,1772,3703,Other
-False,815,3703,Retail
-False,2303,3703,TMT
-False,118,3703,Transport
-True,3069,1470,Biotech / Life Science
-False,1705,1470,Clean Tech / Renewable
-True,1171,1470,Consumer Goods
-True,1645,1470,Diversified
-True,2706,1470,Energy / Oil & Gas
-True,2541,1470,Financial Services
-True,1923,1470,Healthcare
-True,2732,1470,Industrials
-True,2253,1470,Leisure
-True,1913,1470,Manufacturing
-False,2824,1470,Natural Resources
-True,2369,1470,Other
-True,503,1470,Retail
-True,2190,1470,TMT
-False,2162,1470,Transport
-False,2153,8642,Biotech / Life Science
-False,2755,8642,Clean Tech / Renewable
-True,2079,8642,Consumer Goods
-True,998,8642,Diversified
-True,1635,8642,Energy / Oil & Gas
-True,2032,8642,Financial Services
-True,2658,8642,Healthcare
-True,1719,8642,Industrials
-False,805,8642,Leisure
-False,2432,8642,Manufacturing
-False,1715,8642,Natural Resources
-False,1851,8642,Other
-True,1475,8642,Retail
-True,1982,8642,TMT
-False,2762,8642,Transport
-True,1422,6486,Biotech / Life Science
-False,859,6486,Clean Tech / Renewable
-True,778,6486,Consumer Goods
-True,1370,6486,Diversified
-False,3014,6486,Energy / Oil & Gas
-True,2383,6486,Financial Services
-True,2842,6486,Healthcare
-False,357,6486,Industrials
-False,2034,6486,Leisure
-False,300,6486,Manufacturing
-False,1400,6486,Natural Resources
-False,325,6486,Other
-True,531,6486,Retail
-True,4,6486,TMT
-True,1018,6486,Transport
-False,2857,16957,Agribusiness
-False,2649,16957,Biotech / Life Science
-True,1615,16957,Business Services
-False,179,16957,Clean Tech / Renewable
-True,2291,16957,Consumer Goods
-True,403,16957,Diversified
-False,2753,16957,Energy / Oil & Gas
-True,1701,16957,Financial Services
-True,2786,16957,Healthcare
-True,2974,16957,Industrials
-False,1855,16957,Leisure
-True,181,16957,Manufacturing
-False,1881,16957,Natural Resources
-False,1606,16957,Other
-False,393,16957,Retail
-False,1959,16957,TMT
-False,3056,16957,Transport
-,381,8263,
-False,1853,6675,Biotech / Life Science
-False,2079,6675,Clean Tech / Renewable
-True,1014,6675,Consumer Goods
-True,392,6675,Diversified
-False,1836,6675,Energy / Oil & Gas
-True,2081,6675,Financial Services
-True,1251,6675,Healthcare
-False,2488,6675,Industrials
-False,1049,6675,Leisure
-False,1784,6675,Manufacturing
-False,3011,6675,Natural Resources
-False,1336,6675,Other
-True,122,6675,Retail
-True,1614,6675,TMT
-False,245,6675,Transport
-False,928,6924,Biotech / Life Science
-False,2434,6924,Clean Tech / Renewable
-False,1286,6924,Consumer Goods
-False,2635,6924,Diversified
-False,7,6924,Energy / Oil & Gas
-False,558,6924,Financial Services
-False,745,6924,Healthcare
-False,2391,6924,Industrials
-False,1118,6924,Leisure
-False,1966,6924,Manufacturing
-False,1114,6924,Natural Resources
-False,3016,6924,Other
-False,1020,6924,Retail
-True,2304,6924,TMT
-False,697,6924,Transport
-True,2944,4186,Biotech / Life Science
-False,2637,4186,Clean Tech / Renewable
-True,1082,4186,Consumer Goods
-True,2977,4186,Diversified
-False,60,4186,Energy / Oil & Gas
-True,2441,4186,Financial Services
-True,2973,4186,Healthcare
-False,1243,4186,Industrials
-True,2635,4186,Leisure
-False,2281,4186,Manufacturing
-False,448,4186,Natural Resources
-False,549,4186,Other
-False,2623,4186,Retail
-True,509,4186,TMT
-False,1138,4186,Transport
-False,372,18822,Agribusiness
-False,784,18822,Biotech / Life Science
-True,2624,18822,Business Services
-False,1083,18822,Clean Tech / Renewable
-True,1757,18822,Consumer Goods
-True,2616,18822,Diversified
-False,17,18822,Energy / Oil & Gas
-False,359,18822,Financial Services
-True,2201,18822,Healthcare
-True,1604,18822,Industrials
-False,1335,18822,Leisure
-True,3075,18822,Manufacturing
-False,969,18822,Natural Resources
-False,1946,18822,Other
-True,1767,18822,Retail
-False,849,18822,TMT
-False,1035,18822,Transport
-True,2987,1885,Biotech / Life Science
-True,751,1885,Clean Tech / Renewable
-False,575,1885,Consumer Goods
-True,1029,1885,Diversified
-True,2945,1885,Energy / Oil & Gas
-False,1351,1885,Financial Services
-True,2262,1885,Healthcare
-True,2084,1885,Industrials
-False,239,1885,Leisure
-False,2341,1885,Manufacturing
-False,2229,1885,Natural Resources
-False,596,1885,Other
-False,2965,1885,Retail
-True,510,1885,TMT
-True,1213,1885,Transport
-True,1152,10998,Biotech / Life Science
-False,2134,10998,Business Services
-False,2719,10998,Clean Tech / Renewable
-True,1803,10998,Consumer Goods
-True,387,10998,Diversified
-False,1243,10998,Energy / Oil & Gas
-True,1218,10998,Financial Services
-True,2727,10998,Healthcare
-False,937,10998,Industrials
-False,2080,10998,Leisure
-True,486,10998,Manufacturing
-False,2219,10998,Natural Resources
-False,3062,10998,Other
-True,286,10998,Retail
-True,2220,10998,TMT
-False,568,10998,Transport
-False,877,20375,Agribusiness
-False,390,20375,Biotech / Life Science
-False,2498,20375,Business Services
-False,285,20375,Clean Tech / Renewable
-False,2875,20375,Consumer Goods
-True,6,20375,Diversified
-False,1894,20375,Energy / Oil & Gas
-False,203,20375,Financial Services
-False,2537,20375,Healthcare
-False,2308,20375,Industrials
-False,418,20375,Leisure
-False,1119,20375,Manufacturing
-False,295,20375,Natural Resources
-False,173,20375,Other
-False,2278,20375,Retail
-False,2446,20375,TMT
-False,21,20375,Transport
-False,1042,13451,Agribusiness
-False,2080,13451,Biotech / Life Science
-False,2565,13451,Business Services
-False,2372,13451,Clean Tech / Renewable
-False,2209,13451,Consumer Goods
-True,2653,13451,Diversified
-False,1606,13451,Energy / Oil & Gas
-True,855,13451,Financial Services
-False,608,13451,Healthcare
-False,452,13451,Industrials
-False,3042,13451,Leisure
-False,534,13451,Manufacturing
-False,2516,13451,Natural Resources
-False,2602,13451,Other
-False,2807,13451,Retail
-False,571,13451,TMT
-False,954,13451,Transport
-False,18,1860,Biotech / Life Science
-True,899,1860,Clean Tech / Renewable
-True,2868,1860,Consumer Goods
-True,139,1860,Diversified
-True,264,1860,Energy / Oil & Gas
-True,2509,1860,Financial Services
-True,487,1860,Healthcare
-True,2214,1860,Industrials
-True,2762,1860,Leisure
-True,1230,1860,Manufacturing
-False,2213,1860,Natural Resources
-True,3119,1860,Other
-True,1353,1860,Retail
-True,1632,1860,TMT
-True,1902,1860,Transport
-False,884,18892,Agribusiness
-False,1094,18892,Biotech / Life Science
-True,2921,18892,Business Services
-False,2051,18892,Clean Tech / Renewable
-False,2760,18892,Consumer Goods
-False,408,18892,Diversified
-False,2717,18892,Energy / Oil & Gas
-True,885,18892,Financial Services
-True,2907,18892,Healthcare
-False,1896,18892,Industrials
-False,2725,18892,Leisure
-False,2524,18892,Manufacturing
-False,2609,18892,Natural Resources
-False,2650,18892,Other
-False,2631,18892,Retail
-True,1469,18892,TMT
-False,1820,18892,Transport
-True,2290,90,Biotech / Life Science
-True,1318,90,Clean Tech / Renewable
-True,2080,90,Consumer Goods
-True,1568,90,Diversified
-True,1612,90,Energy / Oil & Gas
-True,1173,90,Financial Services
-True,200,90,Healthcare
-True,225,90,Industrials
-True,331,90,Leisure
-False,550,90,Manufacturing
-False,1429,90,Natural Resources
-False,779,90,Other
-True,887,90,Retail
-True,42,90,TMT
-True,534,90,Transport
-,1925,6478,
-False,980,13963,Agribusiness
-False,2441,13963,Biotech / Life Science
-True,53,13963,Business Services
-False,1299,13963,Clean Tech / Renewable
-False,463,13963,Consumer Goods
-False,990,13963,Diversified
-False,133,13963,Energy / Oil & Gas
-True,80,13963,Financial Services
-True,1664,13963,Healthcare
-False,735,13963,Industrials
-True,2028,13963,Leisure
-False,1492,13963,Manufacturing
-False,1865,13963,Natural Resources
-True,417,13963,Other
-False,910,13963,Retail
-True,3015,13963,TMT
-False,2682,13963,Transport
-True,1627,1292,Biotech / Life Science
-False,2657,1292,Clean Tech / Renewable
-False,176,1292,Consumer Goods
-True,740,1292,Diversified
-True,1787,1292,Energy / Oil & Gas
-False,149,1292,Financial Services
-False,96,1292,Healthcare
-False,480,1292,Industrials
-False,3109,1292,Leisure
-False,1673,1292,Manufacturing
-False,2120,1292,Natural Resources
-False,935,1292,Other
-False,1710,1292,Retail
-True,3132,1292,TMT
-False,2055,1292,Transport
-False,813,13555,Biotech / Life Science
-False,485,13555,Clean Tech / Renewable
-True,1723,13555,Consumer Goods
-True,1593,13555,Diversified
-False,790,13555,Energy / Oil & Gas
-False,302,13555,Financial Services
-True,786,13555,Healthcare
-True,1468,13555,Industrials
-False,472,13555,Leisure
-True,158,13555,Manufacturing
-False,337,13555,Natural Resources
-False,2276,13555,Other
-False,1404,13555,Retail
-False,2753,13555,TMT
-False,2551,13555,Transport
-True,1927,8180,Biotech / Life Science
-False,2210,8180,Business Services
-False,1476,8180,Clean Tech / Renewable
-False,2534,8180,Consumer Goods
-False,877,8180,Diversified
-False,1879,8180,Energy / Oil & Gas
-False,303,8180,Financial Services
-True,2487,8180,Healthcare
-False,2547,8180,Industrials
-False,1220,8180,Leisure
-False,1674,8180,Manufacturing
-False,271,8180,Natural Resources
-False,2782,8180,Other
-False,3008,8180,Retail
-False,2858,8180,TMT
-False,2867,8180,Transport
-False,1922,892,Biotech / Life Science
-False,1035,892,Clean Tech / Renewable
-True,1125,892,Consumer Goods
-True,2217,892,Diversified
-True,1106,892,Energy / Oil & Gas
-True,3062,892,Financial Services
-True,1787,892,Healthcare
-True,26,892,Industrials
-False,1021,892,Leisure
-False,1362,892,Manufacturing
-False,2643,892,Natural Resources
-False,209,892,Other
-False,193,892,Retail
-True,2323,892,TMT
-False,1897,892,Transport
-True,3071,3858,Biotech / Life Science
-True,1390,3858,Clean Tech / Renewable
-True,3087,3858,Consumer Goods
-True,1325,3858,Diversified
-True,38,3858,Energy / Oil & Gas
-True,2420,3858,Financial Services
-True,1405,3858,Healthcare
-True,159,3858,Industrials
-False,1011,3858,Leisure
-True,684,3858,Manufacturing
-True,507,3858,Natural Resources
-False,1301,3858,Other
-True,1905,3858,Retail
-True,1303,3858,TMT
-True,2366,3858,Transport
-,2397,11,
-False,308,18084,Agribusiness
-False,147,18084,Biotech / Life Science
-False,1779,18084,Business Services
-False,699,18084,Clean Tech / Renewable
-False,2496,18084,Consumer Goods
-False,484,18084,Diversified
-False,2632,18084,Energy / Oil & Gas
-False,613,18084,Financial Services
-False,249,18084,Healthcare
-False,801,18084,Industrials
-False,392,18084,Leisure
-False,1360,18084,Manufacturing
-False,2904,18084,Natural Resources
-False,1223,18084,Other
-False,1330,18084,Retail
-True,811,18084,TMT
-False,3005,18084,Transport
-False,1385,16356,Agribusiness
-False,3028,16356,Biotech / Life Science
-True,549,16356,Business Services
-False,1292,16356,Clean Tech / Renewable
-False,709,16356,Consumer Goods
-True,2799,16356,Diversified
-False,1135,16356,Energy / Oil & Gas
-False,478,16356,Financial Services
-False,1661,16356,Healthcare
-True,1688,16356,Industrials
-False,1020,16356,Leisure
-True,2374,16356,Manufacturing
-False,1742,16356,Natural Resources
-True,1099,16356,Other
-False,978,16356,Retail
-False,1321,16356,TMT
-True,2703,16356,Transport
-False,2469,1277,Biotech / Life Science
-False,1579,1277,Clean Tech / Renewable
-False,950,1277,Consumer Goods
-True,2531,1277,Diversified
-False,2216,1277,Energy / Oil & Gas
-False,1986,1277,Financial Services
-False,1496,1277,Healthcare
-False,77,1277,Industrials
-False,1478,1277,Leisure
-False,1684,1277,Manufacturing
-False,2844,1277,Natural Resources
-False,2062,1277,Other
-False,1223,1277,Retail
-False,2407,1277,TMT
-False,1359,1277,Transport
-False,2683,7597,Biotech / Life Science
-False,1393,7597,Business Services
-False,2496,7597,Clean Tech / Renewable
-False,1581,7597,Consumer Goods
-False,1782,7597,Diversified
-False,3119,7597,Energy / Oil & Gas
-False,2815,7597,Financial Services
-False,2698,7597,Healthcare
-False,1813,7597,Industrials
-False,1782,7597,Leisure
-False,2701,7597,Manufacturing
-False,401,7597,Natural Resources
-False,1279,7597,Other
-False,1374,7597,Retail
-True,712,7597,TMT
-False,2973,7597,Transport
-False,1703,7604,Biotech / Life Science
-False,1549,7604,Clean Tech / Renewable
-False,2917,7604,Consumer Goods
-False,2345,7604,Diversified
-True,1402,7604,Energy / Oil & Gas
-False,1765,7604,Financial Services
-False,2089,7604,Healthcare
-False,1754,7604,Industrials
-False,2768,7604,Leisure
-False,1561,7604,Manufacturing
-False,2826,7604,Natural Resources
-False,2710,7604,Other
-False,860,7604,Retail
-False,2889,7604,TMT
-False,583,7604,Transport
-False,1178,21412,Agribusiness
-False,3034,21412,Biotech / Life Science
-False,1962,21412,Business Services
-False,1957,21412,Clean Tech / Renewable
-False,349,21412,Consumer Goods
-True,2107,21412,Diversified
-False,1179,21412,Energy / Oil & Gas
-False,773,21412,Financial Services
-False,2716,21412,Healthcare
-False,1289,21412,Industrials
-False,1671,21412,Leisure
-False,686,21412,Manufacturing
-False,2858,21412,Natural Resources
-False,1799,21412,Other
-False,1806,21412,Retail
-False,309,21412,TMT
-False,2967,21412,Transport
-False,1236,6573,Biotech / Life Science
-True,891,6573,Clean Tech / Renewable
-False,331,6573,Consumer Goods
-True,2560,6573,Diversified
-True,2571,6573,Energy / Oil & Gas
-True,2323,6573,Financial Services
-False,2437,6573,Healthcare
-True,2290,6573,Industrials
-False,1177,6573,Leisure
-True,1005,6573,Manufacturing
-True,2849,6573,Natural Resources
-False,1561,6573,Other
-False,2580,6573,Retail
-True,1562,6573,TMT
-False,2752,6573,Transport
-False,1899,3641,Biotech / Life Science
-False,2876,3641,Clean Tech / Renewable
-False,684,3641,Consumer Goods
-True,1691,3641,Diversified
-True,2992,3641,Energy / Oil & Gas
-False,1,3641,Financial Services
-True,120,3641,Healthcare
-True,873,3641,Industrials
-False,1120,3641,Leisure
-False,3074,3641,Manufacturing
-False,849,3641,Natural Resources
-False,2623,3641,Other
-False,1667,3641,Retail
-True,164,3641,TMT
-True,1086,3641,Transport
-False,251,2248,Biotech / Life Science
-True,367,2248,Clean Tech / Renewable
-True,652,2248,Consumer Goods
-True,2667,2248,Diversified
-True,1186,2248,Energy / Oil & Gas
-True,2770,2248,Financial Services
-True,2546,2248,Healthcare
-True,2561,2248,Industrials
-False,1637,2248,Leisure
-False,805,2248,Manufacturing
-False,2247,2248,Natural Resources
-True,41,2248,Other
-True,1927,2248,Retail
-True,593,2248,TMT
-False,1687,2248,Transport
-False,482,13033,Biotech / Life Science
-False,2755,13033,Business Services
-False,112,13033,Clean Tech / Renewable
-False,1505,13033,Consumer Goods
-False,2587,13033,Diversified
-False,1621,13033,Energy / Oil & Gas
-False,2451,13033,Financial Services
-False,2213,13033,Healthcare
-False,1294,13033,Industrials
-False,1868,13033,Leisure
-False,677,13033,Manufacturing
-False,1749,13033,Natural Resources
-False,2262,13033,Other
-False,1140,13033,Retail
-True,385,13033,TMT
-False,1887,13033,Transport
-False,342,6211,Biotech / Life Science
-False,1085,6211,Clean Tech / Renewable
-False,236,6211,Consumer Goods
-False,2481,6211,Diversified
-True,1985,6211,Energy / Oil & Gas
-False,875,6211,Financial Services
-False,2698,6211,Healthcare
-False,747,6211,Industrials
-False,442,6211,Leisure
-True,1755,6211,Manufacturing
-False,2658,6211,Natural Resources
-False,392,6211,Other
-False,34,6211,Retail
-False,3055,6211,TMT
-False,1740,6211,Transport
-True,2670,4013,Biotech / Life Science
-True,2513,4013,Clean Tech / Renewable
-False,266,4013,Consumer Goods
-True,2307,4013,Diversified
-False,1000,4013,Energy / Oil & Gas
-False,443,4013,Financial Services
-False,2797,4013,Healthcare
-False,1303,4013,Industrials
-False,1520,4013,Leisure
-False,546,4013,Manufacturing
-False,762,4013,Natural Resources
-False,1706,4013,Other
-False,1474,4013,Retail
-False,886,4013,TMT
-False,3025,4013,Transport
-False,603,8457,Biotech / Life Science
-True,687,8457,Clean Tech / Renewable
-True,2049,8457,Consumer Goods
-True,579,8457,Diversified
-False,835,8457,Energy / Oil & Gas
-False,2373,8457,Financial Services
-True,518,8457,Healthcare
-False,1566,8457,Industrials
-False,1870,8457,Leisure
-False,657,8457,Manufacturing
-False,3048,8457,Natural Resources
-True,1025,8457,Other
-False,2749,8457,Retail
-True,2631,8457,TMT
-False,1277,8457,Transport
-False,2616,3828,Biotech / Life Science
-True,149,3828,Clean Tech / Renewable
-True,681,3828,Consumer Goods
-True,2409,3828,Diversified
-False,1754,3828,Energy / Oil & Gas
-True,169,3828,Financial Services
-True,2115,3828,Healthcare
-True,1034,3828,Industrials
-True,79,3828,Leisure
-False,1549,3828,Manufacturing
-False,710,3828,Natural Resources
-True,1703,3828,Other
-True,1343,3828,Retail
-True,132,3828,TMT
-False,2218,3828,Transport
-,278,6371,
-False,2251,14052,Biotech / Life Science
-False,2708,14052,Business Services
-False,740,14052,Clean Tech / Renewable
-False,2751,14052,Consumer Goods
-True,926,14052,Diversified
-False,2142,14052,Energy / Oil & Gas
-False,208,14052,Financial Services
-False,534,14052,Healthcare
-False,2831,14052,Industrials
-False,235,14052,Leisure
-False,2668,14052,Manufacturing
-False,2329,14052,Natural Resources
-False,3017,14052,Other
-False,1163,14052,Retail
-False,2663,14052,TMT
-False,3053,14052,Transport
-False,2541,3671,Biotech / Life Science
-False,78,3671,Clean Tech / Renewable
-True,41,3671,Consumer Goods
-True,867,3671,Diversified
-False,2867,3671,Energy / Oil & Gas
-True,903,3671,Financial Services
-True,874,3671,Healthcare
-False,1083,3671,Industrials
-False,1857,3671,Leisure
-False,1523,3671,Manufacturing
-False,2525,3671,Natural Resources
-False,2611,3671,Other
-False,2303,3671,Retail
-True,2528,3671,TMT
-False,2649,3671,Transport
-False,1466,4257,Biotech / Life Science
-False,15,4257,Clean Tech / Renewable
-True,1689,4257,Consumer Goods
-True,1953,4257,Diversified
-True,1735,4257,Energy / Oil & Gas
-True,2278,4257,Financial Services
-True,1775,4257,Healthcare
-True,1192,4257,Industrials
-False,1571,4257,Leisure
-True,97,4257,Manufacturing
-False,3087,4257,Natural Resources
-True,1811,4257,Other
-True,850,4257,Retail
-True,953,4257,TMT
-False,2594,4257,Transport
-False,181,5552,Biotech / Life Science
-False,3069,5552,Clean Tech / Renewable
-False,1328,5552,Consumer Goods
-True,2830,5552,Diversified
-False,2565,5552,Energy / Oil & Gas
-False,2796,5552,Financial Services
-False,1802,5552,Healthcare
-False,2940,5552,Industrials
-False,2584,5552,Leisure
-False,1722,5552,Manufacturing
-False,108,5552,Natural Resources
-False,1423,5552,Other
-False,2450,5552,Retail
-True,3066,5552,TMT
-False,815,5552,Transport
-True,2526,6572,Biotech / Life Science
-True,117,6572,Clean Tech / Renewable
-True,1737,6572,Consumer Goods
-True,305,6572,Diversified
-True,2340,6572,Energy / Oil & Gas
-True,1049,6572,Financial Services
-True,867,6572,Healthcare
-True,651,6572,Industrials
-True,283,6572,Leisure
-False,454,6572,Manufacturing
-False,1947,6572,Natural Resources
-True,2793,6572,Other
-True,2604,6572,Retail
-True,1902,6572,TMT
-True,174,6572,Transport
-False,279,2097,Biotech / Life Science
-False,59,2097,Clean Tech / Renewable
-True,1062,2097,Consumer Goods
-True,2599,2097,Diversified
-False,2771,2097,Energy / Oil & Gas
-False,1606,2097,Financial Services
-False,2035,2097,Healthcare
-True,176,2097,Industrials
-False,170,2097,Leisure
-False,3126,2097,Manufacturing
-False,2263,2097,Natural Resources
-False,1645,2097,Other
-True,2610,2097,Retail
-False,951,2097,TMT
-False,899,2097,Transport
-False,1948,8794,Biotech / Life Science
-False,11,8794,Clean Tech / Renewable
-False,2736,8794,Consumer Goods
-True,1574,8794,Diversified
-False,2136,8794,Energy / Oil & Gas
-False,2160,8794,Financial Services
-False,3107,8794,Healthcare
-False,2363,8794,Industrials
-False,1028,8794,Leisure
-False,1479,8794,Manufacturing
-False,2859,8794,Natural Resources
-False,1503,8794,Other
-False,680,8794,Retail
-False,1920,8794,TMT
-False,1927,8794,Transport
-False,1233,16236,Agribusiness
-False,677,16236,Biotech / Life Science
-False,2814,16236,Business Services
-False,1737,16236,Clean Tech / Renewable
-False,2365,16236,Consumer Goods
-False,2687,16236,Diversified
-False,2788,16236,Energy / Oil & Gas
-False,1361,16236,Financial Services
-False,613,16236,Healthcare
-False,479,16236,Industrials
-True,2907,16236,Leisure
-False,1608,16236,Manufacturing
-False,2986,16236,Natural Resources
-True,249,16236,Other
-False,2747,16236,Retail
-True,2879,16236,TMT
-False,224,16236,Transport
-False,3128,10630,Biotech / Life Science
-False,2910,10630,Clean Tech / Renewable
-True,623,10630,Consumer Goods
-True,962,10630,Diversified
-True,934,10630,Energy / Oil & Gas
-True,934,10630,Financial Services
-True,788,10630,Healthcare
-False,836,10630,Industrials
-False,2306,10630,Leisure
-False,2942,10630,Manufacturing
-False,2437,10630,Natural Resources
-False,1291,10630,Other
-False,2798,10630,Retail
-True,2080,10630,TMT
-False,2763,10630,Transport
-True,2214,1706,Biotech / Life Science
-False,333,1706,Clean Tech / Renewable
-False,477,1706,Consumer Goods
-False,1028,1706,Diversified
-False,822,1706,Energy / Oil & Gas
-False,1325,1706,Financial Services
-False,1141,1706,Healthcare
-False,766,1706,Industrials
-False,1687,1706,Leisure
-False,2692,1706,Manufacturing
-False,1229,1706,Natural Resources
-False,372,1706,Other
-False,327,1706,Retail
-True,22,1706,TMT
-False,3055,1706,Transport
-False,2999,3596,Biotech / Life Science
-False,2979,3596,Business Services
-False,1549,3596,Clean Tech / Renewable
-False,2565,3596,Consumer Goods
-False,19,3596,Diversified
-False,2264,3596,Energy / Oil & Gas
-True,2464,3596,Financial Services
-False,2165,3596,Healthcare
-True,1812,3596,Industrials
-False,2389,3596,Leisure
-False,1188,3596,Manufacturing
-False,2689,3596,Natural Resources
-False,2096,3596,Other
-False,601,3596,Retail
-True,2273,3596,TMT
-True,2335,3596,Transport
-False,2556,6495,Biotech / Life Science
-False,1565,6495,Clean Tech / Renewable
-False,2542,6495,Consumer Goods
-False,543,6495,Diversified
-False,1303,6495,Energy / Oil & Gas
-False,251,6495,Financial Services
-False,2826,6495,Healthcare
-False,2884,6495,Industrials
-False,470,6495,Leisure
-False,928,6495,Manufacturing
-False,602,6495,Natural Resources
-False,375,6495,Other
-False,2136,6495,Retail
-True,2840,6495,TMT
-False,1100,6495,Transport
-False,2667,16757,Agribusiness
-False,1730,16757,Biotech / Life Science
-False,3073,16757,Business Services
-False,2768,16757,Clean Tech / Renewable
-False,498,16757,Consumer Goods
-False,2,16757,Diversified
-False,2483,16757,Energy / Oil & Gas
-False,2308,16757,Financial Services
-False,1564,16757,Healthcare
-False,2706,16757,Industrials
-False,2024,16757,Leisure
-False,2256,16757,Manufacturing
-False,715,16757,Natural Resources
-True,2025,16757,Other
-False,942,16757,Retail
-False,372,16757,TMT
-False,1384,16757,Transport
-False,102,4763,Biotech / Life Science
-False,2077,4763,Clean Tech / Renewable
-False,2407,4763,Consumer Goods
-True,1915,4763,Diversified
-False,577,4763,Energy / Oil & Gas
-False,1098,4763,Financial Services
-False,3082,4763,Healthcare
-False,285,4763,Industrials
-False,2733,4763,Leisure
-False,2830,4763,Manufacturing
-False,489,4763,Natural Resources
-False,1829,4763,Other
-False,3097,4763,Retail
-False,2837,4763,TMT
-False,1439,4763,Transport
-True,1766,572,Biotech / Life Science
-True,3081,572,Clean Tech / Renewable
-True,2623,572,Consumer Goods
-True,1160,572,Diversified
-True,761,572,Energy / Oil & Gas
-True,2015,572,Financial Services
-True,129,572,Healthcare
-True,1455,572,Industrials
-True,3000,572,Leisure
-True,2164,572,Manufacturing
-False,1800,572,Natural Resources
-False,3074,572,Other
-True,512,572,Retail
-True,2589,572,TMT
-True,2160,572,Transport
-False,2621,3122,Biotech / Life Science
-False,679,3122,Clean Tech / Renewable
-False,813,3122,Consumer Goods
-False,1733,3122,Diversified
-False,1412,3122,Energy / Oil & Gas
-False,2508,3122,Financial Services
-False,2074,3122,Healthcare
-False,1965,3122,Industrials
-False,2686,3122,Leisure
-False,648,3122,Manufacturing
-False,2661,3122,Natural Resources
-False,685,3122,Other
-False,1341,3122,Retail
-True,906,3122,TMT
-False,1628,3122,Transport
-True,2608,11447,Biotech / Life Science
-True,2559,11447,Clean Tech / Renewable
-False,2489,11447,Consumer Goods
-True,1019,11447,Diversified
-False,1665,11447,Energy / Oil & Gas
-False,2597,11447,Financial Services
-True,147,11447,Healthcare
-False,556,11447,Industrials
-False,915,11447,Leisure
-False,236,11447,Manufacturing
-False,2210,11447,Natural Resources
-False,2720,11447,Other
-False,416,11447,Retail
-True,358,11447,TMT
-False,505,11447,Transport
-False,208,10954,Agribusiness
-False,1414,10954,Biotech / Life Science
-False,2429,10954,Business Services
-False,3010,10954,Clean Tech / Renewable
-False,2532,10954,Consumer Goods
-True,1647,10954,Diversified
-False,1523,10954,Energy / Oil & Gas
-True,382,10954,Financial Services
-False,2443,10954,Healthcare
-False,2757,10954,Industrials
-False,1606,10954,Leisure
-False,3057,10954,Manufacturing
-False,1992,10954,Natural Resources
-False,225,10954,Other
-False,756,10954,Retail
-False,1878,10954,TMT
-False,398,10954,Transport
-True,2889,5471,Biotech / Life Science
-False,2119,5471,Business Services
-False,1055,5471,Clean Tech / Renewable
-True,2493,5471,Consumer Goods
-True,2496,5471,Diversified
-False,1994,5471,Energy / Oil & Gas
-True,1726,5471,Financial Services
-True,3000,5471,Healthcare
-False,1003,5471,Industrials
-False,1072,5471,Leisure
-False,342,5471,Manufacturing
-False,2240,5471,Natural Resources
-False,906,5471,Other
-False,2676,5471,Retail
-True,1835,5471,TMT
-False,920,5471,Transport
-False,2723,1721,Biotech / Life Science
-False,1790,1721,Clean Tech / Renewable
-False,399,1721,Consumer Goods
-True,454,1721,Diversified
-False,3093,1721,Energy / Oil & Gas
-False,2703,1721,Financial Services
-True,1093,1721,Healthcare
-False,2092,1721,Industrials
-False,3015,1721,Leisure
-False,1552,1721,Manufacturing
-False,1218,1721,Natural Resources
-False,769,1721,Other
-False,1514,1721,Retail
-True,2011,1721,TMT
-False,768,1721,Transport
-False,357,21294,Agribusiness
-False,3016,21294,Biotech / Life Science
-False,73,21294,Business Services
-False,831,21294,Clean Tech / Renewable
-False,966,21294,Consumer Goods
-True,2568,21294,Diversified
-False,3061,21294,Energy / Oil & Gas
-True,395,21294,Financial Services
-True,2592,21294,Healthcare
-False,2614,21294,Industrials
-False,2668,21294,Leisure
-False,1266,21294,Manufacturing
-False,2331,21294,Natural Resources
-False,1908,21294,Other
-False,2424,21294,Retail
-True,2480,21294,TMT
-False,2530,21294,Transport
-False,2445,8175,Biotech / Life Science
-False,649,8175,Clean Tech / Renewable
-False,2814,8175,Consumer Goods
-True,696,8175,Diversified
-False,768,8175,Energy / Oil & Gas
-False,1969,8175,Financial Services
-False,621,8175,Healthcare
-False,444,8175,Industrials
-False,860,8175,Leisure
-False,123,8175,Manufacturing
-False,2688,8175,Natural Resources
-False,995,8175,Other
-False,2426,8175,Retail
-False,2572,8175,TMT
-False,2049,8175,Transport
-False,2134,1626,Biotech / Life Science
-False,1023,1626,Clean Tech / Renewable
-False,3024,1626,Consumer Goods
-False,996,1626,Diversified
-False,735,1626,Energy / Oil & Gas
-False,1550,1626,Financial Services
-False,22,1626,Healthcare
-False,1426,1626,Industrials
-False,1752,1626,Leisure
-False,985,1626,Manufacturing
-False,1094,1626,Natural Resources
-False,2393,1626,Other
-False,2115,1626,Retail
-True,3068,1626,TMT
-False,1377,1626,Transport
-,248,13242,
-True,128,950,Biotech / Life Science
-False,553,950,Clean Tech / Renewable
-True,1204,950,Consumer Goods
-True,1013,950,Diversified
-False,866,950,Energy / Oil & Gas
-True,1390,950,Financial Services
-True,1179,950,Healthcare
-False,2705,950,Industrials
-False,182,950,Leisure
-False,3093,950,Manufacturing
-False,1081,950,Natural Resources
-True,414,950,Other
-True,2771,950,Retail
-True,2765,950,TMT
-False,1517,950,Transport
-False,688,6856,Biotech / Life Science
-False,1677,6856,Clean Tech / Renewable
-True,1117,6856,Consumer Goods
-False,999,6856,Diversified
-False,1688,6856,Energy / Oil & Gas
-False,1655,6856,Financial Services
-False,1026,6856,Healthcare
-True,2680,6856,Industrials
-False,2170,6856,Leisure
-True,2212,6856,Manufacturing
-False,797,6856,Natural Resources
-False,2188,6856,Other
-True,3103,6856,Retail
-True,1023,6856,TMT
-True,1108,6856,Transport
-False,2337,15068,Biotech / Life Science
-False,519,15068,Business Services
-False,215,15068,Clean Tech / Renewable
-False,1681,15068,Consumer Goods
-True,2390,15068,Diversified
-True,2076,15068,Energy / Oil & Gas
-False,2640,15068,Financial Services
-False,2457,15068,Healthcare
-False,2520,15068,Industrials
-False,1555,15068,Leisure
-False,1043,15068,Manufacturing
-False,975,15068,Natural Resources
-False,2634,15068,Other
-False,996,15068,Retail
-False,1017,15068,TMT
-False,430,15068,Transport
-False,1262,331,Biotech / Life Science
-False,2180,331,Clean Tech / Renewable
-True,45,331,Consumer Goods
-True,1500,331,Diversified
-True,2007,331,Energy / Oil & Gas
-True,1317,331,Financial Services
-True,81,331,Healthcare
-True,1526,331,Industrials
-True,2817,331,Leisure
-True,1331,331,Manufacturing
-True,2553,331,Natural Resources
-True,1988,331,Other
-True,65,331,Retail
-True,2899,331,TMT
-True,2527,331,Transport
-,115,17926,
-False,981,11004,Biotech / Life Science
-False,1039,11004,Business Services
-False,3028,11004,Clean Tech / Renewable
-True,1180,11004,Consumer Goods
-True,571,11004,Diversified
-False,282,11004,Energy / Oil & Gas
-True,172,11004,Financial Services
-True,2169,11004,Healthcare
-False,60,11004,Industrials
-False,1348,11004,Leisure
-False,588,11004,Manufacturing
-False,279,11004,Natural Resources
-False,2480,11004,Other
-False,2925,11004,Retail
-True,1166,11004,TMT
-False,144,11004,Transport
-False,2403,19926,Agribusiness
-False,2063,19926,Biotech / Life Science
-False,2794,19926,Business Services
-False,1927,19926,Clean Tech / Renewable
-False,1050,19926,Consumer Goods
-False,1723,19926,Diversified
-False,666,19926,Energy / Oil & Gas
-False,2212,19926,Financial Services
-False,249,19926,Healthcare
-False,1963,19926,Industrials
-False,1889,19926,Leisure
-False,1584,19926,Manufacturing
-False,920,19926,Natural Resources
-False,1928,19926,Other
-False,1373,19926,Retail
-True,693,19926,TMT
-False,520,19926,Transport
-False,2531,13530,Biotech / Life Science
-False,2660,13530,Clean Tech / Renewable
-False,3042,13530,Consumer Goods
-True,3008,13530,Diversified
-False,656,13530,Energy / Oil & Gas
-False,803,13530,Financial Services
-False,105,13530,Healthcare
-False,2244,13530,Industrials
-False,518,13530,Leisure
-False,1799,13530,Manufacturing
-False,1863,13530,Natural Resources
-False,1683,13530,Other
-False,2142,13530,Retail
-False,865,13530,TMT
-False,20,13530,Transport
-True,2292,7753,Biotech / Life Science
-True,2903,7753,Clean Tech / Renewable
-True,564,7753,Consumer Goods
-True,2370,7753,Diversified
-True,1242,7753,Energy / Oil & Gas
-False,950,7753,Financial Services
-True,1159,7753,Healthcare
-False,1995,7753,Industrials
-False,1557,7753,Leisure
-False,2947,7753,Manufacturing
-False,292,7753,Natural Resources
-False,604,7753,Other
-False,809,7753,Retail
-True,662,7753,TMT
-False,1576,7753,Transport
-False,452,14128,Agribusiness
-False,2426,14128,Biotech / Life Science
-False,42,14128,Business Services
-False,3114,14128,Clean Tech / Renewable
-False,1301,14128,Consumer Goods
-True,2602,14128,Diversified
-False,949,14128,Energy / Oil & Gas
-True,1887,14128,Financial Services
-False,222,14128,Healthcare
-False,3101,14128,Industrials
-False,1979,14128,Leisure
-False,1758,14128,Manufacturing
-False,1727,14128,Natural Resources
-False,3068,14128,Other
-False,1342,14128,Retail
-False,3068,14128,TMT
-False,1916,14128,Transport
-True,119,6673,Biotech / Life Science
-False,205,6673,Clean Tech / Renewable
-True,649,6673,Consumer Goods
-False,2736,6673,Diversified
-False,196,6673,Energy / Oil & Gas
-False,1664,6673,Financial Services
-True,2728,6673,Healthcare
-True,705,6673,Industrials
-False,1069,6673,Leisure
-False,327,6673,Manufacturing
-False,3119,6673,Natural Resources
-True,114,6673,Other
-False,1804,6673,Retail
-True,123,6673,TMT
-False,1217,6673,Transport
-False,1043,7671,Biotech / Life Science
-False,1668,7671,Business Services
-False,2167,7671,Clean Tech / Renewable
-False,964,7671,Consumer Goods
-False,2410,7671,Diversified
-False,181,7671,Energy / Oil & Gas
-False,1366,7671,Financial Services
-False,2541,7671,Healthcare
-False,1203,7671,Industrials
-False,595,7671,Leisure
-False,1771,7671,Manufacturing
-False,1213,7671,Natural Resources
-False,2386,7671,Other
-False,1782,7671,Retail
-True,2016,7671,TMT
-False,1948,7671,Transport
-True,2666,1733,Biotech / Life Science
-True,3,1733,Clean Tech / Renewable
-False,2001,1733,Consumer Goods
-True,720,1733,Diversified
-True,2220,1733,Energy / Oil & Gas
-False,1937,1733,Financial Services
-True,1607,1733,Healthcare
-False,91,1733,Industrials
-False,690,1733,Leisure
-False,1500,1733,Manufacturing
-True,2829,1733,Natural Resources
-True,1454,1733,Other
-False,159,1733,Retail
-True,1907,1733,TMT
-False,3130,1733,Transport
-True,2836,4060,Biotech / Life Science
-True,2561,4060,Clean Tech / Renewable
-False,1461,4060,Consumer Goods
-True,2748,4060,Diversified
-False,1726,4060,Energy / Oil & Gas
-True,3070,4060,Financial Services
-True,570,4060,Healthcare
-True,888,4060,Industrials
-False,2334,4060,Leisure
-True,1435,4060,Manufacturing
-False,722,4060,Natural Resources
-False,2108,4060,Other
-False,2258,4060,Retail
-True,348,4060,TMT
-True,190,4060,Transport
-False,2138,14335,Biotech / Life Science
-False,885,14335,Business Services
-False,515,14335,Clean Tech / Renewable
-False,1813,14335,Consumer Goods
-False,113,14335,Diversified
-False,2087,14335,Energy / Oil & Gas
-False,1657,14335,Financial Services
-False,888,14335,Healthcare
-False,1985,14335,Industrials
-False,1278,14335,Leisure
-False,2710,14335,Manufacturing
-False,2776,14335,Natural Resources
-False,2312,14335,Other
-False,2640,14335,Retail
-True,3073,14335,TMT
-False,963,14335,Transport
-False,2034,7918,Biotech / Life Science
-False,3003,7918,Clean Tech / Renewable
-True,2221,7918,Consumer Goods
-True,1703,7918,Diversified
-False,1977,7918,Energy / Oil & Gas
-True,1477,7918,Financial Services
-True,1857,7918,Healthcare
-False,94,7918,Industrials
-False,2543,7918,Leisure
-False,1231,7918,Manufacturing
-False,2968,7918,Natural Resources
-True,558,7918,Other
-False,2020,7918,Retail
-True,927,7918,TMT
-True,2035,7918,Transport
-False,581,5220,Biotech / Life Science
-False,1413,5220,Business Services
-False,1755,5220,Clean Tech / Renewable
-False,1590,5220,Consumer Goods
-True,1701,5220,Diversified
-False,785,5220,Energy / Oil & Gas
-False,1627,5220,Financial Services
-False,1928,5220,Healthcare
-False,801,5220,Industrials
-False,2232,5220,Leisure
-False,2601,5220,Manufacturing
-False,581,5220,Natural Resources
-False,911,5220,Other
-False,1272,5220,Retail
-False,444,5220,TMT
-False,2053,5220,Transport
-True,2830,7425,Biotech / Life Science
-True,2283,7425,Clean Tech / Renewable
-True,2237,7425,Consumer Goods
-True,611,7425,Diversified
-True,2077,7425,Energy / Oil & Gas
-True,3128,7425,Financial Services
-True,2837,7425,Healthcare
-True,309,7425,Industrials
-True,1818,7425,Leisure
-True,1130,7425,Manufacturing
-False,734,7425,Natural Resources
-False,2190,7425,Other
-True,2953,7425,Retail
-True,2980,7425,TMT
-True,1661,7425,Transport
-False,459,3822,Biotech / Life Science
-False,1837,3822,Clean Tech / Renewable
-False,170,3822,Consumer Goods
-True,2798,3822,Diversified
-False,345,3822,Energy / Oil & Gas
-False,616,3822,Financial Services
-False,450,3822,Healthcare
-False,1926,3822,Industrials
-False,393,3822,Leisure
-False,2771,3822,Manufacturing
-False,2981,3822,Natural Resources
-False,1976,3822,Other
-False,1972,3822,Retail
-False,1497,3822,TMT
-False,2279,3822,Transport
-True,1435,7884,Biotech / Life Science
-False,292,7884,Clean Tech / Renewable
-True,1003,7884,Consumer Goods
-True,2647,7884,Diversified
-False,788,7884,Energy / Oil & Gas
-True,344,7884,Financial Services
-True,1947,7884,Healthcare
-True,1750,7884,Industrials
-True,714,7884,Leisure
-True,691,7884,Manufacturing
-False,3125,7884,Natural Resources
-True,2729,7884,Other
-True,1555,7884,Retail
-True,1439,7884,TMT
-False,221,7884,Transport
-,2332,19594,
-False,2761,22631,Agribusiness
-False,1075,22631,Biotech / Life Science
-False,1636,22631,Business Services
-False,2987,22631,Clean Tech / Renewable
-False,2160,22631,Consumer Goods
-False,1583,22631,Diversified
-False,2211,22631,Energy / Oil & Gas
-False,2582,22631,Financial Services
-False,1364,22631,Healthcare
-False,2766,22631,Industrials
-False,397,22631,Leisure
-False,1557,22631,Manufacturing
-False,735,22631,Natural Resources
-False,1332,22631,Other
-False,163,22631,Retail
-True,2355,22631,TMT
-False,3075,22631,Transport
-True,349,1665,Biotech / Life Science
-False,1446,1665,Clean Tech / Renewable
-False,2533,1665,Consumer Goods
-True,1214,1665,Diversified
-False,481,1665,Energy / Oil & Gas
-False,1868,1665,Financial Services
-False,2705,1665,Healthcare
-False,1054,1665,Industrials
-False,1338,1665,Leisure
-False,455,1665,Manufacturing
-False,3018,1665,Natural Resources
-False,2202,1665,Other
-False,1130,1665,Retail
-True,1635,1665,TMT
-False,2140,1665,Transport
-False,2809,13429,Agribusiness
-False,1801,13429,Biotech / Life Science
-False,184,13429,Business Services
-False,1073,13429,Clean Tech / Renewable
-False,132,13429,Consumer Goods
-True,1592,13429,Diversified
-False,1495,13429,Energy / Oil & Gas
-True,2189,13429,Financial Services
-False,3055,13429,Healthcare
-False,1390,13429,Industrials
-False,60,13429,Leisure
-False,1447,13429,Manufacturing
-False,2135,13429,Natural Resources
-False,750,13429,Other
-False,1804,13429,Retail
-False,603,13429,TMT
-False,2810,13429,Transport
-True,381,10941,Biotech / Life Science
-True,1654,10941,Business Services
-True,2202,10941,Clean Tech / Renewable
-True,1963,10941,Consumer Goods
-True,593,10941,Diversified
-True,1197,10941,Energy / Oil & Gas
-True,2013,10941,Financial Services
-True,2460,10941,Healthcare
-True,1762,10941,Industrials
-True,1857,10941,Leisure
-False,1220,10941,Manufacturing
-False,1504,10941,Natural Resources
-False,116,10941,Other
-False,1980,10941,Retail
-True,1641,10941,TMT
-False,1597,10941,Transport
-False,1500,3988,Biotech / Life Science
-False,1853,3988,Clean Tech / Renewable
-True,241,3988,Consumer Goods
-True,1562,3988,Diversified
-False,914,3988,Energy / Oil & Gas
-True,2323,3988,Financial Services
-True,505,3988,Healthcare
-False,2311,3988,Industrials
-False,2617,3988,Leisure
-False,122,3988,Manufacturing
-False,1149,3988,Natural Resources
-False,1291,3988,Other
-False,494,3988,Retail
-True,2669,3988,TMT
-False,1511,3988,Transport
-False,2791,2333,Biotech / Life Science
-False,1174,2333,Clean Tech / Renewable
-False,9,2333,Consumer Goods
-True,2293,2333,Diversified
-False,1615,2333,Energy / Oil & Gas
-False,1296,2333,Financial Services
-True,1823,2333,Healthcare
-False,873,2333,Industrials
-False,1358,2333,Leisure
-False,709,2333,Manufacturing
-False,2216,2333,Natural Resources
-False,2213,2333,Other
-False,671,2333,Retail
-True,133,2333,TMT
-False,662,2333,Transport
-False,1192,6562,Biotech / Life Science
-False,2506,6562,Business Services
-False,6,6562,Clean Tech / Renewable
-False,2527,6562,Consumer Goods
-False,1098,6562,Diversified
-False,2198,6562,Energy / Oil & Gas
-False,2473,6562,Financial Services
-False,151,6562,Healthcare
-False,2565,6562,Industrials
-False,2587,6562,Leisure
-False,905,6562,Manufacturing
-False,588,6562,Natural Resources
-False,2658,6562,Other
-False,974,6562,Retail
-True,1395,6562,TMT
-False,2037,6562,Transport
-False,2531,11518,Biotech / Life Science
-False,1616,11518,Business Services
-False,2325,11518,Clean Tech / Renewable
-False,2687,11518,Consumer Goods
-False,457,11518,Diversified
-False,130,11518,Energy / Oil & Gas
-False,446,11518,Financial Services
-False,1644,11518,Healthcare
-False,1594,11518,Industrials
-False,2765,11518,Leisure
-False,2310,11518,Manufacturing
-False,450,11518,Natural Resources
-False,2319,11518,Other
-False,1511,11518,Retail
-True,645,11518,TMT
-False,1369,11518,Transport
-True,2493,1393,Biotech / Life Science
-False,2569,1393,Clean Tech / Renewable
-True,1323,1393,Consumer Goods
-True,542,1393,Diversified
-True,1230,1393,Energy / Oil & Gas
-True,470,1393,Financial Services
-True,1731,1393,Healthcare
-True,2193,1393,Industrials
-False,1508,1393,Leisure
-False,315,1393,Manufacturing
-False,2785,1393,Natural Resources
-False,1541,1393,Other
-True,3004,1393,Retail
-True,1770,1393,TMT
-True,869,1393,Transport
-True,3026,6680,Biotech / Life Science
-True,26,6680,Clean Tech / Renewable
-True,1386,6680,Consumer Goods
-True,1924,6680,Diversified
-True,2018,6680,Energy / Oil & Gas
-True,396,6680,Financial Services
-True,2556,6680,Healthcare
-True,2892,6680,Industrials
-True,1729,6680,Leisure
-True,882,6680,Manufacturing
-True,762,6680,Natural Resources
-True,1513,6680,Other
-True,2972,6680,Retail
-True,769,6680,TMT
-True,422,6680,Transport
-False,2245,17029,Agribusiness
-False,678,17029,Biotech / Life Science
-False,28,17029,Business Services
-False,898,17029,Clean Tech / Renewable
-False,18,17029,Consumer Goods
-True,2183,17029,Diversified
-False,209,17029,Energy / Oil & Gas
-True,2525,17029,Financial Services
-False,2371,17029,Healthcare
-False,396,17029,Industrials
-False,1329,17029,Leisure
-False,129,17029,Manufacturing
-False,826,17029,Natural Resources
-False,1357,17029,Other
-False,2130,17029,Retail
-False,1154,17029,TMT
-False,1207,17029,Transport
-False,966,13880,Biotech / Life Science
-False,1729,13880,Clean Tech / Renewable
-False,1194,13880,Consumer Goods
-True,1563,13880,Diversified
-False,618,13880,Energy / Oil & Gas
-False,188,13880,Financial Services
-False,2817,13880,Healthcare
-False,1214,13880,Industrials
-False,3096,13880,Leisure
-False,641,13880,Manufacturing
-False,796,13880,Natural Resources
-False,575,13880,Other
-False,1266,13880,Retail
-False,1194,13880,TMT
-False,1289,13880,Transport
-False,46,16726,Agribusiness
-False,2105,16726,Biotech / Life Science
-False,2964,16726,Business Services
-False,802,16726,Clean Tech / Renewable
-False,486,16726,Consumer Goods
-False,1335,16726,Diversified
-False,1099,16726,Energy / Oil & Gas
-False,891,16726,Financial Services
-False,2835,16726,Healthcare
-False,777,16726,Industrials
-False,2283,16726,Leisure
-False,1870,16726,Manufacturing
-False,3020,16726,Natural Resources
-False,2648,16726,Other
-False,2031,16726,Retail
-True,2821,16726,TMT
-False,1855,16726,Transport
-False,494,1643,Biotech / Life Science
-True,181,1643,Clean Tech / Renewable
-False,1148,1643,Consumer Goods
-True,112,1643,Diversified
-True,2546,1643,Energy / Oil & Gas
-False,1852,1643,Financial Services
-False,1839,1643,Healthcare
-False,389,1643,Industrials
-False,3051,1643,Leisure
-True,35,1643,Manufacturing
-False,938,1643,Natural Resources
-False,125,1643,Other
-False,1701,1643,Retail
-True,1022,1643,TMT
-True,99,1643,Transport
-False,2959,20738,Agribusiness
-False,2835,20738,Biotech / Life Science
-False,2153,20738,Business Services
-False,2521,20738,Clean Tech / Renewable
-False,1547,20738,Consumer Goods
-True,2690,20738,Diversified
-False,1239,20738,Energy / Oil & Gas
-False,1900,20738,Financial Services
-False,1209,20738,Healthcare
-False,572,20738,Industrials
-False,1388,20738,Leisure
-False,2510,20738,Manufacturing
-False,1052,20738,Natural Resources
-False,649,20738,Other
-False,641,20738,Retail
-False,437,20738,TMT
-False,1179,20738,Transport
-False,857,2861,Biotech / Life Science
-False,1874,2861,Clean Tech / Renewable
-False,2866,2861,Consumer Goods
-True,1215,2861,Diversified
-False,836,2861,Energy / Oil & Gas
-True,2802,2861,Financial Services
-False,1103,2861,Healthcare
-False,1332,2861,Industrials
-False,233,2861,Leisure
-False,1169,2861,Manufacturing
-False,3036,2861,Natural Resources
-False,204,2861,Other
-False,1595,2861,Retail
-False,449,2861,TMT
-False,96,2861,Transport
-False,869,8968,Biotech / Life Science
-False,69,8968,Business Services
-False,2131,8968,Clean Tech / Renewable
-False,18,8968,Consumer Goods
-True,865,8968,Diversified
-False,602,8968,Energy / Oil & Gas
-False,2264,8968,Financial Services
-False,1121,8968,Healthcare
-False,1444,8968,Industrials
-False,1162,8968,Leisure
-False,2113,8968,Manufacturing
-False,2263,8968,Natural Resources
-False,1530,8968,Other
-False,665,8968,Retail
-True,2049,8968,TMT
-False,2083,8968,Transport
-False,138,18735,Agribusiness
-False,1546,18735,Biotech / Life Science
-False,1399,18735,Business Services
-False,2580,18735,Clean Tech / Renewable
-False,509,18735,Consumer Goods
-True,670,18735,Diversified
-False,530,18735,Energy / Oil & Gas
-False,2724,18735,Financial Services
-False,1957,18735,Healthcare
-False,2607,18735,Industrials
-False,2828,18735,Leisure
-False,1522,18735,Manufacturing
-False,54,18735,Natural Resources
-False,1209,18735,Other
-False,1411,18735,Retail
-False,543,18735,TMT
-False,168,18735,Transport
-False,67,1627,Biotech / Life Science
-False,1032,1627,Clean Tech / Renewable
-False,2785,1627,Consumer Goods
-True,1046,1627,Diversified
-False,933,1627,Energy / Oil & Gas
-False,2460,1627,Financial Services
-False,338,1627,Healthcare
-False,942,1627,Industrials
-False,2080,1627,Leisure
-False,892,1627,Manufacturing
-False,813,1627,Natural Resources
-False,2797,1627,Other
-False,2080,1627,Retail
-False,2161,1627,TMT
-False,2186,1627,Transport
-,276,13102,
-True,1300,2978,Biotech / Life Science
-True,1393,2978,Clean Tech / Renewable
-True,298,2978,Consumer Goods
-True,2426,2978,Diversified
-True,2332,2978,Energy / Oil & Gas
-True,1299,2978,Financial Services
-True,1191,2978,Healthcare
-True,411,2978,Industrials
-True,1188,2978,Leisure
-True,2441,2978,Manufacturing
-True,1412,2978,Natural Resources
-False,1260,2978,Other
-True,1561,2978,Retail
-True,1155,2978,TMT
-True,645,2978,Transport
-False,1493,9100,Biotech / Life Science
-False,1865,9100,Business Services
-False,1720,9100,Clean Tech / Renewable
-False,2904,9100,Consumer Goods
-False,483,9100,Diversified
-False,2527,9100,Energy / Oil & Gas
-False,893,9100,Financial Services
-False,2847,9100,Healthcare
-False,175,9100,Industrials
-False,712,9100,Leisure
-False,3057,9100,Manufacturing
-False,2184,9100,Natural Resources
-False,505,9100,Other
-False,2224,9100,Retail
-True,1204,9100,TMT
-False,2326,9100,Transport
-True,2093,6376,Biotech / Life Science
-False,334,6376,Business Services
-False,2292,6376,Clean Tech / Renewable
-False,938,6376,Consumer Goods
-True,1380,6376,Diversified
-False,2103,6376,Energy / Oil & Gas
-True,514,6376,Financial Services
-True,11,6376,Healthcare
-False,465,6376,Industrials
-False,2891,6376,Leisure
-False,2436,6376,Manufacturing
-False,2811,6376,Natural Resources
-False,1766,6376,Other
-False,2108,6376,Retail
-True,2171,6376,TMT
-False,1245,6376,Transport
-False,579,11636,Biotech / Life Science
-False,636,11636,Clean Tech / Renewable
-False,2083,11636,Consumer Goods
-True,1170,11636,Diversified
-False,2916,11636,Energy / Oil & Gas
-False,1572,11636,Financial Services
-False,361,11636,Healthcare
-False,45,11636,Industrials
-False,2630,11636,Leisure
-False,569,11636,Manufacturing
-False,358,11636,Natural Resources
-False,1345,11636,Other
-False,557,11636,Retail
-False,2008,11636,TMT
-False,552,11636,Transport
-False,2380,12779,Biotech / Life Science
-False,836,12779,Business Services
-False,696,12779,Clean Tech / Renewable
-False,1210,12779,Consumer Goods
-True,2640,12779,Diversified
-True,1729,12779,Energy / Oil & Gas
-False,2673,12779,Financial Services
-False,1268,12779,Healthcare
-False,147,12779,Industrials
-False,2969,12779,Leisure
-False,3040,12779,Manufacturing
-False,1896,12779,Natural Resources
-False,728,12779,Other
-False,1629,12779,Retail
-False,1948,12779,TMT
-False,1581,12779,Transport
-False,913,3652,Biotech / Life Science
-False,2016,3652,Clean Tech / Renewable
-False,2643,3652,Consumer Goods
-True,1435,3652,Diversified
-False,147,3652,Energy / Oil & Gas
-False,1257,3652,Financial Services
-False,363,3652,Healthcare
-False,2590,3652,Industrials
-False,2532,3652,Leisure
-False,327,3652,Manufacturing
-False,256,3652,Natural Resources
-False,1359,3652,Other
-False,2564,3652,Retail
-True,505,3652,TMT
-False,2165,3652,Transport
-True,2655,8768,Biotech / Life Science
-False,2860,8768,Clean Tech / Renewable
-False,2910,8768,Consumer Goods
-False,2792,8768,Diversified
-False,1426,8768,Energy / Oil & Gas
-False,677,8768,Financial Services
-False,2202,8768,Healthcare
-False,2835,8768,Industrials
-False,2661,8768,Leisure
-True,1778,8768,Manufacturing
-True,1731,8768,Natural Resources
-False,1928,8768,Other
-False,1393,8768,Retail
-True,2112,8768,TMT
-False,2727,8768,Transport
-False,387,8230,Biotech / Life Science
-False,651,8230,Clean Tech / Renewable
-False,1178,8230,Consumer Goods
-True,2255,8230,Diversified
-False,973,8230,Energy / Oil & Gas
-False,2178,8230,Financial Services
-False,2776,8230,Healthcare
-False,2970,8230,Industrials
-False,707,8230,Leisure
-False,1714,8230,Manufacturing
-False,1748,8230,Natural Resources
-False,778,8230,Other
-False,1249,8230,Retail
-True,573,8230,TMT
-False,2532,8230,Transport
-False,242,14669,Biotech / Life Science
-True,2111,14669,Business Services
-True,3080,14669,Clean Tech / Renewable
-True,2080,14669,Consumer Goods
-False,2237,14669,Diversified
-False,1045,14669,Energy / Oil & Gas
-True,1994,14669,Financial Services
-True,2057,14669,Healthcare
-True,1249,14669,Industrials
-False,505,14669,Leisure
-True,1032,14669,Manufacturing
-False,3034,14669,Natural Resources
-False,2715,14669,Other
-True,147,14669,Retail
-True,1857,14669,TMT
-False,1072,14669,Transport
+fm_sector_id,fm_id,sector,has_appetite
+961,1671,Agribusiness,False
+656,1671,Biotech / Life Science,False
+340,1671,Business Services,False
+2668,1671,Clean Tech / Renewable,False
+2623,1671,Consumer Goods,False
+3098,1671,Diversified,True
+2517,1671,Energy / Oil & Gas,False
+2002,1671,Financial Services,False
+2577,1671,Healthcare,False
+1476,1671,Industrials,False
+1795,1671,Leisure,False
+1703,1671,Manufacturing,False
+1587,1671,Natural Resources,False
+1404,1671,Other,False
+442,1671,Retail,False
+465,1671,TMT,False
+1902,1671,Transport,False
+2197,5348,Biotech / Life Science,True
+42,5348,Clean Tech / Renewable,True
+753,5348,Consumer Goods,True
+2732,5348,Diversified,True
+2923,5348,Energy / Oil & Gas,False
+1183,5348,Financial Services,True
+1871,5348,Healthcare,True
+1919,5348,Industrials,True
+325,5348,Leisure,True
+2614,5348,Manufacturing,False
+1457,5348,Natural Resources,False
+2949,5348,Other,False
+765,5348,Retail,True
+169,5348,TMT,True
+673,5348,Transport,False
+2463,13554,Biotech / Life Science,False
+1919,13554,Clean Tech / Renewable,True
+1634,13554,Consumer Goods,False
+744,13554,Diversified,False
+2400,13554,Energy / Oil & Gas,True
+567,13554,Financial Services,False
+2761,13554,Healthcare,False
+2270,13554,Industrials,False
+1762,13554,Leisure,False
+1403,13554,Manufacturing,False
+2848,13554,Natural Resources,False
+2009,13554,Other,False
+2424,13554,Retail,False
+2238,13554,TMT,False
+572,13554,Transport,False
+2860,6701,Biotech / Life Science,False
+534,6701,Business Services,False
+966,6701,Clean Tech / Renewable,False
+1666,6701,Consumer Goods,False
+567,6701,Diversified,False
+714,6701,Energy / Oil & Gas,False
+1018,6701,Financial Services,False
+3102,6701,Healthcare,False
+2541,6701,Industrials,False
+99,6701,Leisure,False
+1482,6701,Manufacturing,False
+1934,6701,Natural Resources,False
+2532,6701,Other,False
+1062,6701,Retail,False
+2785,6701,TMT,True
+507,6701,Transport,False
+1492,18204,Agribusiness,False
+1198,18204,Biotech / Life Science,False
+140,18204,Business Services,False
+1085,18204,Clean Tech / Renewable,False
+1766,18204,Consumer Goods,False
+2677,18204,Diversified,True
+3066,18204,Energy / Oil & Gas,False
+2579,18204,Financial Services,False
+2287,18204,Healthcare,False
+2140,18204,Industrials,False
+153,18204,Leisure,False
+2853,18204,Manufacturing,False
+2659,18204,Natural Resources,False
+2899,18204,Other,False
+2547,18204,Retail,False
+2945,18204,TMT,False
+1932,18204,Transport,False
+2667,11995,Biotech / Life Science,False
+2724,11995,Clean Tech / Renewable,False
+1177,11995,Consumer Goods,False
+2225,11995,Diversified,True
+2656,11995,Energy / Oil & Gas,False
+1618,11995,Financial Services,False
+3118,11995,Healthcare,False
+1515,11995,Industrials,False
+69,11995,Leisure,False
+2009,11995,Manufacturing,False
+2499,11995,Natural Resources,False
+2417,11995,Other,False
+2479,11995,Retail,False
+2740,11995,TMT,False
+2235,11995,Transport,False
+1248,16981,Agribusiness,False
+2591,16981,Biotech / Life Science,False
+1015,16981,Business Services,True
+3068,16981,Clean Tech / Renewable,False
+2070,16981,Consumer Goods,True
+742,16981,Diversified,True
+1334,16981,Energy / Oil & Gas,False
+1439,16981,Financial Services,False
+1360,16981,Healthcare,False
+2971,16981,Industrials,False
+2691,16981,Leisure,False
+2869,16981,Manufacturing,False
+3041,16981,Natural Resources,False
+2596,16981,Other,False
+50,16981,Retail,False
+306,16981,TMT,False
+2441,16981,Transport,False
+544,93,Biotech / Life Science,True
+1758,93,Clean Tech / Renewable,True
+2655,93,Consumer Goods,True
+573,93,Diversified,True
+2575,93,Energy / Oil & Gas,True
+451,93,Financial Services,True
+133,93,Healthcare,True
+1126,93,Industrials,True
+744,93,Leisure,True
+2700,93,Manufacturing,True
+1156,93,Natural Resources,True
+317,93,Other,False
+570,93,Retail,True
+2910,93,TMT,True
+2431,93,Transport,True
+2260,6744,Biotech / Life Science,True
+2253,6744,Clean Tech / Renewable,False
+2959,6744,Consumer Goods,True
+732,6744,Diversified,False
+2471,6744,Energy / Oil & Gas,False
+2517,6744,Financial Services,True
+2245,6744,Healthcare,True
+1648,6744,Industrials,True
+3093,6744,Leisure,False
+1962,6744,Manufacturing,True
+2087,6744,Natural Resources,False
+2084,6744,Other,False
+2766,6744,Retail,True
+838,6744,TMT,True
+1519,6744,Transport,True
+2778,8314,Biotech / Life Science,True
+2409,8314,Clean Tech / Renewable,False
+1990,8314,Consumer Goods,True
+2059,8314,Diversified,False
+777,8314,Energy / Oil & Gas,False
+2229,8314,Financial Services,False
+1041,8314,Healthcare,False
+1722,8314,Industrials,False
+1660,8314,Leisure,False
+3106,8314,Manufacturing,False
+1452,8314,Natural Resources,False
+792,8314,Other,True
+3007,8314,Retail,False
+2973,8314,TMT,True
+1008,8314,Transport,False
+2427,1780,Biotech / Life Science,False
+2124,1780,Clean Tech / Renewable,False
+753,1780,Consumer Goods,True
+2692,1780,Diversified,True
+1888,1780,Energy / Oil & Gas,True
+1269,1780,Financial Services,True
+2204,1780,Healthcare,True
+1364,1780,Industrials,True
+726,1780,Leisure,False
+2758,1780,Manufacturing,True
+2300,1780,Natural Resources,False
+548,1780,Other,False
+783,1780,Retail,False
+114,1780,TMT,True
+1510,1780,Transport,True
+2699,3668,Biotech / Life Science,False
+705,3668,Clean Tech / Renewable,True
+1633,3668,Consumer Goods,True
+514,3668,Diversified,False
+1717,3668,Energy / Oil & Gas,True
+1004,3668,Financial Services,False
+1464,3668,Healthcare,True
+740,3668,Industrials,False
+396,3668,Leisure,False
+2379,3668,Manufacturing,False
+645,3668,Natural Resources,False
+431,3668,Other,False
+95,3668,Retail,False
+196,3668,TMT,True
+2272,3668,Transport,False
+1711,12716,Biotech / Life Science,False
+553,12716,Clean Tech / Renewable,False
+422,12716,Consumer Goods,False
+1929,12716,Diversified,False
+32,12716,Energy / Oil & Gas,False
+1338,12716,Financial Services,False
+67,12716,Healthcare,True
+1185,12716,Industrials,False
+1977,12716,Leisure,False
+2151,12716,Manufacturing,False
+2810,12716,Natural Resources,False
+2214,12716,Other,False
+1160,12716,Retail,False
+1714,12716,TMT,False
+1545,12716,Transport,False
+1701,3302,Biotech / Life Science,False
+551,3302,Clean Tech / Renewable,False
+1692,3302,Consumer Goods,False
+2514,3302,Diversified,True
+1181,3302,Energy / Oil & Gas,False
+999,3302,Financial Services,False
+2805,3302,Healthcare,False
+710,3302,Industrials,False
+2536,3302,Leisure,False
+1512,3302,Manufacturing,False
+3131,3302,Natural Resources,False
+1465,3302,Other,False
+478,3302,Retail,False
+1680,3302,TMT,False
+1666,3302,Transport,False
+2830,16455,Agribusiness,False
+1560,16455,Biotech / Life Science,False
+1564,16455,Business Services,False
+1302,16455,Clean Tech / Renewable,False
+1245,16455,Consumer Goods,False
+2142,16455,Diversified,True
+1132,16455,Energy / Oil & Gas,False
+2219,16455,Financial Services,False
+2338,16455,Healthcare,False
+410,16455,Industrials,False
+1875,16455,Leisure,False
+1892,16455,Manufacturing,False
+9,16455,Natural Resources,False
+809,16455,Other,False
+1646,16455,Retail,False
+455,16455,TMT,False
+788,16455,Transport,False
+1753,17649,Agribusiness,False
+329,17649,Biotech / Life Science,False
+2862,17649,Business Services,True
+2270,17649,Clean Tech / Renewable,False
+872,17649,Consumer Goods,False
+1104,17649,Diversified,False
+2160,17649,Energy / Oil & Gas,False
+177,17649,Financial Services,False
+2071,17649,Healthcare,False
+1854,17649,Industrials,False
+2703,17649,Leisure,False
+2164,17649,Manufacturing,False
+2576,17649,Natural Resources,False
+1659,17649,Other,False
+2273,17649,Retail,False
+601,17649,TMT,True
+2981,17649,Transport,False
+2040,4310,Biotech / Life Science,False
+2348,4310,Clean Tech / Renewable,False
+2359,4310,Consumer Goods,True
+2981,4310,Diversified,True
+952,4310,Energy / Oil & Gas,False
+2641,4310,Financial Services,True
+2463,4310,Healthcare,True
+445,4310,Industrials,False
+1923,4310,Leisure,False
+2611,4310,Manufacturing,False
+2118,4310,Natural Resources,False
+343,4310,Other,False
+2185,4310,Retail,False
+624,4310,TMT,False
+1802,4310,Transport,False
+2170,7085,Biotech / Life Science,False
+793,7085,Clean Tech / Renewable,True
+482,7085,Consumer Goods,True
+2137,7085,Diversified,True
+2410,7085,Energy / Oil & Gas,True
+2177,7085,Financial Services,True
+2632,7085,Healthcare,True
+2991,7085,Industrials,True
+327,7085,Leisure,False
+2297,7085,Manufacturing,True
+537,7085,Natural Resources,True
+24,7085,Other,False
+930,7085,Retail,True
+2474,7085,TMT,True
+1479,7085,Transport,True
+664,2827,Biotech / Life Science,True
+1578,2827,Clean Tech / Renewable,False
+2094,2827,Consumer Goods,True
+2988,2827,Diversified,True
+8,2827,Energy / Oil & Gas,True
+1437,2827,Financial Services,True
+1456,2827,Healthcare,True
+2750,2827,Industrials,True
+404,2827,Leisure,True
+200,2827,Manufacturing,True
+768,2827,Natural Resources,False
+1661,2827,Other,False
+1780,2827,Retail,True
+1853,2827,TMT,True
+2906,2827,Transport,True
+2814,9345,Agribusiness,False
+497,9345,Biotech / Life Science,False
+2785,9345,Business Services,False
+1553,9345,Clean Tech / Renewable,False
+2191,9345,Consumer Goods,False
+2528,9345,Diversified,False
+2220,9345,Energy / Oil & Gas,True
+805,9345,Financial Services,True
+434,9345,Healthcare,True
+1056,9345,Industrials,False
+739,9345,Leisure,False
+405,9345,Manufacturing,False
+1364,9345,Natural Resources,False
+556,9345,Other,False
+144,9345,Retail,False
+1082,9345,TMT,False
+2315,9345,Transport,False
+2437,6521,Biotech / Life Science,True
+2363,6521,Clean Tech / Renewable,True
+1725,6521,Consumer Goods,True
+604,6521,Diversified,True
+2185,6521,Energy / Oil & Gas,True
+1797,6521,Financial Services,True
+1077,6521,Healthcare,True
+1157,6521,Industrials,False
+15,6521,Leisure,True
+1131,6521,Manufacturing,True
+2945,6521,Natural Resources,True
+1545,6521,Other,True
+1387,6521,Retail,True
+1066,6521,TMT,True
+2678,6521,Transport,True
+2515,3431,Biotech / Life Science,False
+321,3431,Clean Tech / Renewable,False
+975,3431,Consumer Goods,False
+1905,3431,Diversified,True
+2500,3431,Energy / Oil & Gas,False
+1674,3431,Financial Services,False
+1476,3431,Healthcare,False
+831,3431,Industrials,False
+1079,3431,Leisure,False
+373,3431,Manufacturing,False
+2395,3431,Natural Resources,False
+192,3431,Other,False
+170,3431,Retail,False
+60,3431,TMT,False
+290,3431,Transport,False
+504,483,Biotech / Life Science,True
+1568,483,Clean Tech / Renewable,True
+1307,483,Consumer Goods,True
+2640,483,Diversified,True
+15,483,Energy / Oil & Gas,True
+2875,483,Financial Services,True
+2215,483,Healthcare,True
+1285,483,Industrials,True
+2260,483,Leisure,False
+1430,483,Manufacturing,True
+446,483,Natural Resources,True
+678,483,Other,False
+1860,483,Retail,True
+3038,483,TMT,True
+1892,483,Transport,True
+2446,18670,Agribusiness,False
+1335,18670,Biotech / Life Science,True
+2668,18670,Business Services,False
+328,18670,Clean Tech / Renewable,True
+1893,18670,Consumer Goods,False
+2787,18670,Diversified,False
+185,18670,Energy / Oil & Gas,False
+2219,18670,Financial Services,False
+590,18670,Healthcare,False
+991,18670,Industrials,False
+933,18670,Leisure,False
+1107,18670,Manufacturing,False
+2807,18670,Natural Resources,False
+761,18670,Other,False
+2476,18670,Retail,False
+3107,18670,TMT,False
+1879,18670,Transport,False
+1489,9785,Biotech / Life Science,True
+447,9785,Clean Tech / Renewable,False
+1799,9785,Consumer Goods,True
+2394,9785,Diversified,True
+2570,9785,Energy / Oil & Gas,False
+1998,9785,Financial Services,True
+926,9785,Healthcare,True
+2175,9785,Industrials,True
+804,9785,Leisure,False
+254,9785,Manufacturing,True
+743,9785,Natural Resources,False
+1493,9785,Other,False
+1808,9785,Retail,False
+364,9785,TMT,True
+2660,9785,Transport,True
+1914,954,Biotech / Life Science,True
+2784,954,Clean Tech / Renewable,True
+2703,954,Consumer Goods,True
+589,954,Diversified,True
+792,954,Energy / Oil & Gas,True
+1375,954,Financial Services,True
+1514,954,Healthcare,True
+1156,954,Industrials,True
+2304,954,Leisure,True
+2686,954,Manufacturing,True
+635,954,Natural Resources,False
+2834,954,Other,False
+1470,954,Retail,True
+2927,954,TMT,True
+1481,954,Transport,True
+837,1801,Biotech / Life Science,True
+1955,1801,Clean Tech / Renewable,True
+1799,1801,Consumer Goods,True
+540,1801,Diversified,True
+2183,1801,Energy / Oil & Gas,True
+1484,1801,Financial Services,True
+211,1801,Healthcare,True
+724,1801,Industrials,True
+1411,1801,Leisure,False
+840,1801,Manufacturing,True
+363,1801,Natural Resources,False
+70,1801,Other,False
+183,1801,Retail,True
+1000,1801,TMT,True
+2573,1801,Transport,True
+2242,2898,Biotech / Life Science,True
+1154,2898,Clean Tech / Renewable,True
+250,2898,Consumer Goods,True
+2933,2898,Diversified,True
+764,2898,Energy / Oil & Gas,True
+2285,2898,Financial Services,True
+2844,2898,Healthcare,True
+1468,2898,Industrials,True
+1606,2898,Leisure,True
+559,2898,Manufacturing,True
+248,2898,Natural Resources,True
+1967,2898,Other,False
+2388,2898,Retail,True
+2856,2898,TMT,True
+229,2898,Transport,True
+1439,20082,Agribusiness,False
+1341,20082,Biotech / Life Science,False
+1916,20082,Business Services,False
+644,20082,Clean Tech / Renewable,False
+2248,20082,Consumer Goods,False
+1728,20082,Diversified,False
+1061,20082,Energy / Oil & Gas,False
+2537,20082,Financial Services,False
+786,20082,Healthcare,False
+263,20082,Industrials,False
+1416,20082,Leisure,False
+2567,20082,Manufacturing,False
+2792,20082,Natural Resources,False
+3067,20082,Other,False
+2008,20082,Retail,False
+2449,20082,TMT,True
+3069,20082,Transport,False
+1206,6389,,
+1323,867,Biotech / Life Science,True
+761,867,Clean Tech / Renewable,False
+122,867,Consumer Goods,False
+2848,867,Diversified,True
+1220,867,Energy / Oil & Gas,True
+1602,867,Financial Services,False
+2569,867,Healthcare,True
+1587,867,Industrials,True
+675,867,Leisure,False
+1552,867,Manufacturing,False
+1501,867,Natural Resources,False
+3089,867,Other,False
+632,867,Retail,False
+496,867,TMT,True
+1773,867,Transport,False
+1359,2161,Biotech / Life Science,True
+85,2161,Clean Tech / Renewable,False
+2191,2161,Consumer Goods,True
+1478,2161,Diversified,True
+2586,2161,Energy / Oil & Gas,True
+714,2161,Financial Services,True
+990,2161,Healthcare,True
+416,2161,Industrials,True
+2106,2161,Leisure,True
+2646,2161,Manufacturing,False
+1625,2161,Natural Resources,False
+1833,2161,Other,False
+1234,2161,Retail,True
+928,2161,TMT,True
+1787,2161,Transport,True
+643,5595,Biotech / Life Science,True
+987,5595,Clean Tech / Renewable,True
+969,5595,Consumer Goods,True
+693,5595,Diversified,True
+2378,5595,Energy / Oil & Gas,True
+1000,5595,Financial Services,True
+2764,5595,Healthcare,True
+1362,5595,Industrials,True
+2,5595,Leisure,True
+876,5595,Manufacturing,True
+2745,5595,Natural Resources,True
+2212,5595,Other,True
+1280,5595,Retail,True
+1315,5595,TMT,True
+1870,5595,Transport,True
+892,8996,Biotech / Life Science,False
+402,8996,Business Services,False
+408,8996,Clean Tech / Renewable,False
+418,8996,Consumer Goods,False
+2454,8996,Diversified,False
+603,8996,Energy / Oil & Gas,False
+2535,8996,Financial Services,False
+2448,8996,Healthcare,False
+334,8996,Industrials,False
+1018,8996,Leisure,False
+1176,8996,Manufacturing,False
+531,8996,Natural Resources,False
+2409,8996,Other,False
+1821,8996,Retail,False
+1427,8996,TMT,True
+1080,8996,Transport,False
+188,3901,Biotech / Life Science,True
+2962,3901,Clean Tech / Renewable,False
+516,3901,Consumer Goods,False
+2672,3901,Diversified,False
+793,3901,Energy / Oil & Gas,False
+521,3901,Financial Services,False
+1011,3901,Healthcare,False
+1343,3901,Industrials,False
+350,3901,Leisure,False
+2861,3901,Manufacturing,False
+2200,3901,Natural Resources,False
+1285,3901,Other,False
+2335,3901,Retail,False
+2520,3901,TMT,True
+498,3901,Transport,False
+839,6635,Biotech / Life Science,True
+2487,6635,Clean Tech / Renewable,True
+2068,6635,Consumer Goods,True
+1225,6635,Diversified,True
+1891,6635,Energy / Oil & Gas,True
+2768,6635,Financial Services,True
+2088,6635,Healthcare,True
+2948,6635,Industrials,True
+1055,6635,Leisure,True
+1266,6635,Manufacturing,True
+2808,6635,Natural Resources,True
+540,6635,Other,True
+2271,6635,Retail,True
+2018,6635,TMT,True
+2242,6635,Transport,True
+1351,6595,Biotech / Life Science,True
+814,6595,Clean Tech / Renewable,True
+1281,6595,Consumer Goods,True
+345,6595,Diversified,True
+1657,6595,Energy / Oil & Gas,True
+58,6595,Financial Services,True
+3046,6595,Healthcare,True
+486,6595,Industrials,True
+2060,6595,Leisure,False
+2370,6595,Manufacturing,True
+1651,6595,Natural Resources,False
+1992,6595,Other,False
+2135,6595,Retail,True
+1206,6595,TMT,True
+2229,6595,Transport,True
+1169,1079,Biotech / Life Science,False
+2325,1079,Clean Tech / Renewable,True
+2528,1079,Consumer Goods,True
+2878,1079,Diversified,False
+407,1079,Energy / Oil & Gas,False
+2362,1079,Financial Services,True
+2225,1079,Healthcare,True
+2880,1079,Industrials,False
+2839,1079,Leisure,False
+3097,1079,Manufacturing,False
+2476,1079,Natural Resources,False
+100,1079,Other,False
+2372,1079,Retail,True
+2810,1079,TMT,True
+2523,1079,Transport,False
+904,7735,Biotech / Life Science,False
+154,7735,Clean Tech / Renewable,False
+1790,7735,Consumer Goods,False
+267,7735,Diversified,False
+1343,7735,Energy / Oil & Gas,False
+663,7735,Financial Services,False
+1326,7735,Healthcare,False
+2390,7735,Industrials,False
+40,7735,Leisure,False
+2328,7735,Manufacturing,False
+2830,7735,Natural Resources,False
+2701,7735,Other,False
+932,7735,Retail,False
+1149,7735,TMT,True
+2286,7735,Transport,False
+2881,5576,Biotech / Life Science,True
+144,5576,Clean Tech / Renewable,False
+2820,5576,Consumer Goods,True
+2025,5576,Diversified,True
+2640,5576,Energy / Oil & Gas,True
+203,5576,Financial Services,True
+2786,5576,Healthcare,True
+2312,5576,Industrials,True
+1368,5576,Leisure,True
+1393,5576,Manufacturing,False
+384,5576,Natural Resources,False
+1050,5576,Other,False
+2580,5576,Retail,True
+1793,5576,TMT,True
+2244,5576,Transport,True
+2065,1762,Biotech / Life Science,True
+2464,1762,Clean Tech / Renewable,False
+557,1762,Consumer Goods,True
+1474,1762,Diversified,True
+94,1762,Energy / Oil & Gas,False
+1863,1762,Financial Services,True
+573,1762,Healthcare,True
+1239,1762,Industrials,True
+446,1762,Leisure,True
+3111,1762,Manufacturing,True
+3132,1762,Natural Resources,False
+654,1762,Other,True
+1904,1762,Retail,False
+1095,1762,TMT,True
+2242,1762,Transport,False
+1388,16825,Agribusiness,False
+384,16825,Biotech / Life Science,False
+125,16825,Business Services,False
+2054,16825,Clean Tech / Renewable,False
+3000,16825,Consumer Goods,False
+2558,16825,Diversified,True
+862,16825,Energy / Oil & Gas,False
+567,16825,Financial Services,False
+1602,16825,Healthcare,False
+3119,16825,Industrials,False
+1440,16825,Leisure,False
+1354,16825,Manufacturing,False
+1126,16825,Natural Resources,False
+514,16825,Other,False
+1070,16825,Retail,False
+1883,16825,TMT,False
+2555,16825,Transport,False
+1831,7079,Biotech / Life Science,False
+1454,7079,Business Services,False
+2248,7079,Clean Tech / Renewable,False
+1365,7079,Consumer Goods,True
+961,7079,Diversified,False
+2668,7079,Energy / Oil & Gas,False
+2252,7079,Financial Services,False
+1745,7079,Healthcare,False
+284,7079,Industrials,False
+3026,7079,Leisure,False
+2018,7079,Manufacturing,False
+1825,7079,Natural Resources,False
+993,7079,Other,False
+2399,7079,Retail,False
+2121,7079,TMT,True
+295,7079,Transport,False
+2699,1952,Biotech / Life Science,True
+989,1952,Clean Tech / Renewable,True
+629,1952,Consumer Goods,True
+2183,1952,Diversified,True
+1488,1952,Energy / Oil & Gas,True
+1615,1952,Financial Services,True
+1391,1952,Healthcare,True
+3,1952,Industrials,True
+510,1952,Leisure,True
+2008,1952,Manufacturing,False
+559,1952,Natural Resources,False
+1185,1952,Other,True
+2809,1952,Retail,True
+1706,1952,TMT,True
+2342,1952,Transport,True
+1587,4297,Biotech / Life Science,False
+1153,4297,Clean Tech / Renewable,False
+1617,4297,Consumer Goods,False
+1596,4297,Diversified,False
+508,4297,Energy / Oil & Gas,True
+2975,4297,Financial Services,True
+639,4297,Healthcare,True
+1525,4297,Industrials,False
+894,4297,Leisure,True
+2009,4297,Manufacturing,True
+1245,4297,Natural Resources,False
+2911,4297,Other,True
+2415,4297,Retail,True
+1451,4297,TMT,True
+2202,4297,Transport,False
+707,1013,Biotech / Life Science,True
+1703,1013,Clean Tech / Renewable,False
+135,1013,Consumer Goods,True
+1399,1013,Diversified,True
+2575,1013,Energy / Oil & Gas,True
+590,1013,Financial Services,True
+334,1013,Healthcare,True
+398,1013,Industrials,True
+518,1013,Leisure,True
+1147,1013,Manufacturing,True
+2978,1013,Natural Resources,False
+2207,1013,Other,True
+384,1013,Retail,True
+1889,1013,TMT,True
+1203,1013,Transport,True
+2765,16907,Agribusiness,False
+2219,16907,Biotech / Life Science,False
+2786,16907,Business Services,False
+2908,16907,Clean Tech / Renewable,False
+2106,16907,Consumer Goods,False
+3017,16907,Diversified,True
+1308,16907,Energy / Oil & Gas,False
+1726,16907,Financial Services,False
+284,16907,Healthcare,False
+1997,16907,Industrials,False
+176,16907,Leisure,False
+2401,16907,Manufacturing,False
+1392,16907,Natural Resources,False
+1124,16907,Other,False
+1359,16907,Retail,False
+16,16907,TMT,False
+1601,16907,Transport,False
+316,6350,Biotech / Life Science,True
+2537,6350,Clean Tech / Renewable,True
+1571,6350,Consumer Goods,True
+2203,6350,Diversified,True
+1034,6350,Energy / Oil & Gas,True
+1524,6350,Financial Services,True
+486,6350,Healthcare,True
+2415,6350,Industrials,True
+1361,6350,Leisure,True
+2695,6350,Manufacturing,False
+1501,6350,Natural Resources,False
+1280,6350,Other,False
+1909,6350,Retail,True
+2327,6350,TMT,True
+1569,6350,Transport,True
+2615,2043,Biotech / Life Science,True
+1754,2043,Clean Tech / Renewable,False
+427,2043,Consumer Goods,True
+860,2043,Diversified,True
+2984,2043,Energy / Oil & Gas,False
+1375,2043,Financial Services,False
+2780,2043,Healthcare,True
+325,2043,Industrials,False
+2911,2043,Leisure,False
+1839,2043,Manufacturing,False
+2595,2043,Natural Resources,False
+2454,2043,Other,True
+271,2043,Retail,False
+2014,2043,TMT,True
+2072,2043,Transport,False
+1349,6359,Biotech / Life Science,True
+1284,6359,Clean Tech / Renewable,True
+1533,6359,Consumer Goods,True
+502,6359,Diversified,True
+419,6359,Energy / Oil & Gas,True
+2133,6359,Financial Services,True
+902,6359,Healthcare,True
+693,6359,Industrials,True
+155,6359,Leisure,True
+2460,6359,Manufacturing,True
+1202,6359,Natural Resources,True
+1890,6359,Other,True
+791,6359,Retail,True
+3056,6359,TMT,True
+872,6359,Transport,True
+915,2838,Biotech / Life Science,False
+1191,2838,Clean Tech / Renewable,False
+2904,2838,Consumer Goods,False
+3083,2838,Diversified,True
+1094,2838,Energy / Oil & Gas,False
+2060,2838,Financial Services,False
+2835,2838,Healthcare,False
+2328,2838,Industrials,False
+2856,2838,Leisure,False
+446,2838,Manufacturing,False
+2411,2838,Natural Resources,False
+343,2838,Other,False
+2676,2838,Retail,False
+2188,2838,TMT,False
+2447,2838,Transport,False
+1190,18631,Agribusiness,False
+1556,18631,Biotech / Life Science,False
+2027,18631,Business Services,True
+1790,18631,Clean Tech / Renewable,False
+1381,18631,Consumer Goods,False
+2674,18631,Diversified,True
+1635,18631,Energy / Oil & Gas,False
+2520,18631,Financial Services,True
+2518,18631,Healthcare,True
+1783,18631,Industrials,False
+2117,18631,Leisure,False
+2408,18631,Manufacturing,False
+784,18631,Natural Resources,False
+3037,18631,Other,False
+3082,18631,Retail,False
+1377,18631,TMT,True
+200,18631,Transport,False
+2507,6610,Biotech / Life Science,True
+2318,6610,Clean Tech / Renewable,True
+1849,6610,Consumer Goods,True
+2222,6610,Diversified,True
+2731,6610,Energy / Oil & Gas,False
+143,6610,Financial Services,False
+2675,6610,Healthcare,True
+1158,6610,Industrials,False
+1765,6610,Leisure,False
+1559,6610,Manufacturing,False
+2161,6610,Natural Resources,False
+1830,6610,Other,True
+107,6610,Retail,False
+1031,6610,TMT,True
+871,6610,Transport,False
+1833,2011,Biotech / Life Science,False
+840,2011,Clean Tech / Renewable,True
+2169,2011,Consumer Goods,True
+2001,2011,Diversified,True
+2797,2011,Energy / Oil & Gas,True
+2227,2011,Financial Services,True
+1342,2011,Healthcare,True
+749,2011,Industrials,True
+2309,2011,Leisure,False
+2958,2011,Manufacturing,False
+258,2011,Natural Resources,False
+2879,2011,Other,False
+2493,2011,Retail,True
+259,2011,TMT,True
+697,2011,Transport,False
+2363,5687,Biotech / Life Science,True
+1319,5687,Clean Tech / Renewable,True
+2792,5687,Consumer Goods,True
+731,5687,Diversified,True
+2061,5687,Energy / Oil & Gas,False
+651,5687,Financial Services,True
+2528,5687,Healthcare,True
+2842,5687,Industrials,True
+841,5687,Leisure,True
+3038,5687,Manufacturing,True
+1176,5687,Natural Resources,False
+3091,5687,Other,True
+1657,5687,Retail,True
+2604,5687,TMT,True
+2284,5687,Transport,True
+1857,914,Biotech / Life Science,True
+2771,914,Clean Tech / Renewable,True
+2284,914,Consumer Goods,True
+2565,914,Diversified,True
+1696,914,Energy / Oil & Gas,True
+747,914,Financial Services,True
+1816,914,Healthcare,True
+1527,914,Industrials,True
+2568,914,Leisure,True
+928,914,Manufacturing,False
+1878,914,Natural Resources,False
+2983,914,Other,False
+1659,914,Retail,True
+3088,914,TMT,True
+2887,914,Transport,True
+2274,6608,Biotech / Life Science,False
+979,6608,Clean Tech / Renewable,False
+888,6608,Consumer Goods,False
+2377,6608,Diversified,False
+1438,6608,Energy / Oil & Gas,False
+542,6608,Financial Services,True
+529,6608,Healthcare,True
+1275,6608,Industrials,True
+2051,6608,Leisure,False
+370,6608,Manufacturing,False
+1937,6608,Natural Resources,False
+3063,6608,Other,True
+1448,6608,Retail,False
+2973,6608,TMT,True
+1004,6608,Transport,False
+548,6523,Biotech / Life Science,True
+868,6523,Clean Tech / Renewable,True
+512,6523,Consumer Goods,True
+2076,6523,Diversified,True
+915,6523,Energy / Oil & Gas,True
+1882,6523,Financial Services,False
+711,6523,Healthcare,True
+64,6523,Industrials,True
+861,6523,Leisure,False
+2973,6523,Manufacturing,False
+2179,6523,Natural Resources,False
+922,6523,Other,True
+1195,6523,Retail,True
+2553,6523,TMT,True
+454,6523,Transport,True
+2995,8032,Biotech / Life Science,True
+2795,8032,Clean Tech / Renewable,True
+1034,8032,Consumer Goods,True
+1701,8032,Diversified,True
+23,8032,Energy / Oil & Gas,True
+1467,8032,Financial Services,True
+1933,8032,Healthcare,True
+2408,8032,Industrials,True
+2246,8032,Leisure,True
+2320,8032,Manufacturing,True
+2305,8032,Natural Resources,False
+556,8032,Other,False
+117,8032,Retail,True
+1328,8032,TMT,True
+2797,8032,Transport,True
+811,20141,Agribusiness,False
+1556,20141,Biotech / Life Science,False
+2724,20141,Business Services,False
+2359,20141,Clean Tech / Renewable,False
+2024,20141,Consumer Goods,False
+2356,20141,Diversified,True
+930,20141,Energy / Oil & Gas,False
+93,20141,Financial Services,True
+2096,20141,Healthcare,True
+2220,20141,Industrials,False
+1133,20141,Leisure,True
+1312,20141,Manufacturing,False
+805,20141,Natural Resources,False
+2920,20141,Other,False
+3012,20141,Retail,False
+1534,20141,TMT,False
+1878,20141,Transport,False
+362,2790,Biotech / Life Science,True
+269,2790,Clean Tech / Renewable,False
+661,2790,Consumer Goods,False
+894,2790,Diversified,False
+1046,2790,Energy / Oil & Gas,False
+2661,2790,Financial Services,False
+956,2790,Healthcare,True
+1761,2790,Industrials,False
+1976,2790,Leisure,False
+1054,2790,Manufacturing,False
+2398,2790,Natural Resources,False
+1843,2790,Other,False
+1778,2790,Retail,False
+302,2790,TMT,True
+2390,2790,Transport,False
+3108,1722,Biotech / Life Science,True
+104,1722,Clean Tech / Renewable,False
+2082,1722,Consumer Goods,False
+3002,1722,Diversified,True
+55,1722,Energy / Oil & Gas,False
+2525,1722,Financial Services,True
+2192,1722,Healthcare,True
+651,1722,Industrials,False
+3033,1722,Leisure,False
+1039,1722,Manufacturing,False
+186,1722,Natural Resources,False
+38,1722,Other,False
+14,1722,Retail,False
+888,1722,TMT,False
+384,1722,Transport,False
+2712,1005,Biotech / Life Science,False
+1398,1005,Clean Tech / Renewable,False
+1803,1005,Consumer Goods,False
+1369,1005,Diversified,True
+970,1005,Energy / Oil & Gas,False
+2809,1005,Financial Services,False
+1578,1005,Healthcare,False
+2919,1005,Industrials,False
+300,1005,Leisure,False
+1703,1005,Manufacturing,False
+2680,1005,Natural Resources,False
+559,1005,Other,False
+3097,1005,Retail,False
+2180,1005,TMT,False
+1533,1005,Transport,False
+288,3479,Biotech / Life Science,False
+2200,3479,Clean Tech / Renewable,False
+1207,3479,Consumer Goods,False
+1873,3479,Diversified,True
+2983,3479,Energy / Oil & Gas,False
+1932,3479,Financial Services,True
+3125,3479,Healthcare,False
+2012,3479,Industrials,False
+3011,3479,Leisure,False
+1585,3479,Manufacturing,False
+1366,3479,Natural Resources,True
+1609,3479,Other,False
+1281,3479,Retail,True
+467,3479,TMT,True
+1969,3479,Transport,False
+2642,6644,Biotech / Life Science,False
+1136,6644,Clean Tech / Renewable,False
+2263,6644,Consumer Goods,False
+933,6644,Diversified,True
+1594,6644,Energy / Oil & Gas,False
+181,6644,Financial Services,False
+2296,6644,Healthcare,False
+2278,6644,Industrials,False
+2461,6644,Leisure,False
+385,6644,Manufacturing,False
+63,6644,Natural Resources,False
+1039,6644,Other,False
+1874,6644,Retail,False
+1468,6644,TMT,False
+618,6644,Transport,False
+200,19429,Agribusiness,False
+1751,19429,Biotech / Life Science,False
+726,19429,Business Services,False
+1509,19429,Clean Tech / Renewable,False
+2174,19429,Consumer Goods,False
+1181,19429,Diversified,False
+2897,19429,Energy / Oil & Gas,False
+470,19429,Financial Services,False
+1547,19429,Healthcare,False
+444,19429,Industrials,False
+368,19429,Leisure,False
+556,19429,Manufacturing,False
+2526,19429,Natural Resources,False
+1483,19429,Other,False
+2258,19429,Retail,False
+2597,19429,TMT,True
+1245,19429,Transport,False
+469,20858,Agribusiness,False
+919,20858,Biotech / Life Science,False
+2737,20858,Business Services,False
+2271,20858,Clean Tech / Renewable,False
+1612,20858,Consumer Goods,False
+257,20858,Diversified,False
+2564,20858,Energy / Oil & Gas,False
+758,20858,Financial Services,False
+28,20858,Healthcare,False
+2947,20858,Industrials,False
+104,20858,Leisure,False
+2594,20858,Manufacturing,False
+478,20858,Natural Resources,False
+1967,20858,Other,False
+1377,20858,Retail,False
+1595,20858,TMT,True
+1551,20858,Transport,False
+1960,16065,Agribusiness,False
+778,16065,Biotech / Life Science,False
+2672,16065,Business Services,True
+2200,16065,Clean Tech / Renewable,False
+1525,16065,Consumer Goods,False
+2482,16065,Diversified,True
+1659,16065,Energy / Oil & Gas,False
+522,16065,Financial Services,False
+1429,16065,Healthcare,False
+3129,16065,Industrials,False
+975,16065,Leisure,False
+2354,16065,Manufacturing,False
+1698,16065,Natural Resources,False
+264,16065,Other,False
+999,16065,Retail,False
+248,16065,TMT,True
+2303,16065,Transport,False
+2341,3944,Biotech / Life Science,False
+554,3944,Clean Tech / Renewable,False
+37,3944,Consumer Goods,False
+2446,3944,Diversified,True
+27,3944,Energy / Oil & Gas,False
+3126,3944,Financial Services,False
+2758,3944,Healthcare,False
+3053,3944,Industrials,False
+560,3944,Leisure,False
+2153,3944,Manufacturing,False
+858,3944,Natural Resources,False
+1068,3944,Other,False
+837,3944,Retail,False
+2204,3944,TMT,False
+619,3944,Transport,False
+2875,6550,Biotech / Life Science,True
+2800,6550,Clean Tech / Renewable,True
+1829,6550,Consumer Goods,True
+1691,6550,Diversified,True
+2736,6550,Energy / Oil & Gas,True
+1097,6550,Financial Services,True
+275,6550,Healthcare,True
+2083,6550,Industrials,True
+1570,6550,Leisure,True
+1260,6550,Manufacturing,True
+450,6550,Natural Resources,False
+204,6550,Other,False
+1100,6550,Retail,True
+2878,6550,TMT,True
+1651,6550,Transport,True
+1027,5612,Biotech / Life Science,True
+629,5612,Clean Tech / Renewable,True
+3019,5612,Consumer Goods,True
+1654,5612,Diversified,True
+335,5612,Energy / Oil & Gas,True
+2638,5612,Financial Services,True
+2121,5612,Healthcare,True
+924,5612,Industrials,True
+180,5612,Leisure,True
+2213,5612,Manufacturing,True
+1283,5612,Natural Resources,True
+713,5612,Other,True
+2179,5612,Retail,True
+2957,5612,TMT,True
+2374,5612,Transport,True
+2296,902,Biotech / Life Science,False
+2764,902,Clean Tech / Renewable,True
+1711,902,Consumer Goods,True
+468,902,Diversified,True
+1649,902,Energy / Oil & Gas,False
+2523,902,Financial Services,True
+66,902,Healthcare,True
+3093,902,Industrials,True
+2002,902,Leisure,False
+1578,902,Manufacturing,True
+2711,902,Natural Resources,False
+877,902,Other,True
+1318,902,Retail,True
+2269,902,TMT,True
+2756,902,Transport,False
+1730,1757,Biotech / Life Science,True
+2663,1757,Clean Tech / Renewable,True
+214,1757,Consumer Goods,True
+71,1757,Diversified,True
+2334,1757,Energy / Oil & Gas,True
+2918,1757,Financial Services,True
+1349,1757,Healthcare,True
+774,1757,Industrials,True
+1510,1757,Leisure,True
+2509,1757,Manufacturing,True
+2457,1757,Natural Resources,True
+1750,1757,Other,False
+825,1757,Retail,True
+2141,1757,TMT,True
+67,1757,Transport,True
+989,3659,Biotech / Life Science,False
+1860,3659,Clean Tech / Renewable,False
+160,3659,Consumer Goods,False
+2970,3659,Diversified,False
+2464,3659,Energy / Oil & Gas,False
+144,3659,Financial Services,True
+439,3659,Healthcare,False
+1555,3659,Industrials,False
+900,3659,Leisure,False
+2505,3659,Manufacturing,False
+1163,3659,Natural Resources,False
+1737,3659,Other,False
+199,3659,Retail,False
+1122,3659,TMT,True
+565,3659,Transport,False
+178,15736,Agribusiness,False
+2502,15736,Biotech / Life Science,False
+783,15736,Business Services,False
+913,15736,Clean Tech / Renewable,False
+516,15736,Consumer Goods,False
+1738,15736,Diversified,True
+95,15736,Energy / Oil & Gas,False
+639,15736,Financial Services,True
+1494,15736,Healthcare,False
+335,15736,Industrials,False
+776,15736,Leisure,False
+386,15736,Manufacturing,False
+2819,15736,Natural Resources,False
+1518,15736,Other,False
+1696,15736,Retail,True
+2383,15736,TMT,True
+1397,15736,Transport,False
+3018,6536,Biotech / Life Science,True
+2126,6536,Clean Tech / Renewable,True
+2057,6536,Consumer Goods,True
+1613,6536,Diversified,True
+1043,6536,Energy / Oil & Gas,False
+333,6536,Financial Services,True
+1972,6536,Healthcare,True
+825,6536,Industrials,False
+2780,6536,Leisure,False
+516,6536,Manufacturing,False
+2487,6536,Natural Resources,False
+2235,6536,Other,False
+1564,6536,Retail,False
+92,6536,TMT,True
+2560,6536,Transport,False
+851,1333,Biotech / Life Science,True
+359,1333,Clean Tech / Renewable,False
+1705,1333,Consumer Goods,True
+1109,1333,Diversified,True
+289,1333,Energy / Oil & Gas,True
+2766,1333,Financial Services,True
+2978,1333,Healthcare,True
+991,1333,Industrials,True
+1789,1333,Leisure,True
+2470,1333,Manufacturing,False
+1118,1333,Natural Resources,False
+2669,1333,Other,True
+325,1333,Retail,True
+2250,1333,TMT,True
+1686,1333,Transport,True
+2478,3155,Biotech / Life Science,False
+914,3155,Clean Tech / Renewable,False
+2549,3155,Consumer Goods,False
+159,3155,Diversified,True
+1893,3155,Energy / Oil & Gas,False
+2876,3155,Financial Services,False
+2812,3155,Healthcare,False
+2393,3155,Industrials,False
+180,3155,Leisure,False
+1027,3155,Manufacturing,False
+561,3155,Natural Resources,False
+650,3155,Other,False
+1286,3155,Retail,False
+1486,3155,TMT,False
+205,3155,Transport,False
+2604,8019,Biotech / Life Science,True
+2619,8019,Clean Tech / Renewable,True
+3085,8019,Consumer Goods,True
+440,8019,Diversified,True
+2598,8019,Energy / Oil & Gas,True
+2573,8019,Financial Services,True
+868,8019,Healthcare,True
+99,8019,Industrials,True
+1178,8019,Leisure,True
+2495,8019,Manufacturing,True
+1592,8019,Natural Resources,True
+1837,8019,Other,False
+2990,8019,Retail,True
+2618,8019,TMT,True
+550,8019,Transport,True
+117,13004,Biotech / Life Science,False
+2199,13004,Business Services,False
+2528,13004,Clean Tech / Renewable,False
+787,13004,Consumer Goods,False
+2133,13004,Diversified,True
+2627,13004,Energy / Oil & Gas,False
+2809,13004,Financial Services,False
+2695,13004,Healthcare,False
+2112,13004,Industrials,False
+1987,13004,Leisure,False
+1563,13004,Manufacturing,False
+1014,13004,Natural Resources,False
+253,13004,Other,False
+2021,13004,Retail,False
+2152,13004,TMT,True
+2141,13004,Transport,False
+592,20727,Agribusiness,False
+1871,20727,Biotech / Life Science,False
+492,20727,Business Services,False
+1254,20727,Clean Tech / Renewable,False
+2376,20727,Consumer Goods,False
+294,20727,Diversified,True
+1217,20727,Energy / Oil & Gas,False
+2710,20727,Financial Services,True
+1237,20727,Healthcare,False
+1233,20727,Industrials,False
+1080,20727,Leisure,False
+2779,20727,Manufacturing,False
+2646,20727,Natural Resources,False
+95,20727,Other,False
+1068,20727,Retail,False
+787,20727,TMT,False
+2727,20727,Transport,False
+1477,5587,Biotech / Life Science,True
+2701,5587,Clean Tech / Renewable,False
+2538,5587,Consumer Goods,True
+27,5587,Diversified,True
+1531,5587,Energy / Oil & Gas,True
+1503,5587,Financial Services,True
+797,5587,Healthcare,True
+1063,5587,Industrials,True
+2538,5587,Leisure,True
+1045,5587,Manufacturing,False
+2467,5587,Natural Resources,False
+710,5587,Other,True
+1276,5587,Retail,True
+2205,5587,TMT,True
+169,5587,Transport,False
+2712,3453,Biotech / Life Science,False
+2421,3453,Clean Tech / Renewable,True
+416,3453,Consumer Goods,True
+1724,3453,Diversified,True
+2606,3453,Energy / Oil & Gas,True
+2568,3453,Financial Services,True
+1600,3453,Healthcare,True
+2399,3453,Industrials,False
+2085,3453,Leisure,False
+769,3453,Manufacturing,False
+1421,3453,Natural Resources,False
+102,3453,Other,False
+2590,3453,Retail,False
+2907,3453,TMT,True
+2317,3453,Transport,False
+649,7045,Biotech / Life Science,True
+777,7045,Clean Tech / Renewable,True
+145,7045,Consumer Goods,True
+2496,7045,Diversified,True
+970,7045,Energy / Oil & Gas,True
+1520,7045,Financial Services,True
+2584,7045,Healthcare,True
+129,7045,Industrials,True
+1579,7045,Leisure,True
+2273,7045,Manufacturing,True
+2537,7045,Natural Resources,False
+1586,7045,Other,False
+1571,7045,Retail,True
+346,7045,TMT,True
+2207,7045,Transport,True
+222,1719,,
+465,21372,Agribusiness,False
+130,21372,Biotech / Life Science,False
+633,21372,Business Services,False
+1073,21372,Clean Tech / Renewable,False
+135,21372,Consumer Goods,False
+761,21372,Diversified,True
+2404,21372,Energy / Oil & Gas,False
+240,21372,Financial Services,False
+1429,21372,Healthcare,False
+262,21372,Industrials,False
+671,21372,Leisure,False
+2255,21372,Manufacturing,False
+624,21372,Natural Resources,False
+2571,21372,Other,False
+2709,21372,Retail,False
+1687,21372,TMT,False
+2568,21372,Transport,False
+3064,8105,Biotech / Life Science,False
+55,8105,Clean Tech / Renewable,False
+2830,8105,Consumer Goods,False
+1869,8105,Diversified,True
+2055,8105,Energy / Oil & Gas,False
+2427,8105,Financial Services,False
+289,8105,Healthcare,False
+1235,8105,Industrials,False
+1976,8105,Leisure,False
+1907,8105,Manufacturing,False
+1442,8105,Natural Resources,False
+2126,8105,Other,True
+2059,8105,Retail,False
+808,8105,TMT,False
+507,8105,Transport,False
+1762,2445,Biotech / Life Science,False
+1891,2445,Clean Tech / Renewable,False
+1166,2445,Consumer Goods,True
+375,2445,Diversified,True
+2551,2445,Energy / Oil & Gas,True
+599,2445,Financial Services,True
+2881,2445,Healthcare,True
+1343,2445,Industrials,True
+942,2445,Leisure,False
+2703,2445,Manufacturing,False
+1895,2445,Natural Resources,False
+2213,2445,Other,False
+688,2445,Retail,False
+2057,2445,TMT,True
+2825,2445,Transport,False
+1442,6742,Biotech / Life Science,True
+2514,6742,Business Services,False
+2817,6742,Clean Tech / Renewable,False
+2003,6742,Consumer Goods,False
+1343,6742,Diversified,False
+2857,6742,Energy / Oil & Gas,False
+592,6742,Financial Services,False
+2856,6742,Healthcare,True
+1843,6742,Industrials,False
+896,6742,Leisure,False
+1510,6742,Manufacturing,False
+103,6742,Natural Resources,False
+2096,6742,Other,False
+1971,6742,Retail,False
+1082,6742,TMT,False
+2905,6742,Transport,False
+2323,6361,Biotech / Life Science,True
+976,6361,Clean Tech / Renewable,False
+270,6361,Consumer Goods,True
+213,6361,Diversified,True
+37,6361,Energy / Oil & Gas,False
+1842,6361,Financial Services,True
+182,6361,Healthcare,True
+1641,6361,Industrials,True
+2502,6361,Leisure,True
+1724,6361,Manufacturing,False
+1989,6361,Natural Resources,False
+304,6361,Other,False
+310,6361,Retail,True
+1303,6361,TMT,True
+600,6361,Transport,False
+1963,876,Biotech / Life Science,True
+742,876,Clean Tech / Renewable,True
+2837,876,Consumer Goods,True
+2071,876,Diversified,True
+842,876,Energy / Oil & Gas,True
+2973,876,Financial Services,True
+1147,876,Healthcare,True
+311,876,Industrials,True
+2538,876,Leisure,True
+1022,876,Manufacturing,True
+242,876,Natural Resources,False
+839,876,Other,False
+142,876,Retail,False
+1506,876,TMT,True
+2606,876,Transport,True
+2878,18504,Agribusiness,False
+383,18504,Biotech / Life Science,False
+868,18504,Business Services,False
+357,18504,Clean Tech / Renewable,False
+477,18504,Consumer Goods,False
+1915,18504,Diversified,True
+690,18504,Energy / Oil & Gas,False
+2455,18504,Financial Services,True
+1700,18504,Healthcare,False
+1429,18504,Industrials,True
+215,18504,Leisure,False
+2065,18504,Manufacturing,False
+2537,18504,Natural Resources,False
+1113,18504,Other,False
+1542,18504,Retail,False
+2750,18504,TMT,True
+1748,18504,Transport,False
+2896,2175,Biotech / Life Science,True
+2487,2175,Clean Tech / Renewable,True
+1702,2175,Consumer Goods,True
+2696,2175,Diversified,True
+640,2175,Energy / Oil & Gas,True
+1795,2175,Financial Services,True
+275,2175,Healthcare,True
+1930,2175,Industrials,True
+400,2175,Leisure,True
+638,2175,Manufacturing,False
+270,2175,Natural Resources,False
+1559,2175,Other,False
+2768,2175,Retail,True
+1227,2175,TMT,True
+1629,2175,Transport,False
+2082,4260,Biotech / Life Science,False
+1433,4260,Clean Tech / Renewable,False
+2475,4260,Consumer Goods,True
+816,4260,Diversified,True
+261,4260,Energy / Oil & Gas,True
+332,4260,Financial Services,True
+572,4260,Healthcare,False
+1225,4260,Industrials,True
+98,4260,Leisure,False
+69,4260,Manufacturing,False
+2912,4260,Natural Resources,False
+1940,4260,Other,True
+838,4260,Retail,True
+3083,4260,TMT,False
+158,4260,Transport,False
+2893,15027,,
+953,8558,Biotech / Life Science,False
+2957,8558,Business Services,False
+542,8558,Clean Tech / Renewable,False
+1104,8558,Consumer Goods,False
+1486,8558,Diversified,True
+2319,8558,Energy / Oil & Gas,False
+2283,8558,Financial Services,False
+369,8558,Healthcare,False
+271,8558,Industrials,False
+2897,8558,Leisure,False
+1792,8558,Manufacturing,False
+1674,8558,Natural Resources,False
+303,8558,Other,False
+1902,8558,Retail,False
+2658,8558,TMT,False
+1170,8558,Transport,False
+821,17885,,
+1767,978,Biotech / Life Science,True
+2314,978,Clean Tech / Renewable,False
+972,978,Consumer Goods,False
+930,978,Diversified,True
+280,978,Energy / Oil & Gas,False
+87,978,Financial Services,False
+2400,978,Healthcare,False
+1112,978,Industrials,False
+857,978,Leisure,False
+653,978,Manufacturing,False
+26,978,Natural Resources,False
+725,978,Other,False
+2307,978,Retail,False
+1991,978,TMT,True
+1106,978,Transport,False
+1830,1748,Biotech / Life Science,False
+1839,1748,Clean Tech / Renewable,False
+2128,1748,Consumer Goods,True
+81,1748,Diversified,True
+1780,1748,Energy / Oil & Gas,False
+2535,1748,Financial Services,False
+1096,1748,Healthcare,False
+3099,1748,Industrials,False
+964,1748,Leisure,False
+135,1748,Manufacturing,False
+2768,1748,Natural Resources,False
+3084,1748,Other,False
+1059,1748,Retail,False
+2667,1748,TMT,True
+2121,1748,Transport,False
+2009,3703,Biotech / Life Science,True
+2758,3703,Clean Tech / Renewable,False
+1404,3703,Consumer Goods,False
+2019,3703,Diversified,True
+1619,3703,Energy / Oil & Gas,True
+2502,3703,Financial Services,False
+1217,3703,Healthcare,False
+3077,3703,Industrials,False
+2651,3703,Leisure,False
+2981,3703,Manufacturing,False
+1899,3703,Natural Resources,False
+1848,3703,Other,False
+798,3703,Retail,False
+1498,3703,TMT,False
+710,3703,Transport,False
+1969,1470,Biotech / Life Science,True
+386,1470,Clean Tech / Renewable,False
+1209,1470,Consumer Goods,True
+453,1470,Diversified,True
+3131,1470,Energy / Oil & Gas,True
+520,1470,Financial Services,True
+2857,1470,Healthcare,True
+1218,1470,Industrials,True
+3083,1470,Leisure,True
+2988,1470,Manufacturing,True
+1669,1470,Natural Resources,False
+1825,1470,Other,True
+2086,1470,Retail,True
+2754,1470,TMT,True
+2924,1470,Transport,False
+1029,8642,Biotech / Life Science,False
+2315,8642,Clean Tech / Renewable,False
+2138,8642,Consumer Goods,True
+1952,8642,Diversified,True
+2874,8642,Energy / Oil & Gas,True
+427,8642,Financial Services,True
+2605,8642,Healthcare,True
+2891,8642,Industrials,True
+562,8642,Leisure,False
+2489,8642,Manufacturing,False
+1077,8642,Natural Resources,False
+1619,8642,Other,False
+2054,8642,Retail,True
+779,8642,TMT,True
+1241,8642,Transport,False
+216,6486,Biotech / Life Science,True
+2944,6486,Clean Tech / Renewable,False
+2252,6486,Consumer Goods,True
+1387,6486,Diversified,True
+3090,6486,Energy / Oil & Gas,False
+569,6486,Financial Services,True
+2250,6486,Healthcare,True
+653,6486,Industrials,False
+1192,6486,Leisure,False
+967,6486,Manufacturing,False
+1318,6486,Natural Resources,False
+1148,6486,Other,False
+1177,6486,Retail,True
+2998,6486,TMT,True
+1943,6486,Transport,True
+1372,16957,Agribusiness,False
+1991,16957,Biotech / Life Science,False
+508,16957,Business Services,True
+2129,16957,Clean Tech / Renewable,False
+1501,16957,Consumer Goods,True
+38,16957,Diversified,True
+2156,16957,Energy / Oil & Gas,False
+602,16957,Financial Services,True
+123,16957,Healthcare,True
+796,16957,Industrials,True
+2193,16957,Leisure,False
+1834,16957,Manufacturing,True
+2760,16957,Natural Resources,False
+1804,16957,Other,False
+2611,16957,Retail,False
+921,16957,TMT,False
+1179,16957,Transport,False
+286,8263,,
+394,6675,Biotech / Life Science,False
+179,6675,Clean Tech / Renewable,False
+1288,6675,Consumer Goods,True
+668,6675,Diversified,True
+2475,6675,Energy / Oil & Gas,False
+1989,6675,Financial Services,True
+2556,6675,Healthcare,True
+1689,6675,Industrials,False
+1478,6675,Leisure,False
+776,6675,Manufacturing,False
+2025,6675,Natural Resources,False
+114,6675,Other,False
+484,6675,Retail,True
+2333,6675,TMT,True
+652,6675,Transport,False
+312,6924,Biotech / Life Science,False
+287,6924,Clean Tech / Renewable,False
+1764,6924,Consumer Goods,False
+1961,6924,Diversified,False
+699,6924,Energy / Oil & Gas,False
+2263,6924,Financial Services,False
+1449,6924,Healthcare,False
+336,6924,Industrials,False
+1138,6924,Leisure,False
+2391,6924,Manufacturing,False
+2495,6924,Natural Resources,False
+1233,6924,Other,False
+1760,6924,Retail,False
+934,6924,TMT,True
+881,6924,Transport,False
+2327,4186,Biotech / Life Science,True
+1892,4186,Clean Tech / Renewable,False
+963,4186,Consumer Goods,True
+641,4186,Diversified,True
+1965,4186,Energy / Oil & Gas,False
+1640,4186,Financial Services,True
+1872,4186,Healthcare,True
+1236,4186,Industrials,False
+531,4186,Leisure,True
+2579,4186,Manufacturing,False
+1888,4186,Natural Resources,False
+296,4186,Other,False
+2721,4186,Retail,False
+354,4186,TMT,True
+634,4186,Transport,False
+1202,18822,Agribusiness,False
+9,18822,Biotech / Life Science,False
+2458,18822,Business Services,True
+824,18822,Clean Tech / Renewable,False
+956,18822,Consumer Goods,True
+2997,18822,Diversified,True
+390,18822,Energy / Oil & Gas,False
+1503,18822,Financial Services,False
+2499,18822,Healthcare,True
+2769,18822,Industrials,True
+185,18822,Leisure,False
+783,18822,Manufacturing,True
+696,18822,Natural Resources,False
+1375,18822,Other,False
+832,18822,Retail,True
+2932,18822,TMT,False
+23,18822,Transport,False
+2839,1885,Biotech / Life Science,True
+2227,1885,Clean Tech / Renewable,True
+2800,1885,Consumer Goods,False
+365,1885,Diversified,True
+2643,1885,Energy / Oil & Gas,True
+722,1885,Financial Services,False
+708,1885,Healthcare,True
+914,1885,Industrials,True
+6,1885,Leisure,False
+2178,1885,Manufacturing,False
+144,1885,Natural Resources,False
+2147,1885,Other,False
+226,1885,Retail,False
+1094,1885,TMT,True
+1074,1885,Transport,True
+2745,10998,Biotech / Life Science,True
+2120,10998,Business Services,False
+936,10998,Clean Tech / Renewable,False
+475,10998,Consumer Goods,True
+1473,10998,Diversified,True
+1120,10998,Energy / Oil & Gas,False
+741,10998,Financial Services,True
+1391,10998,Healthcare,True
+903,10998,Industrials,False
+387,10998,Leisure,False
+378,10998,Manufacturing,True
+1593,10998,Natural Resources,False
+3062,10998,Other,False
+1356,10998,Retail,True
+2635,10998,TMT,True
+1548,10998,Transport,False
+2921,20375,Agribusiness,False
+2659,20375,Biotech / Life Science,False
+296,20375,Business Services,False
+2273,20375,Clean Tech / Renewable,False
+2225,20375,Consumer Goods,False
+171,20375,Diversified,True
+2053,20375,Energy / Oil & Gas,False
+2174,20375,Financial Services,False
+2637,20375,Healthcare,False
+3076,20375,Industrials,False
+881,20375,Leisure,False
+2380,20375,Manufacturing,False
+1784,20375,Natural Resources,False
+2279,20375,Other,False
+2256,20375,Retail,False
+1267,20375,TMT,False
+273,20375,Transport,False
+2143,13451,Agribusiness,False
+1884,13451,Biotech / Life Science,False
+1513,13451,Business Services,False
+2385,13451,Clean Tech / Renewable,False
+2065,13451,Consumer Goods,False
+1162,13451,Diversified,True
+2709,13451,Energy / Oil & Gas,False
+1014,13451,Financial Services,True
+2885,13451,Healthcare,False
+1733,13451,Industrials,False
+1763,13451,Leisure,False
+2232,13451,Manufacturing,False
+1028,13451,Natural Resources,False
+2975,13451,Other,False
+1143,13451,Retail,False
+2814,13451,TMT,False
+1572,13451,Transport,False
+253,1860,Biotech / Life Science,False
+2019,1860,Clean Tech / Renewable,True
+306,1860,Consumer Goods,True
+145,1860,Diversified,True
+156,1860,Energy / Oil & Gas,True
+2859,1860,Financial Services,True
+2232,1860,Healthcare,True
+890,1860,Industrials,True
+2034,1860,Leisure,True
+582,1860,Manufacturing,True
+1290,1860,Natural Resources,False
+2752,1860,Other,True
+2120,1860,Retail,True
+1206,1860,TMT,True
+190,1860,Transport,True
+2664,18892,Agribusiness,False
+3025,18892,Biotech / Life Science,False
+470,18892,Business Services,True
+1285,18892,Clean Tech / Renewable,False
+151,18892,Consumer Goods,False
+2415,18892,Diversified,False
+2468,18892,Energy / Oil & Gas,False
+2752,18892,Financial Services,True
+1445,18892,Healthcare,True
+456,18892,Industrials,False
+2035,18892,Leisure,False
+2244,18892,Manufacturing,False
+1886,18892,Natural Resources,False
+2991,18892,Other,False
+315,18892,Retail,False
+1358,18892,TMT,True
+6,18892,Transport,False
+2215,90,Biotech / Life Science,True
+495,90,Clean Tech / Renewable,True
+208,90,Consumer Goods,True
+2860,90,Diversified,True
+1070,90,Energy / Oil & Gas,True
+991,90,Financial Services,True
+916,90,Healthcare,True
+1120,90,Industrials,True
+945,90,Leisure,True
+2651,90,Manufacturing,False
+2085,90,Natural Resources,False
+716,90,Other,False
+1823,90,Retail,True
+2611,90,TMT,True
+1353,90,Transport,True
+1900,6478,,
+1028,13963,Agribusiness,False
+1417,13963,Biotech / Life Science,False
+2180,13963,Business Services,True
+2921,13963,Clean Tech / Renewable,False
+289,13963,Consumer Goods,False
+2890,13963,Diversified,False
+1085,13963,Energy / Oil & Gas,False
+35,13963,Financial Services,True
+2862,13963,Healthcare,True
+1224,13963,Industrials,False
+2088,13963,Leisure,True
+365,13963,Manufacturing,False
+1378,13963,Natural Resources,False
+1163,13963,Other,True
+2992,13963,Retail,False
+207,13963,TMT,True
+2728,13963,Transport,False
+560,1292,Biotech / Life Science,True
+983,1292,Clean Tech / Renewable,False
+1765,1292,Consumer Goods,False
+1787,1292,Diversified,True
+2938,1292,Energy / Oil & Gas,True
+1030,1292,Financial Services,False
+1014,1292,Healthcare,False
+2054,1292,Industrials,False
+876,1292,Leisure,False
+1740,1292,Manufacturing,False
+1798,1292,Natural Resources,False
+2962,1292,Other,False
+2893,1292,Retail,False
+2740,1292,TMT,True
+963,1292,Transport,False
+159,13555,Biotech / Life Science,False
+733,13555,Clean Tech / Renewable,False
+2321,13555,Consumer Goods,True
+733,13555,Diversified,True
+2318,13555,Energy / Oil & Gas,False
+1089,13555,Financial Services,False
+1239,13555,Healthcare,True
+443,13555,Industrials,True
+397,13555,Leisure,False
+1763,13555,Manufacturing,True
+550,13555,Natural Resources,False
+2710,13555,Other,False
+3113,13555,Retail,False
+2851,13555,TMT,False
+448,13555,Transport,False
+1283,8180,Biotech / Life Science,True
+1364,8180,Business Services,False
+870,8180,Clean Tech / Renewable,False
+2474,8180,Consumer Goods,False
+2258,8180,Diversified,False
+1790,8180,Energy / Oil & Gas,False
+580,8180,Financial Services,False
+1972,8180,Healthcare,True
+1617,8180,Industrials,False
+1617,8180,Leisure,False
+1941,8180,Manufacturing,False
+2820,8180,Natural Resources,False
+2757,8180,Other,False
+2363,8180,Retail,False
+2696,8180,TMT,False
+72,8180,Transport,False
+2618,892,Biotech / Life Science,False
+2667,892,Clean Tech / Renewable,False
+2248,892,Consumer Goods,True
+2425,892,Diversified,True
+312,892,Energy / Oil & Gas,True
+2532,892,Financial Services,True
+2293,892,Healthcare,True
+2944,892,Industrials,True
+2690,892,Leisure,False
+797,892,Manufacturing,False
+2364,892,Natural Resources,False
+157,892,Other,False
+820,892,Retail,False
+299,892,TMT,True
+306,892,Transport,False
+261,3858,Biotech / Life Science,True
+442,3858,Clean Tech / Renewable,True
+2946,3858,Consumer Goods,True
+2991,3858,Diversified,True
+1851,3858,Energy / Oil & Gas,True
+411,3858,Financial Services,True
+262,3858,Healthcare,True
+1625,3858,Industrials,True
+44,3858,Leisure,False
+278,3858,Manufacturing,True
+2947,3858,Natural Resources,True
+1192,3858,Other,False
+1128,3858,Retail,True
+2852,3858,TMT,True
+2998,3858,Transport,True
+2019,11,,
+2987,18084,Agribusiness,False
+2609,18084,Biotech / Life Science,False
+1568,18084,Business Services,False
+336,18084,Clean Tech / Renewable,False
+1510,18084,Consumer Goods,False
+1189,18084,Diversified,False
+653,18084,Energy / Oil & Gas,False
+1128,18084,Financial Services,False
+2578,18084,Healthcare,False
+463,18084,Industrials,False
+1751,18084,Leisure,False
+1454,18084,Manufacturing,False
+814,18084,Natural Resources,False
+656,18084,Other,False
+210,18084,Retail,False
+2897,18084,TMT,True
+2489,18084,Transport,False
+2210,16356,Agribusiness,False
+1054,16356,Biotech / Life Science,False
+3024,16356,Business Services,True
+510,16356,Clean Tech / Renewable,False
+1318,16356,Consumer Goods,False
+782,16356,Diversified,True
+2722,16356,Energy / Oil & Gas,False
+2391,16356,Financial Services,False
+1685,16356,Healthcare,False
+1259,16356,Industrials,True
+2916,16356,Leisure,False
+43,16356,Manufacturing,True
+1595,16356,Natural Resources,False
+2659,16356,Other,True
+2945,16356,Retail,False
+523,16356,TMT,False
+3062,16356,Transport,True
+640,1277,Biotech / Life Science,False
+548,1277,Clean Tech / Renewable,False
+3123,1277,Consumer Goods,False
+2999,1277,Diversified,True
+1538,1277,Energy / Oil & Gas,False
+2836,1277,Financial Services,False
+1127,1277,Healthcare,False
+1227,1277,Industrials,False
+1485,1277,Leisure,False
+1040,1277,Manufacturing,False
+1364,1277,Natural Resources,False
+736,1277,Other,False
+2348,1277,Retail,False
+147,1277,TMT,False
+707,1277,Transport,False
+813,7597,Biotech / Life Science,False
+1832,7597,Business Services,False
+123,7597,Clean Tech / Renewable,False
+2028,7597,Consumer Goods,False
+1339,7597,Diversified,False
+345,7597,Energy / Oil & Gas,False
+1131,7597,Financial Services,False
+2127,7597,Healthcare,False
+2652,7597,Industrials,False
+59,7597,Leisure,False
+676,7597,Manufacturing,False
+342,7597,Natural Resources,False
+1488,7597,Other,False
+2732,7597,Retail,False
+2714,7597,TMT,True
+533,7597,Transport,False
+1425,7604,Biotech / Life Science,False
+2819,7604,Clean Tech / Renewable,False
+1244,7604,Consumer Goods,False
+2406,7604,Diversified,False
+61,7604,Energy / Oil & Gas,True
+1997,7604,Financial Services,False
+858,7604,Healthcare,False
+148,7604,Industrials,False
+633,7604,Leisure,False
+583,7604,Manufacturing,False
+2342,7604,Natural Resources,False
+2257,7604,Other,False
+2942,7604,Retail,False
+1603,7604,TMT,False
+164,7604,Transport,False
+382,21412,Agribusiness,False
+2255,21412,Biotech / Life Science,False
+2953,21412,Business Services,False
+216,21412,Clean Tech / Renewable,False
+728,21412,Consumer Goods,False
+245,21412,Diversified,True
+1196,21412,Energy / Oil & Gas,False
+579,21412,Financial Services,False
+1668,21412,Healthcare,False
+671,21412,Industrials,False
+1240,21412,Leisure,False
+727,21412,Manufacturing,False
+1453,21412,Natural Resources,False
+2415,21412,Other,False
+2544,21412,Retail,False
+2298,21412,TMT,False
+1663,21412,Transport,False
+3107,6573,Biotech / Life Science,False
+1956,6573,Clean Tech / Renewable,True
+2997,6573,Consumer Goods,False
+1258,6573,Diversified,True
+1587,6573,Energy / Oil & Gas,True
+2500,6573,Financial Services,True
+2624,6573,Healthcare,False
+1817,6573,Industrials,True
+1026,6573,Leisure,False
+868,6573,Manufacturing,True
+830,6573,Natural Resources,True
+1377,6573,Other,False
+1384,6573,Retail,False
+2851,6573,TMT,True
+2543,6573,Transport,False
+3011,3641,Biotech / Life Science,False
+701,3641,Clean Tech / Renewable,False
+139,3641,Consumer Goods,False
+1017,3641,Diversified,True
+2126,3641,Energy / Oil & Gas,True
+1904,3641,Financial Services,False
+1480,3641,Healthcare,True
+940,3641,Industrials,True
+2732,3641,Leisure,False
+2199,3641,Manufacturing,False
+1008,3641,Natural Resources,False
+50,3641,Other,False
+1428,3641,Retail,False
+586,3641,TMT,True
+974,3641,Transport,True
+88,2248,Biotech / Life Science,False
+1318,2248,Clean Tech / Renewable,True
+1129,2248,Consumer Goods,True
+1094,2248,Diversified,True
+359,2248,Energy / Oil & Gas,True
+860,2248,Financial Services,True
+1838,2248,Healthcare,True
+1392,2248,Industrials,True
+2112,2248,Leisure,False
+131,2248,Manufacturing,False
+1918,2248,Natural Resources,False
+1727,2248,Other,True
+18,2248,Retail,True
+1332,2248,TMT,True
+3056,2248,Transport,False
+2362,13033,Biotech / Life Science,False
+2186,13033,Business Services,False
+596,13033,Clean Tech / Renewable,False
+852,13033,Consumer Goods,False
+262,13033,Diversified,False
+1130,13033,Energy / Oil & Gas,False
+2040,13033,Financial Services,False
+2531,13033,Healthcare,False
+1038,13033,Industrials,False
+1447,13033,Leisure,False
+740,13033,Manufacturing,False
+2249,13033,Natural Resources,False
+343,13033,Other,False
+2108,13033,Retail,False
+588,13033,TMT,True
+1155,13033,Transport,False
+1449,6211,Biotech / Life Science,False
+1459,6211,Clean Tech / Renewable,False
+1355,6211,Consumer Goods,False
+2536,6211,Diversified,False
+1962,6211,Energy / Oil & Gas,True
+33,6211,Financial Services,False
+1251,6211,Healthcare,False
+2507,6211,Industrials,False
+1508,6211,Leisure,False
+1991,6211,Manufacturing,True
+2284,6211,Natural Resources,False
+2206,6211,Other,False
+1722,6211,Retail,False
+1140,6211,TMT,False
+68,6211,Transport,False
+2425,4013,Biotech / Life Science,True
+3096,4013,Clean Tech / Renewable,True
+2100,4013,Consumer Goods,False
+2189,4013,Diversified,True
+752,4013,Energy / Oil & Gas,False
+2051,4013,Financial Services,False
+1108,4013,Healthcare,False
+45,4013,Industrials,False
+860,4013,Leisure,False
+1844,4013,Manufacturing,False
+947,4013,Natural Resources,False
+2352,4013,Other,False
+1358,4013,Retail,False
+2723,4013,TMT,False
+987,4013,Transport,False
+1760,8457,Biotech / Life Science,False
+807,8457,Clean Tech / Renewable,True
+2399,8457,Consumer Goods,True
+53,8457,Diversified,True
+2212,8457,Energy / Oil & Gas,False
+1971,8457,Financial Services,False
+2084,8457,Healthcare,True
+1569,8457,Industrials,False
+2812,8457,Leisure,False
+1429,8457,Manufacturing,False
+2678,8457,Natural Resources,False
+1734,8457,Other,True
+2817,8457,Retail,False
+595,8457,TMT,True
+443,8457,Transport,False
+115,3828,Biotech / Life Science,False
+3127,3828,Clean Tech / Renewable,True
+146,3828,Consumer Goods,True
+125,3828,Diversified,True
+1642,3828,Energy / Oil & Gas,False
+218,3828,Financial Services,True
+724,3828,Healthcare,True
+444,3828,Industrials,True
+2403,3828,Leisure,True
+76,3828,Manufacturing,False
+1898,3828,Natural Resources,False
+2787,3828,Other,True
+1455,3828,Retail,True
+2064,3828,TMT,True
+1442,3828,Transport,False
+915,6371,,
+1170,14052,Biotech / Life Science,False
+1611,14052,Business Services,False
+908,14052,Clean Tech / Renewable,False
+1209,14052,Consumer Goods,False
+3060,14052,Diversified,True
+3023,14052,Energy / Oil & Gas,False
+399,14052,Financial Services,False
+2327,14052,Healthcare,False
+2910,14052,Industrials,False
+537,14052,Leisure,False
+1023,14052,Manufacturing,False
+383,14052,Natural Resources,False
+2255,14052,Other,False
+1339,14052,Retail,False
+751,14052,TMT,False
+98,14052,Transport,False
+43,3671,Biotech / Life Science,False
+2523,3671,Clean Tech / Renewable,False
+891,3671,Consumer Goods,True
+288,3671,Diversified,True
+2584,3671,Energy / Oil & Gas,False
+913,3671,Financial Services,True
+2451,3671,Healthcare,True
+816,3671,Industrials,False
+2358,3671,Leisure,False
+1571,3671,Manufacturing,False
+1281,3671,Natural Resources,False
+2926,3671,Other,False
+2963,3671,Retail,False
+2192,3671,TMT,True
+2538,3671,Transport,False
+3132,4257,Biotech / Life Science,False
+3120,4257,Clean Tech / Renewable,False
+1803,4257,Consumer Goods,True
+892,4257,Diversified,True
+1975,4257,Energy / Oil & Gas,True
+1192,4257,Financial Services,True
+1104,4257,Healthcare,True
+401,4257,Industrials,True
+1684,4257,Leisure,False
+1200,4257,Manufacturing,True
+2982,4257,Natural Resources,False
+1919,4257,Other,True
+2298,4257,Retail,True
+614,4257,TMT,True
+1226,4257,Transport,False
+2739,5552,Biotech / Life Science,False
+329,5552,Clean Tech / Renewable,False
+2800,5552,Consumer Goods,False
+909,5552,Diversified,True
+529,5552,Energy / Oil & Gas,False
+1185,5552,Financial Services,False
+634,5552,Healthcare,False
+639,5552,Industrials,False
+129,5552,Leisure,False
+2821,5552,Manufacturing,False
+430,5552,Natural Resources,False
+1624,5552,Other,False
+2287,5552,Retail,False
+1940,5552,TMT,True
+639,5552,Transport,False
+688,6572,Biotech / Life Science,True
+215,6572,Clean Tech / Renewable,True
+2435,6572,Consumer Goods,True
+2831,6572,Diversified,True
+1506,6572,Energy / Oil & Gas,True
+2277,6572,Financial Services,True
+2276,6572,Healthcare,True
+2965,6572,Industrials,True
+1718,6572,Leisure,True
+1803,6572,Manufacturing,False
+69,6572,Natural Resources,False
+357,6572,Other,True
+1885,6572,Retail,True
+518,6572,TMT,True
+1646,6572,Transport,True
+1784,2097,Biotech / Life Science,False
+1750,2097,Clean Tech / Renewable,False
+2716,2097,Consumer Goods,True
+2817,2097,Diversified,True
+2770,2097,Energy / Oil & Gas,False
+2926,2097,Financial Services,False
+2125,2097,Healthcare,False
+2733,2097,Industrials,True
+934,2097,Leisure,False
+147,2097,Manufacturing,False
+1159,2097,Natural Resources,False
+2386,2097,Other,False
+933,2097,Retail,True
+2118,2097,TMT,False
+2105,2097,Transport,False
+3085,8794,Biotech / Life Science,False
+141,8794,Clean Tech / Renewable,False
+560,8794,Consumer Goods,False
+1113,8794,Diversified,True
+342,8794,Energy / Oil & Gas,False
+1523,8794,Financial Services,False
+2216,8794,Healthcare,False
+519,8794,Industrials,False
+1954,8794,Leisure,False
+1236,8794,Manufacturing,False
+884,8794,Natural Resources,False
+2486,8794,Other,False
+1949,8794,Retail,False
+1996,8794,TMT,False
+2099,8794,Transport,False
+1147,16236,Agribusiness,False
+206,16236,Biotech / Life Science,False
+408,16236,Business Services,False
+2973,16236,Clean Tech / Renewable,False
+1830,16236,Consumer Goods,False
+1071,16236,Diversified,False
+2891,16236,Energy / Oil & Gas,False
+1527,16236,Financial Services,False
+2338,16236,Healthcare,False
+24,16236,Industrials,False
+1669,16236,Leisure,True
+1201,16236,Manufacturing,False
+2429,16236,Natural Resources,False
+550,16236,Other,True
+2782,16236,Retail,False
+878,16236,TMT,True
+3031,16236,Transport,False
+1529,10630,Biotech / Life Science,False
+2855,10630,Clean Tech / Renewable,False
+1649,10630,Consumer Goods,True
+2782,10630,Diversified,True
+830,10630,Energy / Oil & Gas,True
+27,10630,Financial Services,True
+2330,10630,Healthcare,True
+3070,10630,Industrials,False
+528,10630,Leisure,False
+505,10630,Manufacturing,False
+937,10630,Natural Resources,False
+352,10630,Other,False
+682,10630,Retail,False
+2071,10630,TMT,True
+1265,10630,Transport,False
+2807,1706,Biotech / Life Science,True
+2508,1706,Clean Tech / Renewable,False
+142,1706,Consumer Goods,False
+1748,1706,Diversified,False
+403,1706,Energy / Oil & Gas,False
+2262,1706,Financial Services,False
+1466,1706,Healthcare,False
+1909,1706,Industrials,False
+17,1706,Leisure,False
+2163,1706,Manufacturing,False
+91,1706,Natural Resources,False
+692,1706,Other,False
+852,1706,Retail,False
+844,1706,TMT,True
+880,1706,Transport,False
+2378,3596,Biotech / Life Science,False
+2291,3596,Business Services,False
+240,3596,Clean Tech / Renewable,False
+3000,3596,Consumer Goods,False
+1229,3596,Diversified,False
+972,3596,Energy / Oil & Gas,False
+1957,3596,Financial Services,True
+2003,3596,Healthcare,False
+1755,3596,Industrials,True
+2775,3596,Leisure,False
+2986,3596,Manufacturing,False
+1062,3596,Natural Resources,False
+2726,3596,Other,False
+801,3596,Retail,False
+597,3596,TMT,True
+374,3596,Transport,True
+2685,6495,Biotech / Life Science,False
+1322,6495,Clean Tech / Renewable,False
+1392,6495,Consumer Goods,False
+1197,6495,Diversified,False
+2875,6495,Energy / Oil & Gas,False
+3069,6495,Financial Services,False
+2103,6495,Healthcare,False
+725,6495,Industrials,False
+2215,6495,Leisure,False
+1678,6495,Manufacturing,False
+2619,6495,Natural Resources,False
+2664,6495,Other,False
+1095,6495,Retail,False
+690,6495,TMT,True
+810,6495,Transport,False
+1044,16757,Agribusiness,False
+2105,16757,Biotech / Life Science,False
+2499,16757,Business Services,False
+1471,16757,Clean Tech / Renewable,False
+88,16757,Consumer Goods,False
+1227,16757,Diversified,False
+2331,16757,Energy / Oil & Gas,False
+3067,16757,Financial Services,False
+192,16757,Healthcare,False
+610,16757,Industrials,False
+1871,16757,Leisure,False
+1550,16757,Manufacturing,False
+54,16757,Natural Resources,False
+1254,16757,Other,True
+1157,16757,Retail,False
+1620,16757,TMT,False
+1722,16757,Transport,False
+37,4763,Biotech / Life Science,False
+1312,4763,Clean Tech / Renewable,False
+925,4763,Consumer Goods,False
+1307,4763,Diversified,True
+135,4763,Energy / Oil & Gas,False
+587,4763,Financial Services,False
+1418,4763,Healthcare,False
+1038,4763,Industrials,False
+1334,4763,Leisure,False
+144,4763,Manufacturing,False
+2742,4763,Natural Resources,False
+2573,4763,Other,False
+266,4763,Retail,False
+146,4763,TMT,False
+902,4763,Transport,False
+1835,572,Biotech / Life Science,True
+266,572,Clean Tech / Renewable,True
+2053,572,Consumer Goods,True
+1530,572,Diversified,True
+560,572,Energy / Oil & Gas,True
+280,572,Financial Services,True
+2485,572,Healthcare,True
+2179,572,Industrials,True
+1588,572,Leisure,True
+906,572,Manufacturing,True
+16,572,Natural Resources,False
+1548,572,Other,False
+389,572,Retail,True
+2331,572,TMT,True
+204,572,Transport,True
+1259,3122,Biotech / Life Science,False
+2172,3122,Clean Tech / Renewable,False
+548,3122,Consumer Goods,False
+480,3122,Diversified,False
+597,3122,Energy / Oil & Gas,False
+1302,3122,Financial Services,False
+511,3122,Healthcare,False
+1248,3122,Industrials,False
+1052,3122,Leisure,False
+2964,3122,Manufacturing,False
+2522,3122,Natural Resources,False
+2973,3122,Other,False
+2653,3122,Retail,False
+638,3122,TMT,True
+1241,3122,Transport,False
+410,11447,Biotech / Life Science,True
+2267,11447,Clean Tech / Renewable,True
+1343,11447,Consumer Goods,False
+947,11447,Diversified,True
+26,11447,Energy / Oil & Gas,False
+1287,11447,Financial Services,False
+1832,11447,Healthcare,True
+2682,11447,Industrials,False
+1115,11447,Leisure,False
+1065,11447,Manufacturing,False
+2776,11447,Natural Resources,False
+1281,11447,Other,False
+943,11447,Retail,False
+1161,11447,TMT,True
+2635,11447,Transport,False
+2963,10954,Agribusiness,False
+381,10954,Biotech / Life Science,False
+3109,10954,Business Services,False
+2324,10954,Clean Tech / Renewable,False
+2656,10954,Consumer Goods,False
+2087,10954,Diversified,True
+1590,10954,Energy / Oil & Gas,False
+1376,10954,Financial Services,True
+1000,10954,Healthcare,False
+2579,10954,Industrials,False
+1337,10954,Leisure,False
+1987,10954,Manufacturing,False
+3113,10954,Natural Resources,False
+2010,10954,Other,False
+51,10954,Retail,False
+152,10954,TMT,False
+1777,10954,Transport,False
+1171,5471,Biotech / Life Science,True
+1662,5471,Business Services,False
+567,5471,Clean Tech / Renewable,False
+1977,5471,Consumer Goods,True
+2234,5471,Diversified,True
+1867,5471,Energy / Oil & Gas,False
+453,5471,Financial Services,True
+270,5471,Healthcare,True
+469,5471,Industrials,False
+1288,5471,Leisure,False
+1779,5471,Manufacturing,False
+3031,5471,Natural Resources,False
+3016,5471,Other,False
+82,5471,Retail,False
+1851,5471,TMT,True
+183,5471,Transport,False
+2406,1721,Biotech / Life Science,False
+2661,1721,Clean Tech / Renewable,False
+138,1721,Consumer Goods,False
+1012,1721,Diversified,True
+2935,1721,Energy / Oil & Gas,False
+3064,1721,Financial Services,False
+909,1721,Healthcare,True
+2852,1721,Industrials,False
+1044,1721,Leisure,False
+217,1721,Manufacturing,False
+2993,1721,Natural Resources,False
+2241,1721,Other,False
+2597,1721,Retail,False
+972,1721,TMT,True
+2239,1721,Transport,False
+1250,21294,Agribusiness,False
+469,21294,Biotech / Life Science,False
+1612,21294,Business Services,False
+1710,21294,Clean Tech / Renewable,False
+2291,21294,Consumer Goods,False
+1973,21294,Diversified,True
+2696,21294,Energy / Oil & Gas,False
+222,21294,Financial Services,True
+2718,21294,Healthcare,True
+2366,21294,Industrials,False
+581,21294,Leisure,False
+740,21294,Manufacturing,False
+1326,21294,Natural Resources,False
+2141,21294,Other,False
+1357,21294,Retail,False
+1854,21294,TMT,True
+247,21294,Transport,False
+2170,8175,Biotech / Life Science,False
+20,8175,Clean Tech / Renewable,False
+1708,8175,Consumer Goods,False
+1663,8175,Diversified,True
+2618,8175,Energy / Oil & Gas,False
+2564,8175,Financial Services,False
+2868,8175,Healthcare,False
+1372,8175,Industrials,False
+616,8175,Leisure,False
+1027,8175,Manufacturing,False
+274,8175,Natural Resources,False
+1362,8175,Other,False
+2547,8175,Retail,False
+2346,8175,TMT,False
+165,8175,Transport,False
+955,1626,Biotech / Life Science,False
+2408,1626,Clean Tech / Renewable,False
+506,1626,Consumer Goods,False
+1895,1626,Diversified,False
+2696,1626,Energy / Oil & Gas,False
+490,1626,Financial Services,False
+1847,1626,Healthcare,False
+1509,1626,Industrials,False
+445,1626,Leisure,False
+1766,1626,Manufacturing,False
+2183,1626,Natural Resources,False
+1646,1626,Other,False
+2177,1626,Retail,False
+1759,1626,TMT,True
+2875,1626,Transport,False
+2745,13242,,
+2462,950,Biotech / Life Science,True
+2638,950,Clean Tech / Renewable,False
+2322,950,Consumer Goods,True
+1349,950,Diversified,True
+2528,950,Energy / Oil & Gas,False
+1682,950,Financial Services,True
+779,950,Healthcare,True
+2015,950,Industrials,False
+1686,950,Leisure,False
+597,950,Manufacturing,False
+2377,950,Natural Resources,False
+2160,950,Other,True
+2449,950,Retail,True
+808,950,TMT,True
+25,950,Transport,False
+2534,6856,Biotech / Life Science,False
+1320,6856,Clean Tech / Renewable,False
+972,6856,Consumer Goods,True
+2223,6856,Diversified,False
+2729,6856,Energy / Oil & Gas,False
+2156,6856,Financial Services,False
+1998,6856,Healthcare,False
+583,6856,Industrials,True
+2221,6856,Leisure,False
+3115,6856,Manufacturing,True
+2295,6856,Natural Resources,False
+757,6856,Other,False
+478,6856,Retail,True
+1134,6856,TMT,True
+1259,6856,Transport,True
+3087,15068,Biotech / Life Science,False
+2259,15068,Business Services,False
+2408,15068,Clean Tech / Renewable,False
+1597,15068,Consumer Goods,False
+304,15068,Diversified,True
+902,15068,Energy / Oil & Gas,True
+1183,15068,Financial Services,False
+1547,15068,Healthcare,False
+2651,15068,Industrials,False
+2611,15068,Leisure,False
+742,15068,Manufacturing,False
+3118,15068,Natural Resources,False
+298,15068,Other,False
+1174,15068,Retail,False
+1477,15068,TMT,False
+1858,15068,Transport,False
+226,331,Biotech / Life Science,False
+2004,331,Clean Tech / Renewable,False
+611,331,Consumer Goods,True
+2005,331,Diversified,True
+213,331,Energy / Oil & Gas,True
+84,331,Financial Services,True
+2557,331,Healthcare,True
+2371,331,Industrials,True
+350,331,Leisure,True
+716,331,Manufacturing,True
+351,331,Natural Resources,True
+2338,331,Other,True
+435,331,Retail,True
+1111,331,TMT,True
+600,331,Transport,True
+1501,17926,,
+3106,11004,Biotech / Life Science,False
+281,11004,Business Services,False
+2270,11004,Clean Tech / Renewable,False
+2381,11004,Consumer Goods,True
+3089,11004,Diversified,True
+1402,11004,Energy / Oil & Gas,False
+3057,11004,Financial Services,True
+1313,11004,Healthcare,True
+1667,11004,Industrials,False
+992,11004,Leisure,False
+546,11004,Manufacturing,False
+2316,11004,Natural Resources,False
+2250,11004,Other,False
+43,11004,Retail,False
+1979,11004,TMT,True
+312,11004,Transport,False
+2127,19926,Agribusiness,False
+2518,19926,Biotech / Life Science,False
+134,19926,Business Services,False
+1861,19926,Clean Tech / Renewable,False
+905,19926,Consumer Goods,False
+2448,19926,Diversified,False
+1058,19926,Energy / Oil & Gas,False
+1822,19926,Financial Services,False
+682,19926,Healthcare,False
+3086,19926,Industrials,False
+2214,19926,Leisure,False
+428,19926,Manufacturing,False
+42,19926,Natural Resources,False
+649,19926,Other,False
+2042,19926,Retail,False
+1490,19926,TMT,True
+302,19926,Transport,False
+284,13530,Biotech / Life Science,False
+204,13530,Clean Tech / Renewable,False
+1929,13530,Consumer Goods,False
+2741,13530,Diversified,True
+837,13530,Energy / Oil & Gas,False
+2846,13530,Financial Services,False
+1466,13530,Healthcare,False
+310,13530,Industrials,False
+1737,13530,Leisure,False
+1053,13530,Manufacturing,False
+2498,13530,Natural Resources,False
+1309,13530,Other,False
+125,13530,Retail,False
+2132,13530,TMT,False
+550,13530,Transport,False
+1568,7753,Biotech / Life Science,True
+1100,7753,Clean Tech / Renewable,True
+527,7753,Consumer Goods,True
+2283,7753,Diversified,True
+634,7753,Energy / Oil & Gas,True
+2367,7753,Financial Services,False
+566,7753,Healthcare,True
+1973,7753,Industrials,False
+2187,7753,Leisure,False
+970,7753,Manufacturing,False
+1161,7753,Natural Resources,False
+2607,7753,Other,False
+2284,7753,Retail,False
+2003,7753,TMT,True
+325,7753,Transport,False
+272,14128,Agribusiness,False
+273,14128,Biotech / Life Science,False
+27,14128,Business Services,False
+1695,14128,Clean Tech / Renewable,False
+1403,14128,Consumer Goods,False
+274,14128,Diversified,True
+1469,14128,Energy / Oil & Gas,False
+644,14128,Financial Services,True
+2864,14128,Healthcare,False
+277,14128,Industrials,False
+903,14128,Leisure,False
+2640,14128,Manufacturing,False
+1922,14128,Natural Resources,False
+2174,14128,Other,False
+2339,14128,Retail,False
+2760,14128,TMT,False
+400,14128,Transport,False
+515,6673,Biotech / Life Science,True
+3048,6673,Clean Tech / Renewable,False
+1634,6673,Consumer Goods,True
+460,6673,Diversified,False
+569,6673,Energy / Oil & Gas,False
+2196,6673,Financial Services,False
+3025,6673,Healthcare,True
+352,6673,Industrials,True
+2759,6673,Leisure,False
+2061,6673,Manufacturing,False
+253,6673,Natural Resources,False
+93,6673,Other,True
+2632,6673,Retail,False
+2313,6673,TMT,True
+1040,6673,Transport,False
+624,7671,Biotech / Life Science,False
+474,7671,Business Services,False
+1297,7671,Clean Tech / Renewable,False
+216,7671,Consumer Goods,False
+2222,7671,Diversified,False
+1901,7671,Energy / Oil & Gas,False
+2645,7671,Financial Services,False
+1372,7671,Healthcare,False
+1099,7671,Industrials,False
+1379,7671,Leisure,False
+2766,7671,Manufacturing,False
+994,7671,Natural Resources,False
+3093,7671,Other,False
+952,7671,Retail,False
+2745,7671,TMT,True
+995,7671,Transport,False
+482,1733,Biotech / Life Science,True
+187,1733,Clean Tech / Renewable,True
+641,1733,Consumer Goods,False
+2960,1733,Diversified,True
+2975,1733,Energy / Oil & Gas,True
+2383,1733,Financial Services,False
+940,1733,Healthcare,True
+142,1733,Industrials,False
+2222,1733,Leisure,False
+1105,1733,Manufacturing,False
+2246,1733,Natural Resources,True
+1781,1733,Other,True
+3049,1733,Retail,False
+516,1733,TMT,True
+2279,1733,Transport,False
+33,4060,Biotech / Life Science,True
+2237,4060,Clean Tech / Renewable,True
+2565,4060,Consumer Goods,False
+2158,4060,Diversified,True
+2848,4060,Energy / Oil & Gas,False
+2688,4060,Financial Services,True
+1640,4060,Healthcare,True
+2937,4060,Industrials,True
+1893,4060,Leisure,False
+1294,4060,Manufacturing,True
+51,4060,Natural Resources,False
+2566,4060,Other,False
+1123,4060,Retail,False
+2436,4060,TMT,True
+2673,4060,Transport,True
+790,14335,Biotech / Life Science,False
+2719,14335,Business Services,False
+1916,14335,Clean Tech / Renewable,False
+39,14335,Consumer Goods,False
+611,14335,Diversified,False
+33,14335,Energy / Oil & Gas,False
+1656,14335,Financial Services,False
+2313,14335,Healthcare,False
+1730,14335,Industrials,False
+854,14335,Leisure,False
+1890,14335,Manufacturing,False
+1833,14335,Natural Resources,False
+1419,14335,Other,False
+125,14335,Retail,False
+737,14335,TMT,True
+2232,14335,Transport,False
+1278,7918,Biotech / Life Science,False
+2345,7918,Clean Tech / Renewable,False
+1771,7918,Consumer Goods,True
+3104,7918,Diversified,True
+985,7918,Energy / Oil & Gas,False
+771,7918,Financial Services,True
+543,7918,Healthcare,True
+1545,7918,Industrials,False
+1831,7918,Leisure,False
+1999,7918,Manufacturing,False
+866,7918,Natural Resources,False
+2001,7918,Other,True
+1108,7918,Retail,False
+1683,7918,TMT,True
+793,7918,Transport,True
+1786,5220,Biotech / Life Science,False
+1441,5220,Business Services,False
+278,5220,Clean Tech / Renewable,False
+580,5220,Consumer Goods,False
+917,5220,Diversified,True
+1799,5220,Energy / Oil & Gas,False
+186,5220,Financial Services,False
+2534,5220,Healthcare,False
+2131,5220,Industrials,False
+1730,5220,Leisure,False
+587,5220,Manufacturing,False
+1790,5220,Natural Resources,False
+1516,5220,Other,False
+1271,5220,Retail,False
+2325,5220,TMT,False
+2759,5220,Transport,False
+2214,7425,Biotech / Life Science,True
+2434,7425,Clean Tech / Renewable,True
+2855,7425,Consumer Goods,True
+2312,7425,Diversified,True
+1812,7425,Energy / Oil & Gas,True
+1810,7425,Financial Services,True
+2851,7425,Healthcare,True
+331,7425,Industrials,True
+2867,7425,Leisure,True
+3051,7425,Manufacturing,True
+1702,7425,Natural Resources,False
+2238,7425,Other,False
+2047,7425,Retail,True
+2023,7425,TMT,True
+3076,7425,Transport,True
+2131,3822,Biotech / Life Science,False
+1531,3822,Clean Tech / Renewable,False
+2521,3822,Consumer Goods,False
+2943,3822,Diversified,True
+356,3822,Energy / Oil & Gas,False
+1263,3822,Financial Services,False
+1704,3822,Healthcare,False
+1088,3822,Industrials,False
+1231,3822,Leisure,False
+1640,3822,Manufacturing,False
+513,3822,Natural Resources,False
+2981,3822,Other,False
+2772,3822,Retail,False
+2941,3822,TMT,False
+1335,3822,Transport,False
+3049,7884,Biotech / Life Science,True
+1208,7884,Clean Tech / Renewable,False
+1426,7884,Consumer Goods,True
+2043,7884,Diversified,True
+2392,7884,Energy / Oil & Gas,False
+1963,7884,Financial Services,True
+2059,7884,Healthcare,True
+274,7884,Industrials,True
+3047,7884,Leisure,True
+2965,7884,Manufacturing,True
+2697,7884,Natural Resources,False
+1054,7884,Other,True
+1794,7884,Retail,True
+222,7884,TMT,True
+1071,7884,Transport,False
+3084,19594,,
+648,22631,Agribusiness,False
+1208,22631,Biotech / Life Science,False
+1115,22631,Business Services,False
+1985,22631,Clean Tech / Renewable,False
+3132,22631,Consumer Goods,False
+3004,22631,Diversified,False
+2070,22631,Energy / Oil & Gas,False
+1152,22631,Financial Services,False
+1090,22631,Healthcare,False
+1753,22631,Industrials,False
+729,22631,Leisure,False
+2204,22631,Manufacturing,False
+221,22631,Natural Resources,False
+1829,22631,Other,False
+2669,22631,Retail,False
+1152,22631,TMT,True
+1595,22631,Transport,False
+2612,1665,Biotech / Life Science,True
+981,1665,Clean Tech / Renewable,False
+936,1665,Consumer Goods,False
+1919,1665,Diversified,True
+2618,1665,Energy / Oil & Gas,False
+1408,1665,Financial Services,False
+1169,1665,Healthcare,False
+1685,1665,Industrials,False
+1497,1665,Leisure,False
+487,1665,Manufacturing,False
+858,1665,Natural Resources,False
+1279,1665,Other,False
+978,1665,Retail,False
+2099,1665,TMT,True
+167,1665,Transport,False
+1621,13429,Agribusiness,False
+416,13429,Biotech / Life Science,False
+2387,13429,Business Services,False
+2286,13429,Clean Tech / Renewable,False
+2574,13429,Consumer Goods,False
+78,13429,Diversified,True
+1248,13429,Energy / Oil & Gas,False
+445,13429,Financial Services,True
+1358,13429,Healthcare,False
+46,13429,Industrials,False
+2160,13429,Leisure,False
+2109,13429,Manufacturing,False
+593,13429,Natural Resources,False
+1295,13429,Other,False
+1832,13429,Retail,False
+759,13429,TMT,False
+2530,13429,Transport,False
+2676,10941,Biotech / Life Science,True
+2906,10941,Business Services,True
+829,10941,Clean Tech / Renewable,True
+442,10941,Consumer Goods,True
+1203,10941,Diversified,True
+1988,10941,Energy / Oil & Gas,True
+2752,10941,Financial Services,True
+2101,10941,Healthcare,True
+3024,10941,Industrials,True
+103,10941,Leisure,True
+2500,10941,Manufacturing,False
+12,10941,Natural Resources,False
+1830,10941,Other,False
+2915,10941,Retail,False
+1796,10941,TMT,True
+1995,10941,Transport,False
+157,3988,Biotech / Life Science,False
+2469,3988,Clean Tech / Renewable,False
+1435,3988,Consumer Goods,True
+2700,3988,Diversified,True
+883,3988,Energy / Oil & Gas,False
+752,3988,Financial Services,True
+906,3988,Healthcare,True
+2373,3988,Industrials,False
+1597,3988,Leisure,False
+2382,3988,Manufacturing,False
+2241,3988,Natural Resources,False
+369,3988,Other,False
+1755,3988,Retail,False
+1463,3988,TMT,True
+510,3988,Transport,False
+2177,2333,Biotech / Life Science,False
+2718,2333,Clean Tech / Renewable,False
+732,2333,Consumer Goods,False
+2363,2333,Diversified,True
+2709,2333,Energy / Oil & Gas,False
+506,2333,Financial Services,False
+1258,2333,Healthcare,True
+2606,2333,Industrials,False
+920,2333,Leisure,False
+2462,2333,Manufacturing,False
+679,2333,Natural Resources,False
+1689,2333,Other,False
+402,2333,Retail,False
+2669,2333,TMT,True
+465,2333,Transport,False
+2202,6562,Biotech / Life Science,False
+2472,6562,Business Services,False
+2891,6562,Clean Tech / Renewable,False
+319,6562,Consumer Goods,False
+1331,6562,Diversified,False
+846,6562,Energy / Oil & Gas,False
+711,6562,Financial Services,False
+1449,6562,Healthcare,False
+1559,6562,Industrials,False
+254,6562,Leisure,False
+1254,6562,Manufacturing,False
+2082,6562,Natural Resources,False
+2071,6562,Other,False
+950,6562,Retail,False
+420,6562,TMT,True
+2075,6562,Transport,False
+2358,11518,Biotech / Life Science,False
+788,11518,Business Services,False
+2538,11518,Clean Tech / Renewable,False
+1588,11518,Consumer Goods,False
+62,11518,Diversified,False
+335,11518,Energy / Oil & Gas,False
+811,11518,Financial Services,False
+1695,11518,Healthcare,False
+1047,11518,Industrials,False
+517,11518,Leisure,False
+1535,11518,Manufacturing,False
+1591,11518,Natural Resources,False
+11,11518,Other,False
+570,11518,Retail,False
+3084,11518,TMT,True
+2510,11518,Transport,False
+1693,1393,Biotech / Life Science,True
+539,1393,Clean Tech / Renewable,False
+2819,1393,Consumer Goods,True
+1381,1393,Diversified,True
+2463,1393,Energy / Oil & Gas,True
+1072,1393,Financial Services,True
+2469,1393,Healthcare,True
+1089,1393,Industrials,True
+1017,1393,Leisure,False
+2205,1393,Manufacturing,False
+2054,1393,Natural Resources,False
+1710,1393,Other,False
+1936,1393,Retail,True
+2632,1393,TMT,True
+880,1393,Transport,True
+2387,6680,Biotech / Life Science,True
+97,6680,Clean Tech / Renewable,True
+2976,6680,Consumer Goods,True
+1121,6680,Diversified,True
+2085,6680,Energy / Oil & Gas,True
+1868,6680,Financial Services,True
+1344,6680,Healthcare,True
+392,6680,Industrials,True
+1633,6680,Leisure,True
+195,6680,Manufacturing,True
+2978,6680,Natural Resources,True
+150,6680,Other,True
+665,6680,Retail,True
+1962,6680,TMT,True
+1886,6680,Transport,True
+84,17029,Agribusiness,False
+1199,17029,Biotech / Life Science,False
+1342,17029,Business Services,False
+1465,17029,Clean Tech / Renewable,False
+1574,17029,Consumer Goods,False
+2400,17029,Diversified,True
+630,17029,Energy / Oil & Gas,False
+3131,17029,Financial Services,True
+196,17029,Healthcare,False
+1528,17029,Industrials,False
+2224,17029,Leisure,False
+2491,17029,Manufacturing,False
+219,17029,Natural Resources,False
+866,17029,Other,False
+34,17029,Retail,False
+2194,17029,TMT,False
+2003,17029,Transport,False
+2766,13880,Biotech / Life Science,False
+2803,13880,Clean Tech / Renewable,False
+2791,13880,Consumer Goods,False
+985,13880,Diversified,True
+1123,13880,Energy / Oil & Gas,False
+1719,13880,Financial Services,False
+1256,13880,Healthcare,False
+336,13880,Industrials,False
+147,13880,Leisure,False
+1132,13880,Manufacturing,False
+1338,13880,Natural Resources,False
+2746,13880,Other,False
+1344,13880,Retail,False
+3070,13880,TMT,False
+2655,13880,Transport,False
+1884,16726,Agribusiness,False
+2929,16726,Biotech / Life Science,False
+2483,16726,Business Services,False
+1296,16726,Clean Tech / Renewable,False
+2126,16726,Consumer Goods,False
+491,16726,Diversified,False
+1696,16726,Energy / Oil & Gas,False
+1241,16726,Financial Services,False
+751,16726,Healthcare,False
+1308,16726,Industrials,False
+1473,16726,Leisure,False
+2266,16726,Manufacturing,False
+2878,16726,Natural Resources,False
+2388,16726,Other,False
+490,16726,Retail,False
+434,16726,TMT,True
+1935,16726,Transport,False
+2174,1643,Biotech / Life Science,False
+2610,1643,Clean Tech / Renewable,True
+1006,1643,Consumer Goods,False
+2699,1643,Diversified,True
+2685,1643,Energy / Oil & Gas,True
+424,1643,Financial Services,False
+2336,1643,Healthcare,False
+2204,1643,Industrials,False
+2192,1643,Leisure,False
+94,1643,Manufacturing,True
+1143,1643,Natural Resources,False
+1463,1643,Other,False
+1600,1643,Retail,False
+313,1643,TMT,True
+2476,1643,Transport,True
+397,20738,Agribusiness,False
+3118,20738,Biotech / Life Science,False
+3101,20738,Business Services,False
+165,20738,Clean Tech / Renewable,False
+2042,20738,Consumer Goods,False
+2895,20738,Diversified,True
+2852,20738,Energy / Oil & Gas,False
+186,20738,Financial Services,False
+950,20738,Healthcare,False
+2792,20738,Industrials,False
+678,20738,Leisure,False
+1456,20738,Manufacturing,False
+1952,20738,Natural Resources,False
+2049,20738,Other,False
+1798,20738,Retail,False
+2688,20738,TMT,False
+1143,20738,Transport,False
+739,2861,Biotech / Life Science,False
+1220,2861,Clean Tech / Renewable,False
+2355,2861,Consumer Goods,False
+2318,2861,Diversified,True
+2733,2861,Energy / Oil & Gas,False
+2339,2861,Financial Services,True
+581,2861,Healthcare,False
+596,2861,Industrials,False
+2922,2861,Leisure,False
+1722,2861,Manufacturing,False
+1604,2861,Natural Resources,False
+36,2861,Other,False
+1730,2861,Retail,False
+2643,2861,TMT,False
+1882,2861,Transport,False
+2059,8968,Biotech / Life Science,False
+2744,8968,Business Services,False
+1261,8968,Clean Tech / Renewable,False
+1363,8968,Consumer Goods,False
+1270,8968,Diversified,True
+965,8968,Energy / Oil & Gas,False
+1663,8968,Financial Services,False
+704,8968,Healthcare,False
+420,8968,Industrials,False
+2496,8968,Leisure,False
+2654,8968,Manufacturing,False
+707,8968,Natural Resources,False
+2830,8968,Other,False
+3062,8968,Retail,False
+683,8968,TMT,True
+1138,8968,Transport,False
+86,18735,Agribusiness,False
+1634,18735,Biotech / Life Science,False
+2527,18735,Business Services,False
+1139,18735,Clean Tech / Renewable,False
+1133,18735,Consumer Goods,False
+898,18735,Diversified,True
+3035,18735,Energy / Oil & Gas,False
+214,18735,Financial Services,False
+1606,18735,Healthcare,False
+558,18735,Industrials,False
+2280,18735,Leisure,False
+2708,18735,Manufacturing,False
+714,18735,Natural Resources,False
+1773,18735,Other,False
+2723,18735,Retail,False
+203,18735,TMT,False
+852,18735,Transport,False
+1570,1627,Biotech / Life Science,False
+657,1627,Clean Tech / Renewable,False
+846,1627,Consumer Goods,False
+2833,1627,Diversified,True
+1234,1627,Energy / Oil & Gas,False
+1365,1627,Financial Services,False
+709,1627,Healthcare,False
+2552,1627,Industrials,False
+2871,1627,Leisure,False
+2669,1627,Manufacturing,False
+1366,1627,Natural Resources,False
+1905,1627,Other,False
+2698,1627,Retail,False
+2007,1627,TMT,False
+326,1627,Transport,False
+1742,13102,,
+164,2978,Biotech / Life Science,True
+1213,2978,Clean Tech / Renewable,True
+1147,2978,Consumer Goods,True
+887,2978,Diversified,True
+25,2978,Energy / Oil & Gas,True
+2366,2978,Financial Services,True
+2020,2978,Healthcare,True
+1693,2978,Industrials,True
+1318,2978,Leisure,True
+437,2978,Manufacturing,True
+23,2978,Natural Resources,True
+3042,2978,Other,False
+2857,2978,Retail,True
+3113,2978,TMT,True
+2916,2978,Transport,True
+303,9100,Biotech / Life Science,False
+2904,9100,Business Services,False
+1164,9100,Clean Tech / Renewable,False
+1578,9100,Consumer Goods,False
+2898,9100,Diversified,False
+27,9100,Energy / Oil & Gas,False
+2945,9100,Financial Services,False
+1142,9100,Healthcare,False
+96,9100,Industrials,False
+3112,9100,Leisure,False
+1975,9100,Manufacturing,False
+2605,9100,Natural Resources,False
+1745,9100,Other,False
+1348,9100,Retail,False
+822,9100,TMT,True
+149,9100,Transport,False
+3082,6376,Biotech / Life Science,True
+1049,6376,Business Services,False
+1642,6376,Clean Tech / Renewable,False
+1184,6376,Consumer Goods,False
+1735,6376,Diversified,True
+1973,6376,Energy / Oil & Gas,False
+353,6376,Financial Services,True
+1594,6376,Healthcare,True
+86,6376,Industrials,False
+2362,6376,Leisure,False
+139,6376,Manufacturing,False
+2173,6376,Natural Resources,False
+345,6376,Other,False
+1190,6376,Retail,False
+2567,6376,TMT,True
+436,6376,Transport,False
+1268,11636,Biotech / Life Science,False
+1590,11636,Clean Tech / Renewable,False
+626,11636,Consumer Goods,False
+1213,11636,Diversified,True
+386,11636,Energy / Oil & Gas,False
+227,11636,Financial Services,False
+323,11636,Healthcare,False
+2220,11636,Industrials,False
+965,11636,Leisure,False
+1348,11636,Manufacturing,False
+2733,11636,Natural Resources,False
+2076,11636,Other,False
+1154,11636,Retail,False
+925,11636,TMT,False
+1041,11636,Transport,False
+1657,12779,Biotech / Life Science,False
+606,12779,Business Services,False
+2775,12779,Clean Tech / Renewable,False
+437,12779,Consumer Goods,False
+2956,12779,Diversified,True
+2128,12779,Energy / Oil & Gas,True
+498,12779,Financial Services,False
+2783,12779,Healthcare,False
+2896,12779,Industrials,False
+1990,12779,Leisure,False
+354,12779,Manufacturing,False
+2920,12779,Natural Resources,False
+535,12779,Other,False
+2403,12779,Retail,False
+440,12779,TMT,False
+1141,12779,Transport,False
+2374,3652,Biotech / Life Science,False
+2578,3652,Clean Tech / Renewable,False
+2896,3652,Consumer Goods,False
+1728,3652,Diversified,True
+3044,3652,Energy / Oil & Gas,False
+893,3652,Financial Services,False
+2983,3652,Healthcare,False
+1723,3652,Industrials,False
+2992,3652,Leisure,False
+294,3652,Manufacturing,False
+2020,3652,Natural Resources,False
+122,3652,Other,False
+2262,3652,Retail,False
+283,3652,TMT,True
+497,3652,Transport,False
+2495,8768,Biotech / Life Science,True
+1921,8768,Clean Tech / Renewable,False
+32,8768,Consumer Goods,False
+3127,8768,Diversified,False
+2880,8768,Energy / Oil & Gas,False
+2107,8768,Financial Services,False
+1378,8768,Healthcare,False
+1263,8768,Industrials,False
+1329,8768,Leisure,False
+1812,8768,Manufacturing,True
+484,8768,Natural Resources,True
+290,8768,Other,False
+118,8768,Retail,False
+1333,8768,TMT,True
+813,8768,Transport,False
+759,8230,Biotech / Life Science,False
+1154,8230,Clean Tech / Renewable,False
+1294,8230,Consumer Goods,False
+147,8230,Diversified,True
+331,8230,Energy / Oil & Gas,False
+2845,8230,Financial Services,False
+2054,8230,Healthcare,False
+2369,8230,Industrials,False
+541,8230,Leisure,False
+1228,8230,Manufacturing,False
+1597,8230,Natural Resources,False
+1017,8230,Other,False
+384,8230,Retail,False
+1164,8230,TMT,True
+1168,8230,Transport,False
+1056,14669,Biotech / Life Science,False
+1614,14669,Business Services,True
+2114,14669,Clean Tech / Renewable,True
+3112,14669,Consumer Goods,True
+875,14669,Diversified,False
+1495,14669,Energy / Oil & Gas,False
+798,14669,Financial Services,True
+803,14669,Healthcare,True
+350,14669,Industrials,True
+2220,14669,Leisure,False
+511,14669,Manufacturing,True
+1697,14669,Natural Resources,False
+1811,14669,Other,False
+2879,14669,Retail,True
+3020,14669,TMT,True
+320,14669,Transport,False
